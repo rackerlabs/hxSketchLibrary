@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "54919BD3-B8AF-4EF7-981E-D44A47F69D0B",
+  "do_objectID": "7984AE41-CABF-440C-A28C-8AE44AAE3059",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 1421,
     "width": 622,
-    "x": -837,
+    "x": -139,
     "y": -41
   },
   "hasBackgroundColor": false,
@@ -43,47 +43,43 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "5E3245E7-A836-4F53-A480-F7A213F1EE4E"
+      "id": "33D1B875-ED5B-49BF-99C1-AA9B82A1880B"
     },
     {
       "class": "shapeGroup",
-      "id": "CC48F005-DBE9-41DA-AA4F-C84B0D8805C7"
+      "id": "4ECB9BC1-D040-43AA-A4CC-FAE59EDC3AEF"
     },
     {
       "class": "text",
-      "id": "692E95A6-CEF5-4649-96C3-4CA263FD69B2"
+      "id": "59B4C96F-EE78-47E4-8A45-3DE708303F0D"
     },
     {
       "class": "text",
-      "id": "C3260167-F890-468A-A2F3-28637508E220"
+      "id": "9F0FBED6-287A-48D3-8512-B3B2BA98BA03"
     },
     {
       "class": "text",
-      "id": "1D5BDC80-BCFC-4341-B5F1-6950C0233B61"
+      "id": "3A0E6F95-3C1E-4EEE-850E-7315C3872BC3"
     },
     {
       "class": "text",
-      "id": "B72911F5-1528-4141-801E-B32E626878A5"
+      "id": "416CCE81-BD80-4F57-BB72-10B99589DFA6"
     },
     {
       "class": "text",
-      "id": "1C06149D-536B-49C0-9840-F28929380C4F"
+      "id": "153979B6-8815-4E35-B2B1-736047E4EDD6"
     },
     {
       "class": "text",
-      "id": "CD9B2C08-4CA5-45E6-A912-CBB66F39E791"
+      "id": "D4F63BC0-FD7F-4D86-8AC9-08FEBB398891"
     },
     {
       "class": "bitmap",
-      "id": "183C4B5B-A970-44F8-B7E2-EEB1CEA7D4E6"
-    },
-    {
-      "class": "bitmap",
-      "id": "B4FB1452-E423-487E-9726-A65632998E8E"
+      "id": "E3DA6432-3030-4CC4-AC23-B826AC84A38C"
     },
     {
       "class": "group",
-      "id": "866FA8EE-2748-4103-9206-1CC789F50C22"
+      "id": "6CE7EFDB-D307-40C9-8E58-63C6EC3F246C"
     }
   ],
   "layout": {
@@ -101,7 +97,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
-  "name": "Setup",
+  "name": "Using the Library",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

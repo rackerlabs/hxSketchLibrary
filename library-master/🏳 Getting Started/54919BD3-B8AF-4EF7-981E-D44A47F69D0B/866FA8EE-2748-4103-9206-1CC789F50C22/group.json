@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "866FA8EE-2748-4103-9206-1CC789F50C22",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 143,
+    "width": 560,
+    "x": 32,
+    "y": 724
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F62C7E0D-0D0D-4121-B642-F606B961AF9D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2D8D65CC-9F44-4F8B-9DF1-464E21BE16FB"
+    },
+    {
+      "class": "group",
+      "id": "A3A704D0-76D1-4C6A-9BE3-974EB1D16B53"
+    }
+  ],
+  "name": "alertbar-info",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
