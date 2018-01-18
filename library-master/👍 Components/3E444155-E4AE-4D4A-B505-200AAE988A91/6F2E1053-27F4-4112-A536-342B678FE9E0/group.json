@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "6F2E1053-27F4-4112-A536-342B678FE9E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 478,
+    "width": 475,
+    "x": 237,
+    "y": 891
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "34F70D69-36EA-46A1-9D80-C22496EB5F0A"
+    },
+    {
+      "class": "group",
+      "id": "F5AC050F-0E7B-42FE-912D-58BFAD5C3432"
+    },
+    {
+      "class": "group",
+      "id": "A8D2AA3C-5EA8-43BA-9600-DFA31B0E6DD0"
+    },
+    {
+      "class": "text",
+      "id": "C1D4B5BC-6D00-484E-9E8E-F4FF1977C050"
+    }
+  ],
+  "name": "Alert Color Group",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

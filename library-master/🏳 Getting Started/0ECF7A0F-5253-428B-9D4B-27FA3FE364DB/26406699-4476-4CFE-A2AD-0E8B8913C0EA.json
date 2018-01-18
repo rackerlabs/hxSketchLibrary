@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQWVxfY1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18QHk5ldyBvciBicmVha2luZyB1cGRhdGUgcHJvY2Vzc9MREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ARgBmAEF8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxl0xESCiAlG6QhIiMkgAiACYAKgAukJicoKYAMgA2ADoAPgBBTcmVkVWFscGhhVGJsdWVVZ3JlZW4jP+2dnZ2glH8jP/AAAAAAAAAjP96enp6RJSwjP9AQEBAb65TSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TRGljdGlvbmFyeaI2OFhOU09iamVjdNIKOjs8XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAGIAS0xESCj5BRKI/QIATgBSiQkOAFYAWgBdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF5Sb2JvdG8tUmVndWxhctI0NUpLXxATTlNNdXRhYmxlRGljdGlvbmFyeaNKNjjSNDVNTl8QEE5TRm9udERlc2NyaXB0b3KiTzhfEBBOU0ZvbnREZXNjcmlwdG9y1VEKUlNUVVZXWFdaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIAcI0AzAAAAAAAAgBrSEgpaW6CAG9I0NV1eV05TQXJyYXmiXTjSNDVgYV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo2BiOF8QEE5TUGFyYWdyYXBoU3R5bGXSNDVkZV8QEk5TQXR0cmlidXRlZFN0cmluZ6JmOF8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFpalRyb290gAEACAARABoAIwAtADIANwBYAF4AZQBuAHUAggCEAIYAiACpALAAuADDAMcAyQDLAM0A0QDTANUA1wDZAQYBKAE7AUIBRwFJAUsBTQFPAVQBVgFYAVoBXAFeAWIBaAFtAXMBfAGFAY4BlwGcAacBsAG9AcAByQHOAesB7QHvAfYB+QH7Af0CAAICAgQCBgIcAjICOwJKAk8CZQJpAm4CgQKEApcCogKtAr8CzALeAuAC4gLrAu0C8gLzAvUC+gMCAwUDCgMkAygDOwNAA1UDWANtA38DggOHAAAAAAAAAgEAAAAAAAAAawAAAAAAAAAAAAAAAAAAA4k="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "26406699-4476-4CFE-A2AD-0E8B8913C0EA",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 50,
+    "x": 651,
+    "y": 760
+  },
+  "glyphBounds": "{{0, 5}, {46, 69}}",
+  "heightIsClipped": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "New or breaking upda",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "7854E0C2-E935-40C3-93BB-2A1764CD869D"
+  },
+  "textBehaviour": 1
+}

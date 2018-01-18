@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "51997AC4-4EBF-4628-801A-DA8F4335C50C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 601,
+    "width": 144,
+    "x": 820,
+    "y": 63
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "06EC8627-33CC-4F7A-A283-568B966F526F"
+    },
+    {
+      "class": "group",
+      "id": "31A8BF25-FB03-41DD-A5E6-921616AF3A74"
+    },
+    {
+      "class": "group",
+      "id": "ED12C906-1648-4B4C-999F-0B8188961B73"
+    },
+    {
+      "class": "group",
+      "id": "62FD17F5-F1B7-4579-AE95-DED9AB46809F"
+    },
+    {
+      "class": "group",
+      "id": "90115C42-692B-4DBA-B38D-F442B3673B7A"
+    },
+    {
+      "class": "text",
+      "id": "04C216AC-1A0D-4761-9837-668B889FD26B"
+    }
+  ],
+  "name": "Orange",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

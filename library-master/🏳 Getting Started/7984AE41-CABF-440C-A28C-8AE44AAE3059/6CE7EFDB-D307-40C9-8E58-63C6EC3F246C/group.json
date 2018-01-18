@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 143,
+    "height": 99,
     "width": 560,
-    "x": 28,
-    "y": 927
+    "x": 21,
+    "y": 813
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -32,6 +32,10 @@
     {
       "class": "shapeGroup",
       "id": "26E425ED-58AF-4398-9D89-3E22100B1DCC"
+    },
+    {
+      "class": "text",
+      "id": "5BE459B9-EE85-4C82-8D1F-AB2D4820BE7F"
     },
     {
       "class": "group",

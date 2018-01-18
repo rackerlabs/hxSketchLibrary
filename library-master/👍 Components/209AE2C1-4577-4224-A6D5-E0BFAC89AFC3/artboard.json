@@ -21,12 +21,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 985,
-    "width": 986,
-    "x": -440,
-    "y": -400
+    "width": 916,
+    "x": -391,
+    "y": -399
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,12 +39,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
-    {
-      "class": "text",
-      "id": "FE790AE4-0ABE-4EC7-8EF0-785D4F74B244"
-    },
     {
       "class": "text",
       "id": "188526AD-1E4C-4E8A-B23B-63BF0C9BE32F"
@@ -124,6 +120,14 @@
     {
       "class": "text",
       "id": "871123B0-F6C1-4836-8FAB-51246D56F7C5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FA2EFDC2-39F4-4D7E-AE3C-810217D9B358"
+    },
+    {
+      "class": "text",
+      "id": "20F62E0F-3913-439E-A637-1AD64BB440C7"
     }
   ],
   "name": "Typography",

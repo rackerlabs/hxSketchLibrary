@@ -20,9 +20,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1421,
+    "height": 978,
     "width": 622,
-    "x": -139,
+    "x": -122,
     "y": -41
   },
   "hasBackgroundColor": false,
@@ -80,6 +80,18 @@
     {
       "class": "group",
       "id": "6CE7EFDB-D307-40C9-8E58-63C6EC3F246C"
+    },
+    {
+      "class": "bitmap",
+      "id": "BE0CD6CC-4B51-4814-A0BD-55EE73BDE4B9"
+    },
+    {
+      "class": "text",
+      "id": "6B0EAAC0-8075-4E86-AF09-A6B865177E6B"
+    },
+    {
+      "class": "text",
+      "id": "FC4625AD-EF43-4C7B-B83D-8D1E4EA0DFB1"
     }
   ],
   "layout": {

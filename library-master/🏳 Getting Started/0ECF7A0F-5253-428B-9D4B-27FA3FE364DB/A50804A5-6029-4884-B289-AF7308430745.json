@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAcHR4fKywtLi8wMTIzOT1FRkdISUxQWVxfY1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18QE0FkZGVkIHRvIGh4RGVzaWduZXLTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAEYAZgBBfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZdMREgogJRukISIjJIAIgAmACoALpCYnKCmADIANgA6AD4AQU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/tnZ2doJR/Iz/wAAAAAAAAIz/enp6ekSUsIz/QEBAQG+uU0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc1xOU0RpY3Rpb25hcnmiNjhYTlNPYmplY3TSCjo7PF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBiAEtMREgo+QUSiP0CAE4AUokJDgBWAFoAXXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCgAAAAAAABeUm9ib3RvLVJlZ3VsYXLSNDVKS18QE05TTXV0YWJsZURpY3Rpb25hcnmjSjY40jQ1TU5fEBBOU0ZvbnREZXNjcmlwdG9yok84XxAQTlNGb250RGVzY3JpcHRvctVRClJTVFVWV1hXWk5TVGFiU3RvcHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACAHCNAMwAAAAAAAIAa0hIKWluggBvSNDVdXldOU0FycmF5ol040jQ1YGFfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNgYjhfEBBOU1BhcmFncmFwaFN0eWxl0jQ1ZGVfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiZjhfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRaWpUcm9vdIABAAgAEQAaACMALQAyADcAWABeAGUAbgB1AIIAhACGAIgAngClAK0AuAC8AL4AwADCAMYAyADKAMwAzgD7AR0BMAE3ATwBPgFAAUIBRAFJAUsBTQFPAVEBUwFXAV0BYgFoAXEBegGDAYwBkQGcAaUBsgG1Ab4BwwHgAeIB5AHrAe4B8AHyAfUB9wH5AfsCEQInAjACPwJEAloCXgJjAnYCeQKMApcCogK0AsEC0wLVAtcC4ALiAucC6ALqAu8C9wL6Av8DGQMdAzADNQNKA00DYgN0A3cDfAAAAAAAAAIBAAAAAAAAAGsAAAAAAAAAAAAAAAAAAAN+"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "A50804A5-6029-4884-B289-AF7308430745",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 131,
+    "x": 1578,
+    "y": 209
+  },
+  "glyphBounds": "{{0, 5}, {111, 12}}",
+  "heightIsClipped": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Added to hxDesigner",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "7854E0C2-E935-40C3-93BB-2A1764CD869D"
+  },
+  "textBehaviour": 1
+}

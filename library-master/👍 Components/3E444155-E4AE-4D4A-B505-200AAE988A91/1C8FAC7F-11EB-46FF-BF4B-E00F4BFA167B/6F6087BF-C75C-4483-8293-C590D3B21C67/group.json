@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "6F6087BF-C75C-4483-8293-C590D3B21C67",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 603,
+    "width": 145,
+    "x": 658,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "429F1F44-352C-4D7E-924F-40DFC57EE54A"
+    },
+    {
+      "class": "group",
+      "id": "9A61EB53-BDB6-49E9-A8D4-5ACFBA3EA32D"
+    },
+    {
+      "class": "group",
+      "id": "DD9E5CE5-0CBB-4559-ACC9-F22447A6FB09"
+    },
+    {
+      "class": "group",
+      "id": "FDCDFE67-6551-4930-BBEA-D36A97F7A333"
+    },
+    {
+      "class": "group",
+      "id": "9AB8A9A1-5309-4B1C-A0B7-26CBCB550B67"
+    },
+    {
+      "class": "text",
+      "id": "4953EB56-D6AB-4D12-9FFE-A0CA410BD5DC"
+    }
+  ],
+  "name": "Magenta",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
