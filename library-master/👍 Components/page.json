@@ -38,7 +38,51 @@
     },
     {
       "class": "artboard",
+      "id": "0461DF5B-FEAC-49D5-98EB-A5B8A9FF1C08"
+    },
+    {
+      "class": "artboard",
       "id": "3E444155-E4AE-4D4A-B505-200AAE988A91"
+    },
+    {
+      "class": "group",
+      "id": "A5FAC93C-C03C-4459-AB9B-DF1E074BFB2E"
+    },
+    {
+      "class": "group",
+      "id": "63218A12-7F89-46D9-942E-B6E9AE73FCB9"
+    },
+    {
+      "class": "group",
+      "id": "32FEACE1-41A5-406E-AA62-C8CF78BF8F1F"
+    },
+    {
+      "class": "group",
+      "id": "644F49EE-0CB3-49E6-BAD2-BD38976E051E"
+    },
+    {
+      "class": "group",
+      "id": "7417FD21-98C0-4F76-9914-790DDAF82056"
+    },
+    {
+      "class": "group",
+      "id": "6D4BDA82-9554-49FB-BA77-FE9CF9E98784"
+    },
+    {
+      "class": "text",
+      "id": "5C4F996F-6D5F-42F1-8850-1FA650E94D3D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9A3D72A-A925-4729-94FB-9A262649CA98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80D11B74-BE90-4B83-BDE2-078770A76DE4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7FD7EFD8-0217-42CC-896B-B6D0E46FDC7D"
     }
   ],
   "name": "👍 Components",
