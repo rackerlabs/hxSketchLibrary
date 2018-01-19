@@ -39,83 +39,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
-      "id": "188526AD-1E4C-4E8A-B23B-63BF0C9BE32F"
-    },
-    {
-      "class": "text",
-      "id": "36B0315B-C460-4197-8AEF-B13BBA367EC5"
-    },
-    {
-      "class": "text",
-      "id": "DF226D1E-0164-4C86-8F7A-C0D61DB89E41"
-    },
-    {
-      "class": "text",
-      "id": "8E45EC27-10B5-4004-A22F-EA9750D94507"
-    },
-    {
-      "class": "text",
-      "id": "90CED962-2C7F-4452-A556-3430ABB1542C"
-    },
-    {
-      "class": "text",
-      "id": "81D2A5A3-703F-4952-8E17-3DA5DEB6C51B"
-    },
-    {
-      "class": "text",
-      "id": "E79931C1-909E-49AD-90DF-4CE59363D40B"
-    },
-    {
-      "class": "text",
-      "id": "65258AC1-D276-4A64-8B95-E76931F97131"
-    },
-    {
-      "class": "text",
-      "id": "562073CC-E957-4A23-A9B2-A929ED6D21E1"
-    },
-    {
-      "class": "text",
-      "id": "55FFE2B5-8FF0-497D-A070-EAE5046D23E2"
-    },
-    {
-      "class": "text",
-      "id": "53E64D5F-2B75-4631-8DD2-A01224C74FAB"
-    },
-    {
-      "class": "text",
-      "id": "62AE860B-202B-40C8-8277-6759F2B3E41A"
-    },
-    {
-      "class": "text",
-      "id": "51F7C201-5DF1-49D8-8D22-9510D8F65C80"
-    },
-    {
-      "class": "text",
-      "id": "A7DF39E9-3940-4733-BE42-226C35C3E58C"
-    },
-    {
-      "class": "text",
-      "id": "EC76E50B-EB80-4734-9FF1-71B019221BDA"
-    },
-    {
-      "class": "text",
       "id": "DF74B2FD-4104-4FFB-B294-5623AF0FFC6A"
-    },
-    {
-      "class": "text",
-      "id": "FDC4334A-F55F-4F00-8E73-FBE2D0BA84BE"
-    },
-    {
-      "class": "text",
-      "id": "61DB045F-9E0A-4B41-9A3B-F898B1BF17B1"
-    },
-    {
-      "class": "text",
-      "id": "01B1303A-DB4A-4917-A3F8-E88485D74CF3"
     },
     {
       "class": "text",

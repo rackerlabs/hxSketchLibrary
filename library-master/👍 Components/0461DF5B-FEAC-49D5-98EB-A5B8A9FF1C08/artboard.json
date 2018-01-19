@@ -62,108 +62,48 @@
       "id": "4F1A0E34-77D6-4141-8AE7-A205AD8D334A"
     },
     {
-      "class": "group",
-      "id": "9A64DCCF-2C7E-4042-9552-4118EC96DD34"
-    },
-    {
-      "class": "group",
-      "id": "5104AD21-61CC-49A6-BA88-7CCC85580E4B"
-    },
-    {
-      "class": "group",
-      "id": "614FB9C1-5A8B-4A64-A480-D82D5E84B54E"
-    },
-    {
-      "class": "group",
-      "id": "AC4B06A7-1EFF-4EEF-8BAA-C540FD82A9DA"
-    },
-    {
-      "class": "group",
-      "id": "FA50729A-42D5-467B-888A-D2FB42132340"
-    },
-    {
-      "class": "group",
-      "id": "14436799-34E4-49D2-91BA-13391D927145"
-    },
-    {
-      "class": "group",
-      "id": "7386F1EF-D8A2-4ED3-8700-C84AE913FBAF"
-    },
-    {
-      "class": "text",
-      "id": "11FC3D07-0468-4D87-A68D-9827FB475CB8"
-    },
-    {
-      "class": "group",
-      "id": "001AA322-AE0A-44D5-83D9-CFF2B5D7123D"
-    },
-    {
-      "class": "group",
-      "id": "FDB81EFE-C1CE-4341-B391-F4B06E827ED3"
-    },
-    {
-      "class": "group",
-      "id": "917C9EFA-9160-4BBF-BDAD-4DEF8F2D24C3"
-    },
-    {
-      "class": "group",
-      "id": "686AB455-744B-46B0-84DF-4CFD91B6792B"
-    },
-    {
-      "class": "group",
-      "id": "577C17D1-1351-40DA-AAED-516E940DBD4E"
-    },
-    {
-      "class": "group",
-      "id": "594570CA-7517-47F3-B856-2DD49008F953"
-    },
-    {
-      "class": "text",
-      "id": "D5AA365E-8E9C-46EE-9D28-0F6DAC65A523"
-    },
-    {
-      "class": "group",
-      "id": "8B467583-D10A-40D3-BA77-E10870ED106C"
-    },
-    {
-      "class": "group",
-      "id": "F0797BCA-D381-4164-AB78-04021AE6A2F0"
-    },
-    {
-      "class": "group",
-      "id": "E461D566-E473-402F-AD5A-A54EC1F6BCFE"
-    },
-    {
-      "class": "group",
-      "id": "D2483896-29CB-4785-8DA3-0630AE05F43B"
-    },
-    {
-      "class": "group",
-      "id": "29F280FD-3F1C-45E4-A452-6CACF715DDCE"
-    },
-    {
-      "class": "group",
-      "id": "11293274-0E18-48D9-B1FA-C383EB23E01C"
-    },
-    {
-      "class": "text",
-      "id": "9913CCA0-9B7B-4608-8EC0-718A2F2D2892"
-    },
-    {
       "class": "text",
       "id": "AD2C0097-EC28-4F87-81B1-D8010535DCE5"
     },
     {
       "class": "group",
-      "id": "14CB6AED-4C58-4BAF-AFAF-FC3ACC42F536"
+      "id": "A5FAC93C-C03C-4459-AB9B-DF1E074BFB2E"
     },
     {
       "class": "group",
-      "id": "5C5ECC98-B539-4FA5-A044-322234CA429C"
+      "id": "63218A12-7F89-46D9-942E-B6E9AE73FCB9"
     },
     {
       "class": "group",
-      "id": "D37B1417-F933-418A-8657-A78EA8FB602D"
+      "id": "32FEACE1-41A5-406E-AA62-C8CF78BF8F1F"
+    },
+    {
+      "class": "group",
+      "id": "644F49EE-0CB3-49E6-BAD2-BD38976E051E"
+    },
+    {
+      "class": "group",
+      "id": "7417FD21-98C0-4F76-9914-790DDAF82056"
+    },
+    {
+      "class": "group",
+      "id": "6D4BDA82-9554-49FB-BA77-FE9CF9E98784"
+    },
+    {
+      "class": "text",
+      "id": "5C4F996F-6D5F-42F1-8850-1FA650E94D3D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50F6A599-9593-482D-88EB-1FD057A07200"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA24F349-168B-4921-A4E0-75224727CAFA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D244309C-0F53-42F0-8340-5CCE318A8324"
     }
   ],
   "name": "Buttons",

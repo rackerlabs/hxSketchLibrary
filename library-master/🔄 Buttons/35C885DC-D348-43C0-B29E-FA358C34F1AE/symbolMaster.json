@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 661,
+  "changeIdentifier": 1217,
   "do_objectID": "35C885DC-D348-43C0-B29E-FA358C34F1AE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,9 +22,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 32,
-    "width": 96,
-    "x": 102,
-    "y": 306
+    "width": 73,
+    "x": 103,
+    "y": 426
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -44,13 +44,17 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "E5E46C9F-4A82-4E0A-AA98-4EC6F1D962C5"
+      "class": "shapeGroup",
+      "id": "0D295660-70B5-4CBE-8B1C-5D58E6091257"
+    },
+    {
+      "class": "text",
+      "id": "3BB309D2-21FA-4E9F-B034-EFF3895FAD70"
     }
   ],
   "name": "/2 Hover Primary Standard",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
