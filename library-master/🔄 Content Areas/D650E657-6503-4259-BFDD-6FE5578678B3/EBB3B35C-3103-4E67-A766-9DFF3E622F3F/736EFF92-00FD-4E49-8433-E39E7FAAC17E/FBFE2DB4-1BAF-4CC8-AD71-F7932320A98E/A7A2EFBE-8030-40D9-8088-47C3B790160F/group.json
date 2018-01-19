@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "do_objectID": "A7A2EFBE-8030-40D9-8088-47C3B790160F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25.30515222482436,
+    "width": 28.40869565217393,
+    "x": 8.285869565217395,
+    "y": 11.98665105386417
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1F8F6771-186B-4A3F-A1AD-AB9AF03B9347"
+    },
+    {
+      "class": "group",
+      "id": "9C685409-7034-4877-944D-DD9692D87664"
+    }
+  ],
+  "name": "Facial Hair",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

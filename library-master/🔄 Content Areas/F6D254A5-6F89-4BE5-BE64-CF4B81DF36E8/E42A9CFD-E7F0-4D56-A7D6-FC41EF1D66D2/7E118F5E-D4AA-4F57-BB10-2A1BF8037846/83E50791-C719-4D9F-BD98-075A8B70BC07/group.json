@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "83E50791-C719-4D9F-BD98-075A8B70BC07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 13.59642857142857,
+    "width": 34.00298182142525,
+    "x": 5.440477091428039,
+    "y": 4.867857142857143
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C4421AE5-0A19-4C45-92C9-CE3D58702F2A"
+    },
+    {
+      "class": "group",
+      "id": "EAE0AC5A-C78E-4768-BF4E-0589CA7E6648"
+    },
+    {
+      "class": "group",
+      "id": "2586F2EC-3FCC-4DB1-A972-6C689CFEDE76"
+    }
+  ],
+  "name": "Shirt",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

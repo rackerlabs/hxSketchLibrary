@@ -1,0 +1,104 @@
+{
+  "_class": "rectangle",
+  "booleanOperation": 1,
+  "do_objectID": "29298BCE-9F04-4B25-AD3B-E1E06E5C2F6F",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fixedRadius": 4,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 11.78210075666403,
+    "width": 11.96454827923785,
+    "x": 11.06350498353171,
+    "y": -6.599448748310796
+  },
+  "hasConvertedToNewRoundCorners": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Round Corner Magi",
+  "nameIsFixed": true,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 1,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 4,
+        "curveFrom": "{0.01285851508494798, 0.012859790337629396}",
+        "curveMode": 1,
+        "curveTo": "{0.01285851508494798, 0.012859790337629396}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.01285851508494798, 0.012859790337629417}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 24,
+        "curveFrom": "{1.0184892714131735, -0.0072882166156773148}",
+        "curveMode": 1,
+        "curveTo": "{1.0184892714131735, -0.0072882166156773148}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1.0184892714131735, -0.0072882166156773148}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 4,
+        "curveFrom": "{0.96811876744508074, 0.96811081477436067}",
+        "curveMode": 1,
+        "curveTo": "{0.96811876744508074, 0.96811081477436067}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.96811876744508074, 0.96811081477436067}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 24,
+        "curveFrom": "{-0.0072896865022928706, 1.0184808321576173}",
+        "curveMode": 1,
+        "curveTo": "{-0.0072896865022928706, 1.0184808321576173}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{-0.0072896865022928636, 1.0184808321576173}"
+      }
+    ]
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": -45,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 72,
+            "enabled": 1,
+            "modelID": "constraint_313baaf6-43c1-43fd-a1d4-c790ed4d17d9",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 72
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_bb4a5f4d-b911-4f6c-8bd7-acf6df493ca5",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -251,6 +251,26 @@
     {
       "class": "symbolMaster",
       "id": "313E195B-A92A-4003-B4A8-CA69BED60739"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "32432942-4A46-409A-B4B3-48036DB2DFDD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2E341D12-45B5-4540-8CF3-46497707D274"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF21262B-7F41-4CDB-8347-EA7C406D0BA1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "55BEB9F9-43B3-4B77-AE39-5B3EC381A159"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DBBDC60-BE8A-46B0-B486-0EC7DD26244A"
     }
   ],
   "name": "🔄 Buttons",

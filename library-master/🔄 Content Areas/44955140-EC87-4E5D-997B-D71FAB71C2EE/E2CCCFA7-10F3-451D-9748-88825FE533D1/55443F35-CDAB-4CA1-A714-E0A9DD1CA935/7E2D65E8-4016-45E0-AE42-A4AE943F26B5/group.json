@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "do_objectID": "7E2D65E8-4016-45E0-AE42-A4AE943F26B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 7.385714285714283,
+    "width": 19.09130512458677,
+    "x": 0,
+    "y": 1.342857142857143
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "65EB7CA9-B7A9-4D93-8CD7-0E4C819DF64D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4AA99C2F-D933-463A-A140-8FA04D758DF9"
+    }
+  ],
+  "name": "👁 Eyes",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

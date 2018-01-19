@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "E42A9CFD-E7F0-4D56-A7D6-FC41EF1D66D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 47,
+    "width": 45.00082125429247,
+    "x": 1,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EA3FC248-FA2C-40D0-8452-DB3A9F22C28B"
+    },
+    {
+      "class": "group",
+      "id": "7E118F5E-D4AA-4F57-BB10-2A1BF8037846"
+    },
+    {
+      "class": "group",
+      "id": "2AD7F9B2-90B5-4A1B-9358-6A6442F0F14B"
+    },
+    {
+      "class": "group",
+      "id": "E82D2765-D91E-48EF-B632-B3C7AE59A60F"
+    }
+  ],
+  "name": "Avataaar/Default",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

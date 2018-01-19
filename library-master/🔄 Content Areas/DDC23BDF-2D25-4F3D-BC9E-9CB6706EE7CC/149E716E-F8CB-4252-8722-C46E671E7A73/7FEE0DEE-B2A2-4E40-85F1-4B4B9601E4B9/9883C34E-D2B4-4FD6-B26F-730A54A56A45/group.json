@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "9883C34E-D2B4-4FD6-B26F-730A54A56A45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 7.385714285714286,
+    "width": 18.40942687675601,
+    "x": 0.3409153125325188,
+    "y": 8.728571428571428
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CC360C54-DFC1-491C-8BF5-2E3431FF5FA7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0ACE5009-EC8E-4F6A-82F9-9B8A1FFE72F5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "017D9CD3-A4A9-4A43-91D6-BC489EFF508D"
+    }
+  ],
+  "name": "👄 Mouth",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
