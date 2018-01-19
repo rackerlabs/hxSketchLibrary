@@ -235,6 +235,22 @@
     {
       "class": "symbolMaster",
       "id": "7D433C5B-2202-4122-91C0-3CBCD68567CE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0E480DB1-F326-46BA-A5DE-BE7E5B5B7BE8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F2BFFAFB-21B9-416A-A4A3-A04295E41514"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DBDDDC98-D122-4656-84B4-F348C941AF07"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "313E195B-A92A-4003-B4A8-CA69BED60739"
     }
   ],
   "name": "🔄 Buttons",

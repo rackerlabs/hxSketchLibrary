@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "19A4FE81-E99A-4780-A8C8-2F3FF723FF8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 111,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 24,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 96,
+  "name": "Buttons / Standard",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B1A8DAFD-C32A-4477-84DD-411FF2E93A99",
+      "overrideName": "DBF1EE2F-5524-48A2-B2C6-6D282FB342DF/66ADDA34-A5EF-425A-8973-F7E530755CA5/65F9750C-891A-4D35-96C9-F8029785A951_stringValue",
+      "value": "Create Server"
+    }
+  ],
+  "overrides": {
+    "DBF1EE2F-5524-48A2-B2C6-6D282FB342DF": {
+      "66ADDA34-A5EF-425A-8973-F7E530755CA5": {
+        "65F9750C-891A-4D35-96C9-F8029785A951": "Create Server"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2ECE8A77-B9EC-462A-B232-3E08BA8F8BA2",
+  "verticalSpacing": 0
+}

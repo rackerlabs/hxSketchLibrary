@@ -1,6 +1,6 @@
 {
-  "_class": "group",
-  "do_objectID": "14E966A6-6E57-41C1-99EA-C310001F1D17",
+  "_class": "symbolInstance",
+  "do_objectID": "CFEC4B67-AFB3-4251-A74D-33BCE2EA9BFA",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,35 +15,36 @@
     "constrainProportions": false,
     "height": 32,
     "width": 96,
-    "x": 255,
+    "x": 0,
     "y": 0
   },
-  "hasClickThrough": false,
+  "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "2F07FC17-EED6-40A5-A79C-EDC3018E98D6"
-    },
-    {
-      "class": "text",
-      "id": "7BFC3338-16D0-41F7-9285-F5DD8B0A4C1B"
-    }
-  ],
-  "name": "Button/Standard/Tertiary Copy 2",
+  "masterInfluenceEdgeMaxXPadding": 24,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 96,
+  "name": "Buttons / Standard",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  }
+  },
+  "symbolID": "2ECE8A77-B9EC-462A-B232-3E08BA8F8BA2",
+  "verticalSpacing": 0
 }

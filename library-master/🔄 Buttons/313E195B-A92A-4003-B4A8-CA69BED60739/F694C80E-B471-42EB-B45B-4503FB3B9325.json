@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F694C80E-B471-42EB-B45B-4503FB3B9325",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 110,
+    "x": 104,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 24,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 96,
+  "name": "Buttons / Standard",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2DF9EFD-9EE1-4EFF-B02E-E111653E8735",
+      "overrideName": "DBF1EE2F-5524-48A2-B2C6-6D282FB342DF_symbolID",
+      "value": "0C496238-58E2-43DE-952A-20B61406DAFB"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2829F904-93AE-45B5-9411-D861DA070057",
+      "overrideName": "DBF1EE2F-5524-48A2-B2C6-6D282FB342DF/23FD4246-37F4-49A7-B318-85C9D4B4423E/6F0BCA8E-C025-436C-AA14-EB484E8E69D3_stringValue",
+      "value": "Previous Step"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "480B93A1-AC83-47E0-AADD-0A2483A694CE",
+      "overrideName": "A399329F-3259-4FF2-A488-632DEA94D482_symbolID",
+      "value": ""
+    }
+  ],
+  "overrides": {
+    "A399329F-3259-4FF2-A488-632DEA94D482": {
+      "symbolID": ""
+    },
+    "DBF1EE2F-5524-48A2-B2C6-6D282FB342DF": {
+      "23FD4246-37F4-49A7-B318-85C9D4B4423E": {
+        "6F0BCA8E-C025-436C-AA14-EB484E8E69D3": "Previous Step"
+      },
+      "symbolID": "0C496238-58E2-43DE-952A-20B61406DAFB"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2ECE8A77-B9EC-462A-B232-3E08BA8F8BA2",
+  "verticalSpacing": 0
+}

@@ -34,7 +34,7 @@
   ],
   "name": "Rectangle",
   "nameIsFixed": false,
-  "resizingConstraint": 27,
+  "resizingConstraint": 25,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

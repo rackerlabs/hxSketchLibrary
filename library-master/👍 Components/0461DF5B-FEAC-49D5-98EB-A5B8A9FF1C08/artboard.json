@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 985,
+    "height": 780,
     "width": 916,
     "x": -391,
-    "y": 669
+    "y": 636
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -82,14 +82,6 @@
       "id": "644F49EE-0CB3-49E6-BAD2-BD38976E051E"
     },
     {
-      "class": "group",
-      "id": "7417FD21-98C0-4F76-9914-790DDAF82056"
-    },
-    {
-      "class": "group",
-      "id": "6D4BDA82-9554-49FB-BA77-FE9CF9E98784"
-    },
-    {
       "class": "text",
       "id": "5C4F996F-6D5F-42F1-8850-1FA650E94D3D"
     },
@@ -104,6 +96,50 @@
     {
       "class": "symbolInstance",
       "id": "D244309C-0F53-42F0-8340-5CCE318A8324"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "155974CA-6D38-4A72-8DB9-9ACDEA6EB753"
+    },
+    {
+      "class": "text",
+      "id": "A8D2F7BF-2854-40B5-ABF3-D2E470718632"
+    },
+    {
+      "class": "text",
+      "id": "3751BB1F-71B6-4E41-802E-72775B6AA3D6"
+    },
+    {
+      "class": "text",
+      "id": "07A5010E-DAB5-46C6-AB14-0A17921FA8B9"
+    },
+    {
+      "class": "text",
+      "id": "86A88A76-ABE8-4745-87EB-33D6B48AE87D"
+    },
+    {
+      "class": "text",
+      "id": "EE108E7C-D9E7-4FDE-97F1-ACC9E3608138"
+    },
+    {
+      "class": "text",
+      "id": "24B636C6-2CC4-4479-9604-2C87475029DD"
+    },
+    {
+      "class": "text",
+      "id": "91CEEDC9-B2CB-43EC-8557-978F6ED51607"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EAF3C06A-8221-46B3-8AC7-1670BBDE776B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "82C577C4-7E5E-43D8-BD17-106F0A63D3C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "70321EEA-5ABB-4BBE-8F7D-537392744CA1"
     }
   ],
   "name": "Buttons",

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1791,
+  "changeIdentifier": 1801,
   "do_objectID": "2C3C002A-9E7D-4C3E-BDC4-36CEA9CEEA69",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "05B099E6-42A1-4BC5-95CF-2C4FC609364D"
     }
   ],
-  "name": "/4 Disable Secondary Standard Copy",
+  "name": "/4 Disable Secondary Standard",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
