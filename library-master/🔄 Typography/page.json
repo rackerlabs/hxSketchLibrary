@@ -32,6 +32,34 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "B70C89D1-3F09-4386-9408-A0B07141648C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "457D605C-8760-4443-ABCC-326CF28FE456"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4D58E23D-86F2-4947-B800-76982A604345"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "42500EA9-E2E7-485C-86E6-C639F1528460"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0C454018-3D95-4468-8B22-B97C91C6B234"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FCD84419-477C-438C-8FD1-B51C2A1B05B7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7D409A16-E5C3-4E35-8672-40A14845CD1F"
+    }
   ],
   "name": "🔄 Typography",
   "nameIsFixed": true,

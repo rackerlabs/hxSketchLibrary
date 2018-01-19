@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "70321EEA-5ABB-4BBE-8F7D-537392744CA1",
+  "do_objectID": "88F9DEA6-FFE7-4981-9C68-64E8F24A932A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 32,
-    "width": 214,
-    "x": 434,
-    "y": 406
+    "height": 16,
+    "width": 51,
+    "x": 43,
+    "y": 857
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,17 +24,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 24,
+  "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 96,
-  "name": "Buttons / Group / Secondary Tertiary",
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Sub-Body",
   "nameIsFixed": false,
   "overrideValues": [
   ],
   "overrides": {
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -45,6 +45,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "8F0816D2-C5EC-43C4-90C8-22F4FD3E3F4F",
+  "symbolID": "189E737E-6D80-4682-BE6E-689B3B30D7CA",
   "verticalSpacing": 0
 }
