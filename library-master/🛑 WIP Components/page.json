@@ -32,6 +32,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "00B0449D-386E-456A-A740-2E6327017F08"
+    },
+    {
+      "class": "text",
+      "id": "AA8EB2FB-8B4D-41C6-B997-5D7E2CB8DF6F"
+    }
   ],
   "name": "🛑 WIP Components",
   "nameIsFixed": true,
