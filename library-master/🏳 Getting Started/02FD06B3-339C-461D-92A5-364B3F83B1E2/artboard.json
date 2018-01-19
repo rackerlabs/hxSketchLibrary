@@ -1,6 +1,13 @@
 {
-  "_class": "page",
-  "do_objectID": "127D7C84-441D-49F4-94E2-DF09EF356CB2",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "02FD06B3-339C-461D-92A5-364B3F83B1E2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,18 +20,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 480,
+    "width": 600,
+    "x": -1532,
+    "y": -2060
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -348,
+    "base": -17,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -33,40 +42,25 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "1DE09FDD-BC26-4CE5-93D8-360E38E44700"
+      "class": "shapeGroup",
+      "id": "8F6EE91C-95D6-44D1-8EA4-56C113C3140C"
     },
     {
-      "class": "artboard",
-      "id": "54919BD3-B8AF-4EF7-981E-D44A47F69D0B"
+      "class": "group",
+      "id": "1928507F-4ECD-4FB6-AB01-5B135BE9D1C7"
     },
     {
-      "class": "artboard",
-      "id": "7984AE41-CABF-440C-A28C-8AE44AAE3059"
-    },
-    {
-      "class": "artboard",
-      "id": "14D9F631-A0DE-46F2-A004-B6F3EB65D869"
-    },
-    {
-      "class": "artboard",
-      "id": "4DDBB462-D58B-448B-9013-3EF7C2100A7E"
-    },
-    {
-      "class": "artboard",
-      "id": "0ECF7A0F-5253-428B-9D4B-27FA3FE364DB"
-    },
-    {
-      "class": "artboard",
-      "id": "02FD06B3-339C-461D-92A5-364B3F83B1E2"
+      "class": "text",
+      "id": "7C431378-25C0-4393-A191-EBFAD54F4625"
     }
   ],
-  "name": "🏳 Getting Started",
+  "name": "Helix Library thumbnail",
   "nameIsFixed": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
@@ -75,7 +69,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -218,
+    "base": 0,
     "guides": [
     ]
   }
