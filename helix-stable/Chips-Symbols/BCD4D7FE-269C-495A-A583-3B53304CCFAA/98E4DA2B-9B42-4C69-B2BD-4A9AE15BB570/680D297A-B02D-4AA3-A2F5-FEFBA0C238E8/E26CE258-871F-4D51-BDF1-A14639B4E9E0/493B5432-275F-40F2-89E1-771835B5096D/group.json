@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "493B5432-275F-40F2-89E1-771835B5096D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44.14642857142857,
+    "width": 36.64839609724577,
+    "x": 4.431899062922744,
+    "y": 2.685714285714285
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E93D1D3D-D19E-4706-A8A5-5643576FAC19"
+    },
+    {
+      "class": "group",
+      "id": "060B8045-D4E8-42CD-994A-11D8A21FBB0C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C198B8F-AF5C-4F84-B5EB-483E24E7AA64"
+    }
+  ],
+  "name": "Hair",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

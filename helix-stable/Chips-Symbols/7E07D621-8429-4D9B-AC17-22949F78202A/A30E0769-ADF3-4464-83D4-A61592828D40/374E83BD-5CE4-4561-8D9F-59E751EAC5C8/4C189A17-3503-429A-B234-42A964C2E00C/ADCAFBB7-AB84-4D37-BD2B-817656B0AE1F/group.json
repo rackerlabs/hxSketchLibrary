@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "ADCAFBB7-AB84-4D37-BD2B-817656B0AE1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 11.58214285714286,
+    "width": 23.18229907985537,
+    "x": 11.07977529551911,
+    "y": 0.6714285714285716
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "91F54E06-DFB8-4B71-B4F9-CE5C896D0150"
+    },
+    {
+      "class": "group",
+      "id": "A6FB7C6D-0BFC-4FDA-879A-7E697E293A7B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "693BE715-86FD-450F-8C24-6AD28F2FB74C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "124EF002-B22C-4ED9-AE97-A3862E161016"
+    }
+  ],
+  "name": "hat",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
