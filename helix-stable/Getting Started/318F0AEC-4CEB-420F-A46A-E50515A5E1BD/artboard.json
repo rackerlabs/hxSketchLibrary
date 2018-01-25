@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "8C9E1AC3-F2E9-4165-81C6-B6AF70264B89",
+  "do_objectID": "318F0AEC-4CEB-420F-A46A-E50515A5E1BD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,16 +20,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 978,
+    "height": 876,
     "width": 622,
-    "x": 1289,
-    "y": -41
+    "x": -827,
+    "y": 1669
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -1,
+    "base": 0,
     "guides": [
     ]
   },
@@ -39,53 +39,18 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "B0B86698-B369-4A5E-B087-BB35C8E55EF8"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C7AE8ABE-D375-43F9-937B-7383BDA7C078"
+      "id": "9E00B8B4-8A05-4BCC-BD82-C536498E17B9"
     },
     {
       "class": "text",
-      "id": "8BD41399-0454-490B-A43D-6273C0881174"
-    },
-    {
-      "class": "text",
-      "id": "A02E5E70-294C-4739-A685-B9AA95D938D1"
-    },
-    {
-      "class": "text",
-      "id": "DAD17B2B-84D6-4DDE-A451-5A5605341136"
-    },
-    {
-      "class": "text",
-      "id": "A967AE0B-8A38-4411-89AE-2ED654728973"
-    },
-    {
-      "class": "text",
-      "id": "97AE27D4-6356-4B05-B883-9AFFC75F4E34"
+      "id": "A870AA90-4DBF-414A-89EE-4B4DA006CEC7"
     }
   ],
-  "layout": {
-    "_class": "layoutGrid",
-    "columnWidth": 60,
-    "drawHorizontal": false,
-    "drawHorizontalLines": false,
-    "drawVertical": true,
-    "gutterHeight": 12,
-    "gutterWidth": 21.81818181818182,
-    "guttersOutside": false,
-    "horizontalOffset": 138.5,
-    "isEnabled": false,
-    "numberOfColumns": 12,
-    "rowHeightMultiplication": 5,
-    "totalWidth": 960
-  },
-  "name": "Update w/ github",
+  "name": "Contributing",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

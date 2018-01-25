@@ -34,10 +34,6 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "3532E435-4FB8-423B-8229-C549A0102E49"
-    },
-    {
-      "class": "artboard",
       "id": "D889E449-41A1-4E86-A0A7-45B5ACB9F686"
     },
     {
@@ -46,11 +42,19 @@
     },
     {
       "class": "artboard",
-      "id": "8C9E1AC3-F2E9-4165-81C6-B6AF70264B89"
+      "id": "90DDCE39-6624-4930-8565-40C53708885E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B39C643-BBD1-4152-A0BC-275AB5279986"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C2145F44-7B1D-482D-8540-CE8193124C2E"
     },
     {
       "class": "artboard",
-      "id": "90DDCE39-6624-4930-8565-40C53708885E"
+      "id": "318F0AEC-4CEB-420F-A46A-E50515A5E1BD"
     }
   ],
   "name": "Getting Started",

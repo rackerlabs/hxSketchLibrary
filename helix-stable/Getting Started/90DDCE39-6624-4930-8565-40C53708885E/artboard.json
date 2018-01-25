@@ -26,7 +26,7 @@
     "y": -41
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -1,
@@ -56,18 +56,6 @@
     {
       "class": "text",
       "id": "556568D8-260C-44CD-AA0D-66F319A78DC7"
-    },
-    {
-      "class": "text",
-      "id": "0CB8E358-E46E-4CD9-B2BC-15616A74A2D7"
-    },
-    {
-      "class": "text",
-      "id": "CEDB189B-EABB-4A0E-8C79-CAAE941E1E73"
-    },
-    {
-      "class": "text",
-      "id": "925327ED-3EEA-427A-BBD4-992B19A78DED"
     }
   ],
   "layout": {
@@ -85,7 +73,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 960
   },
-  "name": "Update w/ github Copy",
+  "name": "Library Updates",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
