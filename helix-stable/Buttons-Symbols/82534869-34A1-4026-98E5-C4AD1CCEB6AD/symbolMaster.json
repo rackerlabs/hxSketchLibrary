@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 290,
+  "changeIdentifier": 289,
   "do_objectID": "82534869-34A1-4026-98E5-C4AD1CCEB6AD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "FEC8D6E6-BC44-42F9-AC8D-9368EB9BE16A"
     }
   ],
-  "name": " _parts / Buttons /padding button 12",
+  "name": "/padding button 12",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

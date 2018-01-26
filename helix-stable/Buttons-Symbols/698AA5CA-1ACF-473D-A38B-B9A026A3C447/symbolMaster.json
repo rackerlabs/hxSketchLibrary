@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1722,
+  "changeIdentifier": 1721,
   "do_objectID": "698AA5CA-1ACF-473D-A38B-B9A026A3C447",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "3E762646-53BD-45CC-8D2F-E433DEFC9BEF"
     }
   ],
-  "name": " _parts / Buttons / Pressed Primary Compact",
+  "name": "/3 Pressed Primary Compact",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

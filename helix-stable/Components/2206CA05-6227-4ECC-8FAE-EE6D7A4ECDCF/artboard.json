@@ -21,12 +21,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 247,
-    "width": 264,
+    "width": 749,
     "x": 583,
     "y": 387
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1255,
+  "changeIdentifier": 1253,
   "do_objectID": "611D2DED-36D6-41AD-96B9-8DFD6F54C903",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "DC8E0492-D954-4DC2-B1F0-A30846DF01C2"
     }
   ],
-  "name": " _parts / Buttons / Secondary Compact",
+  "name": "/b Secondary Compact",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

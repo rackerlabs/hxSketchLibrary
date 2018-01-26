@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 621,
+  "changeIdentifier": 685,
   "do_objectID": "CF5E4453-DBE3-4926-A481-1AB57B358E7B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,8 +21,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 174,
-    "width": 235,
+    "height": 181,
+    "width": 245,
     "x": 1168,
     "y": -14
   },
@@ -56,8 +56,8 @@
       "id": "B6F04223-A8C6-4447-9E43-08096E656A1D"
     }
   ],
-  "name": " _parts / Popover /bottom-right",
-  "nameIsFixed": true,
+  "name": " /popover-bottom-right",
+  "nameIsFixed": false,
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

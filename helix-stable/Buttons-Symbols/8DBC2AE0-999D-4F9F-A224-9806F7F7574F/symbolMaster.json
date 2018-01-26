@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1347,
+  "changeIdentifier": 1345,
   "do_objectID": "8DBC2AE0-999D-4F9F-A224-9806F7F7574F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 275
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
       "id": "0236DCE4-BBCC-4991-AA47-3D558468BEF3"
     }
   ],
-  "name": " _parts / Buttons / Tertiary Compact",
+  "name": "/c Tertiary Compact",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

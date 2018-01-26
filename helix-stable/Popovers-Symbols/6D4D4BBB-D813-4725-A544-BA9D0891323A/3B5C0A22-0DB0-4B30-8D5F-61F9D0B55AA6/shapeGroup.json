@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 163,
     "width": 227,
-    "x": 0.5,
-    "y": 0
+    "x": 8.999999999999964,
+    "y": 9
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -34,7 +34,7 @@
   ],
   "name": "Rectangle 2",
   "nameIsFixed": false,
-  "resizingConstraint": 30,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

@@ -31,19 +31,8 @@
   "name": "Chip / Info",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "CFD69396-47EB-4216-986A-BC2430B08C2C",
-      "overrideName": "5E4085A3-0C99-4745-A4A5-6CBAFE3AFB77/6E13AE96-F11E-4D09-A7E7-81BEA1BEE5D5_symbolID",
-      "value": "BC06ACF7-6452-46AC-99EC-3E21DCA4FAFC"
-    }
   ],
   "overrides": {
-    "5E4085A3-0C99-4745-A4A5-6CBAFE3AFB77": {
-      "6E13AE96-F11E-4D09-A7E7-81BEA1BEE5D5": {
-        "symbolID": "BC06ACF7-6452-46AC-99EC-3E21DCA4FAFC"
-      }
-    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

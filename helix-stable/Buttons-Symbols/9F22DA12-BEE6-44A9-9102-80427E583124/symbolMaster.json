@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1872,
+  "changeIdentifier": 1871,
   "do_objectID": "9F22DA12-BEE6-44A9-9102-80427E583124",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "71DEB6DD-78DB-4F91-AA2C-73A50A6CBE33"
     }
   ],
-  "name": " _parts / Buttons / Pressed Tertiary Compact",
+  "name": "/3 Pressed Tertiary Compact",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

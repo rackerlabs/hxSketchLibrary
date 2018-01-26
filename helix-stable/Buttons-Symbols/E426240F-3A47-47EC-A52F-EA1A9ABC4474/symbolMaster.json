@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1799,
+  "changeIdentifier": 1798,
   "do_objectID": "E426240F-3A47-47EC-A52F-EA1A9ABC4474",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "5F21ED7A-5F04-418E-A023-81A3ABE70E2F"
     }
   ],
-  "name": " _parts / Buttons / Default Tertiary Compact",
+  "name": "/1 Default Tertiary Compact",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

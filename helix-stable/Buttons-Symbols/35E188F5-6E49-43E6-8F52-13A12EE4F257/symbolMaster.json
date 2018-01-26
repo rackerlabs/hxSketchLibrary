@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2151,
+  "changeIdentifier": 2149,
   "do_objectID": "35E188F5-6E49-43E6-8F52-13A12EE4F257",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "04776AF7-23E7-49E2-85A1-7BA1CBD6390B"
     }
   ],
-  "name": " _parts / Buttons / Tertiary Standard",
+  "name": "/c Tertiary Standard",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
