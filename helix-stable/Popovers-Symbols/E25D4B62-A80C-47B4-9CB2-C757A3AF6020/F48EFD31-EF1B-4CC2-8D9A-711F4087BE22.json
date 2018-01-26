@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 174,
-    "width": 235,
+    "height": 181,
+    "width": 245,
     "x": 0,
     "y": 0
   },
@@ -24,12 +24,12 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 2,
+  "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 4,
+  "masterInfluenceEdgeMinXPadding": 2,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": " /popover-left-top",
-  "nameIsFixed": false,
+  "name": "pointer",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

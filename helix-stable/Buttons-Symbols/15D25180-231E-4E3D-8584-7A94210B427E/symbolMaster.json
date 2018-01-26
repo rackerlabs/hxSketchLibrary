@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1884,
+  "changeIdentifier": 1883,
   "do_objectID": "15D25180-231E-4E3D-8584-7A94210B427E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "04D7D90B-8193-48C9-BAB8-781B556DD794"
     }
   ],
-  "name": " _parts / Buttons / Disable Primary Compact",
+  "name": "/4 Disable Primary Compact",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 452,
+  "changeIdentifier": 447,
   "do_objectID": "E671B56B-1D12-4DF2-97A4-01986E84C4EE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 112
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,7 +52,7 @@
       "id": "37F8689C-5ED4-4C73-AD35-D7350FE88772"
     }
   ],
-  "name": " _parts / Choice Tile / w Description - Error",
+  "name": " / 5 Choice Tile w Description - Error",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

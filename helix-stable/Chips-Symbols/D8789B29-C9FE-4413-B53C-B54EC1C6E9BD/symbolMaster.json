@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1514,
+  "changeIdentifier": 1355,
   "do_objectID": "D8789B29-C9FE-4413-B53C-B54EC1C6E9BD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 48,
     "width": 48,
-    "x": 116,
-    "y": 154
+    "x": 59,
+    "y": 348
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -48,7 +48,7 @@
       "id": "1C4C0BA6-1B5F-42E2-A2C9-0ADD9C1B10B7"
     }
   ],
-  "name": "_parts/chips/icons/dedicated",
+  "name": "/chips/icons/dedicated",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

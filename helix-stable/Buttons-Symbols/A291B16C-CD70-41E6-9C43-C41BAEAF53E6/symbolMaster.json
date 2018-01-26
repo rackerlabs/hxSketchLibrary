@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1581,
+  "changeIdentifier": 1580,
   "do_objectID": "A291B16C-CD70-41E6-9C43-C41BAEAF53E6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "9F592B7B-C06B-41D9-9163-4094095E6E57"
     }
   ],
-  "name": " _parts / Buttons / Hover Tertiary Large",
+  "name": "/2 Hover Tertiary Large",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

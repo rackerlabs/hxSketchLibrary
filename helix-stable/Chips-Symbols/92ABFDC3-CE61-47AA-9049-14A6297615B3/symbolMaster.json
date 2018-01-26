@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 299,
+  "changeIdentifier": 269,
   "do_objectID": "92ABFDC3-CE61-47AA-9049-14A6297615B3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 41,
     "width": 41,
-    "x": 59,
-    "y": 33
+    "x": 65,
+    "y": 54
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -48,7 +48,7 @@
       "id": "013365AE-4E63-4283-B11B-46169D5C93C0"
     }
   ],
-  "name": "_parts/chips/type/initial",
+  "name": "/chips/type/initial",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1712,
+  "changeIdentifier": 1711,
   "do_objectID": "555936CE-6D29-4A15-8E9C-3E7968497B33",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "6A6F36E3-4277-4564-BFED-B89657BD1170"
     }
   ],
-  "name": " _parts / Buttons / Hover Secondary Compact",
+  "name": "/2 Hover Secondary Compact",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
