@@ -31,8 +31,17 @@
   "name": "Popover",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF3A0AF4-40B6-4F20-AE0C-D6BF6E49B497",
+      "overrideName": "F48EFD31-EF1B-4CC2-8D9A-711F4087BE22_symbolID",
+      "value": "8553CACC-F04B-486A-A3B1-77569F328F6A"
+    }
   ],
   "overrides": {
+    "F48EFD31-EF1B-4CC2-8D9A-711F4087BE22": {
+      "symbolID": "8553CACC-F04B-486A-A3B1-77569F328F6A"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
