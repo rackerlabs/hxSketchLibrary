@@ -1,6 +1,7 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "90359A49-604C-42E6-86D0-57A54B7A416E",
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "A455E53A-127B-4C0A-8BF2-64ADC857462F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,41 +11,43 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 40,
-    "width": 40,
-    "x": 0,
-    "y": 0
+    "constrainProportions": true,
+    "height": 415,
+    "width": 480,
+    "x": 71,
+    "y": 288
   },
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/56dd473ecd2e07b7c191387fb5dddbf8c2bc9212",
+    "_ref_class": "MSImageData"
+  },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
-  "name": "/chips/colors/$gray100",
+  "name": "Bitmap",
   "nameIsFixed": false,
-  "overrideValues": [
-  ],
-  "overrides": {
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.5,
+      "type": 0
+    },
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "symbolID": "5DBB9654-02AE-4F9E-850B-ACA8208B22E5",
-  "verticalSpacing": 0
+  }
 }
