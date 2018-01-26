@@ -1,6 +1,7 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "5E4085A3-0C99-4745-A4A5-6CBAFE3AFB77",
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "F6FFDB6E-53F7-4018-AE9C-A7E0DEFA90D2",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,41 +11,35 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 40,
-    "width": 40,
+    "constrainProportions": true,
+    "height": 47,
+    "width": 47,
     "x": 0,
     "y": 0
   },
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/967da4c22f0db877ae50f008dbc205e644e24bf5",
+    "_ref_class": "MSImageData"
+  },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
-  "name": "/chips/type/avatar",
+  "name": "Bitmap",
   "nameIsFixed": false,
-  "overrideValues": [
-  ],
-  "overrides": {
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "symbolID": "9CAD01EC-DFB2-449E-ABDE-5D558F7AB0FF",
-  "verticalSpacing": 0
+  }
 }
