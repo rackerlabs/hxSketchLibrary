@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1617,
+  "changeIdentifier": 1618,
   "do_objectID": "447A823F-12C3-47DD-B2C4-1F40401B3CA2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "9F1D2CF1-C9F2-4A76-BD67-638A1FE181F4"
     }
   ],
-  "name": "/4 Disable Secondary Large",
+  "name": " _parts / Buttons / Disable Secondary Large",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

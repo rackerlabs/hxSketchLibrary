@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1505,
+  "changeIdentifier": 1506,
   "do_objectID": "0FD7AEC7-82C0-4086-98A5-6E9BED446F48",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "6E1534C8-7B89-45EF-9BC6-96457E9FC3C0"
     }
   ],
-  "name": "/4 Disable Tertiary Standard",
+  "name": " _parts / Buttons / Disable Tertiary Standard",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

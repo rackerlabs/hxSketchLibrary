@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1804,
+  "changeIdentifier": 1805,
   "do_objectID": "B5E03792-13AC-4165-9C2A-5721036ABA79",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "0EA34A8E-1F73-4A57-B88E-D8AE9D455832"
     }
   ],
-  "name": "/4 Disable Secondary Standard",
+  "name": " _parts / Buttons / Disable Secondary Standard",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

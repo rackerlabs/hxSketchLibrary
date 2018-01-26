@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 524,
+  "changeIdentifier": 525,
   "do_objectID": "60ED2CD2-37D3-47D1-AB99-51F7E6809A7D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "6B57DDCE-6C8F-4AA7-A2C2-D5C8588DE7A2"
     }
   ],
-  "name": " / panels / error hover",
+  "name": "_parts / panels / error hover",
   "nameIsFixed": true,
   "originalObjectID": "EA402C49-3ED5-41BC-ACA9-109738B15E6D",
   "resizesContent": false,
