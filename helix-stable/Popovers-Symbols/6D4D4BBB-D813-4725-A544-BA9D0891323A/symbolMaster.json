@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 810,
+  "changeIdentifier": 811,
   "do_objectID": "6D4D4BBB-D813-4725-A544-BA9D0891323A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -56,7 +56,7 @@
       "id": "0EF1CCE4-33FA-45E8-B26B-2970EE4EB9B1"
     }
   ],
-  "name": "/popover-right-top",
+  "name": " _parts / Popover / right-top",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

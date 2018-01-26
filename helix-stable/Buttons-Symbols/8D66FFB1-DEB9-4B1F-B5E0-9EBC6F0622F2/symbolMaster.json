@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2090,
+  "changeIdentifier": 2092,
   "do_objectID": "8D66FFB1-DEB9-4B1F-B5E0-9EBC6F0622F2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 277
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
       "id": "B5ED7D0A-59F7-4D5F-9B4A-95F977171BF4"
     }
   ],
-  "name": "/c Tertiary Large",
+  "name": " _parts / Buttons / Tertiary Large",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

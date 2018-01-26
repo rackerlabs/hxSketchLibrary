@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1343,
+  "changeIdentifier": 1344,
   "do_objectID": "69DC0C11-EF91-432C-8EBC-2E90AF974B21",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "ACA417A7-1F60-49CE-8C5C-180E4B67ACA4"
     }
   ],
-  "name": "/3 Pressed Secondary Standard",
+  "name": " _parts / Buttons / Pressed Secondary Standard",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

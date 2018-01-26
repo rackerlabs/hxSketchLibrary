@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1220,
+  "changeIdentifier": 1221,
   "do_objectID": "54FFC5A5-2626-446D-8014-A19C815E9E6B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "60424A67-2450-44F1-A82E-8B7FA71D6EF4"
     }
   ],
-  "name": "/2 Hover Primary Standard",
+  "name": " _parts / Buttons / Hover Primary Standard",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
