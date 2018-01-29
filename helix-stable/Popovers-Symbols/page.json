@@ -34,39 +34,39 @@
   "layers": [
     {
       "class": "symbolMaster",
-      "id": "E25D4B62-A80C-47B4-9CB2-C757A3AF6020"
+      "id": "EC337A80-8379-44B9-AF4E-8779F6CBFC81"
     },
     {
       "class": "symbolMaster",
-      "id": "35540D88-CE81-437E-8263-871DD527C810"
+      "id": "EC580FE8-F7A8-4E28-A034-146893AE768C"
     },
     {
       "class": "symbolMaster",
-      "id": "88FDC4E5-2676-41A7-810A-FEB4B680CCB7"
+      "id": "2786BF3F-6A9F-49FF-8E96-9F490D533F04"
     },
     {
       "class": "symbolMaster",
-      "id": "6D4D4BBB-D813-4725-A544-BA9D0891323A"
+      "id": "E2C61719-948D-490E-9A25-71E68A22B180"
     },
     {
       "class": "symbolMaster",
-      "id": "DD46255A-B29D-4681-AF7A-3786F3A1E224"
+      "id": "091B580F-CCB8-47BF-B78C-2FB693F1442A"
     },
     {
       "class": "symbolMaster",
-      "id": "4047A0D8-5B22-46C0-8D7D-B3881796D1EC"
+      "id": "317A1DE5-2E4C-41D7-BEC0-76650A4E76EF"
     },
     {
       "class": "symbolMaster",
-      "id": "641FCC03-4F36-4E26-BE7B-BB5B7B5CDE16"
+      "id": "242031BC-81C2-42ED-BC26-7B119B220E3E"
     },
     {
       "class": "symbolMaster",
-      "id": "116D82F5-62FB-4B56-A5FA-C22BCD32C3C6"
+      "id": "547AC612-098B-41BD-85EA-34CF972B4961"
     },
     {
       "class": "symbolMaster",
-      "id": "CF5E4453-DBE3-4926-A481-1AB57B358E7B"
+      "id": "4632EC77-9AAA-46A2-BB3C-E8284ED76B30"
     }
   ],
   "name": "Popovers-Symbols",
