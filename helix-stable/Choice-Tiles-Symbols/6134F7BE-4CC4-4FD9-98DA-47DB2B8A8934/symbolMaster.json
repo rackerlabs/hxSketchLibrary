@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 451,
+  "changeIdentifier": 456,
   "do_objectID": "6134F7BE-4CC4-4FD9-98DA-47DB2B8A8934",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 112
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,8 +48,8 @@
       "id": "D9A635FE-D887-43FC-93B0-731AC3C09A04"
     }
   ],
-  "name": " / 5 Choice Tile w Description - Hover",
-  "nameIsFixed": false,
+  "name": " _parts / Choice Tile / Description - Hover",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

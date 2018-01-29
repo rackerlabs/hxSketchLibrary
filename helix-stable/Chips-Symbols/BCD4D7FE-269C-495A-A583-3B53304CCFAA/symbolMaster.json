@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 817,
+  "changeIdentifier": 1101,
   "do_objectID": "BCD4D7FE-269C-495A-A583-3B53304CCFAA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 47,
     "width": 47,
     "x": 2,
-    "y": 163
+    "y": 91
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -41,15 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "98E4DA2B-9B42-4C69-B2BD-4A9AE15BB570"
+      "class": "bitmap",
+      "id": "944E89E0-2A18-4A86-ABC6-F51B45D27CF7"
     }
   ],
-  "name": "/chips/avatars/1",
-  "nameIsFixed": false,
+  "name": "_parts/chips/avatars/1",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

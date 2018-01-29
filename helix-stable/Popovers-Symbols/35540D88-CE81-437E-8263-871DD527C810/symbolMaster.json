@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1058,
+  "changeIdentifier": 998,
   "do_objectID": "35540D88-CE81-437E-8263-871DD527C810",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 181,
-    "width": 245,
+    "height": 174,
+    "width": 235,
     "x": 300,
     "y": -14
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -56,7 +56,7 @@
       "id": "65B08F2B-5AF8-41E0-8370-79309F3095CE"
     }
   ],
-  "name": " /popover-left-top",
+  "name": " _parts / Popover / left-top",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

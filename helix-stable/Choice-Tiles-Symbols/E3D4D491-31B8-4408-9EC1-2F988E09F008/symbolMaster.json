@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 523,
+  "changeIdentifier": 524,
   "do_objectID": "E3D4D491-31B8-4408-9EC1-2F988E09F008",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "EC14D762-9DA8-4378-90B0-E37F7D9C2219"
     }
   ],
-  "name": " / panels / hover",
+  "name": "_parts / panels / hover",
   "nameIsFixed": true,
   "originalObjectID": "38D81F63-45A9-4F3D-A9EE-589779C42349",
   "resizesContent": false,

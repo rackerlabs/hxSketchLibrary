@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 866,
+  "changeIdentifier": 869,
   "do_objectID": "A350319C-8F23-4AD2-BD66-669905D96B12",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "66B69CA2-D1F6-4218-955F-D258A8FAAD02"
     }
   ],
-  "name": " /  5 Choice Tile - No Description - Selected Copy",
+  "name": " _parts / Choice Tile / No Description - Selected",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
