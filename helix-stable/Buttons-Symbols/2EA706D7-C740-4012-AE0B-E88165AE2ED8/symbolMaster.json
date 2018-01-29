@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1744,
+  "changeIdentifier": 1745,
   "do_objectID": "2EA706D7-C740-4012-AE0B-E88165AE2ED8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "F3BA09AA-EED7-4A0C-B0E6-C541A4AD1D03"
     }
   ],
-  "name": "/1 Default Secondary Large",
+  "name": " _parts / Buttons / Default Secondary Large",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

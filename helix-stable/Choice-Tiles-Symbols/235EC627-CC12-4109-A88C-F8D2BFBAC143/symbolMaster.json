@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 213,
+  "changeIdentifier": 215,
   "do_objectID": "235EC627-CC12-4109-A88C-F8D2BFBAC143",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "6C65448E-5455-4408-BAA3-F08556E0C3F6"
     }
   ],
-  "name": "/ icon-placeholder-image",
+  "name": " _parts / icons / placeholder-image",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

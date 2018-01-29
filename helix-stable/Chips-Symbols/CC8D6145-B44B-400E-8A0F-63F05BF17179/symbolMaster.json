@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 728,
+  "changeIdentifier": 1327,
   "do_objectID": "CC8D6145-B44B-400E-8A0F-63F05BF17179",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,7 +24,7 @@
     "height": 41,
     "width": 41,
     "x": 2,
-    "y": 54
+    "y": 33
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -48,7 +48,7 @@
       "id": "6E13AE96-F11E-4D09-A7E7-81BEA1BEE5D5"
     }
   ],
-  "name": "/chips/type/avatar",
+  "name": "_parts/chips/type/avatar",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

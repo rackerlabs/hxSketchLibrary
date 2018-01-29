@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 8.420808771963095,
     "width": 16.35700000000361,
-    "x": 21,
-    "y": 2.000000000000002
+    "x": 12,
+    "y": 0.7500000000000018
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -93,8 +93,8 @@
           "opacity": 1
         },
         "isEnabled": true,
-        "offsetX": 0,
-        "offsetY": 3,
+        "offsetX": 3,
+        "offsetY": 0,
         "spread": 0
       }
     ],
