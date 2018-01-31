@@ -21,12 +21,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 330,
-    "width": 372,
+    "width": 446,
     "x": 997,
     "y": -399
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,12 +42,48 @@
   "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "symbolInstance",
+      "id": "91962C4E-8DFF-48FA-84A8-34E2682E1F04"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C2620FC2-BE23-45D1-9731-BBB2BF92386F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC445F82-08CB-4808-98C9-5626481B8946"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62C75387-3F26-43DE-895F-794C3F9B597B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "68A33301-5AB1-423B-9494-FEA9B5CE46B3"
+    },
+    {
       "class": "shapeGroup",
       "id": "3104CDE9-FC12-436A-8D0D-6DCAE212D370"
     },
     {
       "class": "text",
       "id": "4BFF0DFA-8A00-441A-8F77-2C7E33310D19"
+    },
+    {
+      "class": "text",
+      "id": "D6A97A71-D1E3-4148-943B-87CE9826262C"
+    },
+    {
+      "class": "text",
+      "id": "DF814AF7-DEBB-4F33-B003-C23188854449"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D88B5808-5188-4CF6-98F7-7B899C723FC7"
+    },
+    {
+      "class": "text",
+      "id": "E5C21A39-44E9-4587-9324-E43D84702F26"
     }
   ],
   "name": "Checkbox",

@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "B6BB8B48-024A-423C-9714-74B94C038A27",
+  "do_objectID": "1129F5DD-5FEE-4175-A542-5459DCFE7396",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 71,
-    "x": 41,
-    "y": 100
+    "width": 82,
+    "x": 30,
+    "y": 241
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,37 +28,21 @@
   "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 1,
-  "name": "Inputs / Selector",
+  "name": "Inputs / Selector / Base",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "F31EAC9F-2BE7-4426-89A7-3835F8D2CF17",
-      "overrideName": "3E2F0E0F-BE29-4816-A841-F7EB98821C1E_symbolID",
-      "value": "01D645CB-3CBE-460E-AF82-B4BF358BF1EE"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "33C12C1E-7949-4D56-817F-D641668CFF4C",
-      "overrideName": "3E2F0E0F-BE29-4816-A841-F7EB98821C1E/B663ABC5-26DA-4AF2-A734-29949ABFD2A8/BBDF2D6F-F00B-4E27-9C3B-6CCF433F95C3_stringValue",
-      "value": "LAST"
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "CA92DA9A-97F2-44F7-94D4-F85B9F8243C2",
-      "overrideName": "5357B1BE-282E-4B22-95E4-EEFE0273A25A_symbolID",
-      "value": ""
+      "do_objectID": "BF7BFFB0-BA39-41EA-AD74-C94F8BBDF3C0",
+      "overrideName": "3E2F0E0F-BE29-4816-A841-F7EB98821C1E/3487CFDF-4A86-4D04-964C-65B026AE19FC/91B9A136-09D3-4F87-BE3C-FAD2229C8159_stringValue",
+      "value": "FIRST"
     }
   ],
   "overrides": {
     "3E2F0E0F-BE29-4816-A841-F7EB98821C1E": {
-      "B663ABC5-26DA-4AF2-A734-29949ABFD2A8": {
-        "BBDF2D6F-F00B-4E27-9C3B-6CCF433F95C3": "LAST"
-      },
-      "symbolID": "01D645CB-3CBE-460E-AF82-B4BF358BF1EE"
-    },
-    "5357B1BE-282E-4B22-95E4-EEFE0273A25A": {
-      "symbolID": ""
+      "3487CFDF-4A86-4D04-964C-65B026AE19FC": {
+        "91B9A136-09D3-4F87-BE3C-FAD2229C8159": "FIRST"
+      }
     }
   },
   "resizingConstraint": 63,

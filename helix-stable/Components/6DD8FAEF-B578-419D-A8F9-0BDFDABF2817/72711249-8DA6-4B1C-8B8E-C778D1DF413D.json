@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "6CEAD878-AE95-44F5-8B88-70262E2DB263",
+  "do_objectID": "72711249-8DA6-4B1C-8B8E-C778D1DF413D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 82,
-    "x": 120,
-    "y": 161
+    "width": 91,
+    "x": 147,
+    "y": 241
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,48 +24,32 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 4,
-  "masterInfluenceEdgeMaxYPadding": 2,
-  "masterInfluenceEdgeMinXPadding": 2,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 1,
-  "name": "Inputs / Selector Copy 2",
+  "name": "Inputs / Selector / Base Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "overrideName": "3E2F0E0F-BE29-4816-A841-F7EB98821C1E/B663ABC5-26DA-4AF2-A734-29949ABFD2A8/BBDF2D6F-F00B-4E27-9C3B-6CCF433F95C3_stringValue",
-      "value": "LAST"
-    },
-    {
-      "_class": "overrideValue",
-      "overrideName": "5357B1BE-282E-4B22-95E4-EEFE0273A25A_symbolID",
-      "value": ""
-    },
-    {
-      "_class": "overrideValue",
-      "do_objectID": "012A2B2B-3C42-4C69-A67E-97B212AE6AED",
+      "do_objectID": "7995B4E9-30EF-4CDE-BF06-70696D20C1CA",
       "overrideName": "3E2F0E0F-BE29-4816-A841-F7EB98821C1E_symbolID",
       "value": "432EE21C-B858-4521-A521-9B32070248C7"
     },
     {
       "_class": "overrideValue",
-      "do_objectID": "8705B3A7-D7F2-4F02-86BC-D5088894A5C8",
-      "overrideName": "3E2F0E0F-BE29-4816-A841-F7EB98821C1E/C6A38984-6624-4CF9-B5C4-97D64C7DB1CD_symbolID",
-      "value": "D65DF971-EEFC-4EA8-9BA8-6B422D5FDC34"
+      "do_objectID": "1D8A0375-B9FD-4A7D-B663-F64282D81832",
+      "overrideName": "3E2F0E0F-BE29-4816-A841-F7EB98821C1E/C6A38984-6624-4CF9-B5C4-97D64C7DB1CD/98E18159-9DA5-437D-8C02-A8E39A35DF44_stringValue",
+      "value": "MIDDLE"
     }
   ],
   "overrides": {
     "3E2F0E0F-BE29-4816-A841-F7EB98821C1E": {
-      "B663ABC5-26DA-4AF2-A734-29949ABFD2A8": {
-        "BBDF2D6F-F00B-4E27-9C3B-6CCF433F95C3": "LAST"
-      },
       "C6A38984-6624-4CF9-B5C4-97D64C7DB1CD": {
-        "symbolID": "D65DF971-EEFC-4EA8-9BA8-6B422D5FDC34"
+        "98E18159-9DA5-437D-8C02-A8E39A35DF44": "MIDDLE"
       },
       "symbolID": "432EE21C-B858-4521-A521-9B32070248C7"
-    },
-    "5357B1BE-282E-4B22-95E4-EEFE0273A25A": {
-      "symbolID": ""
     }
   },
   "resizingConstraint": 63,

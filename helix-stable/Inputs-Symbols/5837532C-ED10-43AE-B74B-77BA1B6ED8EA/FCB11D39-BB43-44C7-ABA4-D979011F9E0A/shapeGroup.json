@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "D1346936-9E7D-4AF1-BBDE-A566CEAD74D1",
+  "do_objectID": "FCB11D39-BB43-44C7-ABA4-D979011F9E0A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,8 +16,8 @@
     "constrainProportions": false,
     "height": 40,
     "width": 79,
-    "x": 1207,
-    "y": -53
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,7 +29,7 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "6A330997-0D84-49EF-B090-8BBE7F58C325"
+      "id": "25FA21F3-C1EC-4ED2-823C-951493AC9A4B"
     }
   ],
   "name": "Fill 215 Copy 47",
