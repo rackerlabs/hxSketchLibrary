@@ -234,6 +234,14 @@
     },
     {
       "class": "symbolMaster",
+      "id": "1C370583-D378-4F47-ABBE-00E8B2893362"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E812D106-8F4C-4616-9F26-85C3DF612BB9"
+    },
+    {
+      "class": "symbolMaster",
       "id": "BA1E09E8-2C41-4F01-A3E3-572D3BF3F231"
     },
     {
@@ -271,6 +279,14 @@
     {
       "class": "symbolInstance",
       "id": "E285BB67-BB57-4E00-AD67-FF302BBE7FA3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1137CDBD-693F-4147-A9BE-B80B7C49B37C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BD4DE7A8-DDA8-4B23-98AE-CBFB47F2521F"
     }
   ],
   "name": "Buttons-Symbols",
