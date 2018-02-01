@@ -63,6 +63,18 @@
     {
       "class": "artboard",
       "id": "6DD8FAEF-B578-419D-A8F9-0BDFDABF2817"
+    },
+    {
+      "class": "artboard",
+      "id": "397699CE-9621-4515-BB24-11A904104783"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDAD639C-8193-4146-AC0E-69E718E76AD9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC1FCD2D-980C-4E5E-BB19-FADED8CAFBDF"
     }
   ],
   "name": "Components",

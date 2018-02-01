@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "687CC9AC-670E-4C90-94AC-5689629D7DFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 472,
+    "x": 35,
+    "y": 161
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Notifications / Alert Bar",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "128FDD47-06DB-46BF-83DB-5C37D64A5B5E",
+      "overrideName": "F968E879-D36D-4870-B27E-623DD4C763B2_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "819FA142-9C56-44C1-A2B4-F6866AB048F4",
+      "overrideName": "EB2A1C63-67A6-47F6-925F-744C84A54A61_symbolID",
+      "value": "B7190E36-3A89-4B39-826D-9DD2C2D52403"
+    }
+  ],
+  "overrides": {
+    "EB2A1C63-67A6-47F6-925F-744C84A54A61": {
+      "symbolID": "B7190E36-3A89-4B39-826D-9DD2C2D52403"
+    },
+    "F968E879-D36D-4870-B27E-623DD4C763B2": {
+      "symbolID": ""
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0EA8B417-4D68-4110-98FB-73E0DB631D81",
+  "verticalSpacing": 0
+}
