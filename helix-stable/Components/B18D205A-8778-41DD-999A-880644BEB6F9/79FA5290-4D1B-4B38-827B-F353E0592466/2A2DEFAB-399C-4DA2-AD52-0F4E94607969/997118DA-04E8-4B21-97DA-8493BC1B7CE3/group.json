@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "997118DA-04E8-4B21-97DA-8493BC1B7CE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56,
+    "width": 60,
+    "x": 1140.5,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "13DD755E-A9B2-4D60-9EF5-B21AAE4217C2"
+    },
+    {
+      "class": "text",
+      "id": "9F09EE98-A5DD-4E56-AF55-AE966BB9238C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5337BA6-6F41-4C34-B4AC-420AB6FDB162"
+    },
+    {
+      "class": "group",
+      "id": "015BFE59-B559-4E49-B02F-3D38B8D9E0B1"
+    }
+  ],
+  "name": "Billing",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

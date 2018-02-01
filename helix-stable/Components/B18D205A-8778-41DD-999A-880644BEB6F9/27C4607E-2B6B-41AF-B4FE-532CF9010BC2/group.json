@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "27C4607E-2B6B-41AF-B4FE-532CF9010BC2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 737,
+    "width": 1442,
+    "x": 40,
+    "y": 919
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AFD0EF6C-90CB-4DF9-A583-61C146012EC1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F33B0B3F-24F5-471C-B928-911EA07E2BA6"
+    }
+  ],
+  "name": "Layout/No-Eyebrow/Left-Nav-Wall+Desktop",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

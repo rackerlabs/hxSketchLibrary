@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "3D5AA4A4-31C2-4F75-BA5C-B02EC41BE68D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 737,
+    "width": 1200,
+    "x": 38,
+    "y": 146
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "434BBC2D-68D6-424B-B9C0-BC6BCC2ED017"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BA28162A-05C0-4FF3-9248-5DB7A2EFAD61"
+    }
+  ],
+  "name": "Layout/No-Eyebrow/Left-Nav/Tablet+Laptop",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
