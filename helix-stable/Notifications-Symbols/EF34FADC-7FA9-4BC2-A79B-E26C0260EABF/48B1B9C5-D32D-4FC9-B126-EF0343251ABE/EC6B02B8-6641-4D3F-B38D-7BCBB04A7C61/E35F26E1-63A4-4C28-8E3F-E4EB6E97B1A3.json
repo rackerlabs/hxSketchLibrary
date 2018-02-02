@@ -1,8 +1,8 @@
 {
-  "_class": "rectangle",
+  "_class": "shapePath",
   "booleanOperation": -1,
-  "do_objectID": "91BE2B09-2510-4A5E-8BAA-5E3E0D826EAE",
-  "edited": false,
+  "do_objectID": "E35F26E1-63A4-4C28-8E3F-E4EB6E97B1A3",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,16 +12,14 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 701.0000000000002,
+    "height": 62,
+    "width": 350,
     "x": 0,
     "y": 0
   },
-  "hasConvertedToNewRoundCorners": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -37,16 +35,26 @@
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{0, 0}",
+        "curveFrom": "{0, 1}",
         "curveMode": 1,
-        "curveTo": "{0, 0}",
+        "curveTo": "{0, 1}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{0, 0}"
+        "point": "{0, 1}"
       },
       {
         "_class": "curvePoint",
-        "cornerRadius": 0,
+        "cornerRadius": 2,
+        "curveFrom": "{1, 1}",
+        "curveMode": 1,
+        "curveTo": "{1, 1}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1, 1}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 2,
         "curveFrom": "{1, 0}",
         "curveMode": 1,
         "curveTo": "{1, 0}",
@@ -57,22 +65,12 @@
       {
         "_class": "curvePoint",
         "cornerRadius": 0,
-        "curveFrom": "{1, 1}",
+        "curveFrom": "{0, 0}",
         "curveMode": 1,
-        "curveTo": "{1, 1}",
+        "curveTo": "{0, 0}",
         "hasCurveFrom": false,
         "hasCurveTo": false,
-        "point": "{1, 1}"
-      },
-      {
-        "_class": "curvePoint",
-        "cornerRadius": 0,
-        "curveFrom": "{0, 1}",
-        "curveMode": 1,
-        "curveTo": "{0, 1}",
-        "hasCurveFrom": false,
-        "hasCurveTo": false,
-        "point": "{0, 1}"
+        "point": "{0, 0}"
       }
     ]
   },

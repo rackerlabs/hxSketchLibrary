@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 259,
+  "changeIdentifier": 1019,
   "do_objectID": "07E51517-CF9F-4C15-894F-1557DB50AEFC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,11 +27,13 @@
     "y": -231
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      20,
+      52
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -41,32 +43,20 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "0453A3C1-B5ED-4493-B676-5FCC8A7D1AD9"
+      "class": "symbolInstance",
+      "id": "CD63429F-2573-4A2A-98E7-490CC37C1814"
     },
     {
-      "class": "shapeGroup",
-      "id": "7BB1D6B1-6020-4E87-BB4B-8120DA83A171"
-    },
-    {
-      "class": "text",
-      "id": "7913F973-E64E-4FD4-8D20-47A125A96BE0"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "31C0E135-E567-4DBF-9B04-13EA85186521"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "E9D8B770-B5E8-48DA-86E9-7D3456CA0E8C"
+      "class": "symbolInstance",
+      "id": "7F0FCF6E-122E-49C3-9640-6CE5199A1AE6"
     }
   ],
   "name": "Notifications / Toast / no CTA",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

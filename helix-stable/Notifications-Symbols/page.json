@@ -61,16 +61,36 @@
       "id": "58376585-5FA1-4D8D-83C9-3A1359CEA43D"
     },
     {
-      "class": "text",
-      "id": "72A8F6CF-C573-4C98-AB5E-0612BE57DBF3"
-    },
-    {
       "class": "symbolMaster",
       "id": "07E51517-CF9F-4C15-894F-1557DB50AEFC"
     },
     {
       "class": "symbolMaster",
+      "id": "BFFB90E3-81BF-4A22-A7B8-612D8CEF8743"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "658752A7-ED6A-412C-8521-19342D8CE20E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EF34FADC-7FA9-4BC2-A79B-E26C0260EABF"
+    },
+    {
+      "class": "symbolMaster",
       "id": "E8958C15-BE35-4F9D-854F-95ECCFF92B6D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "13B6A494-47AB-4F7B-978F-3C03AD24300F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6A4DDBE7-45A1-40B2-BB7A-64B14019E0D0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "98F28843-3FDA-4F52-B49D-4C99F053DC29"
     }
   ],
   "name": "Notifications-Symbols",

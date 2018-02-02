@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1000,
+  "changeIdentifier": 1161,
   "do_objectID": "E8958C15-BE35-4F9D-854F-95ECCFF92B6D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -231
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,28 +44,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "8806F045-B9FB-45F5-8D16-BEA7F21AF8CC"
+      "class": "symbolInstance",
+      "id": "859B7ED4-5357-40DB-A3E2-075E7CBD7C7D"
     },
     {
-      "class": "text",
-      "id": "712B1EE3-BC0C-4D0F-9130-55A3A23D4A5C"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "070790B0-41ED-4914-9519-4ACAB0EE7D5D"
-    },
-    {
-      "class": "text",
-      "id": "78BB9180-48EC-4E9E-96C3-EAC3535825C6"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "907AC616-0AD5-4552-AEBC-20C0AD1A8327"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "747A4D43-CA7D-4B81-BB21-939486C14977"
+      "class": "symbolInstance",
+      "id": "A29218E5-9DCE-4B07-8465-B7DA885BF441"
     }
   ],
   "name": "Notifications / Toast / w CTA",

@@ -21,12 +21,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 724,
-    "width": 894,
+    "width": 700.9999999999999,
     "x": 1708,
     "y": -399
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -54,6 +54,10 @@
       "id": "17CEC8CF-F21C-4D16-BDF6-D63C0CF183AA"
     },
     {
+      "class": "text",
+      "id": "00ED7C97-5348-45A8-84DD-8BF792C0B108"
+    },
+    {
       "class": "symbolInstance",
       "id": "91A5C9DC-A2AD-47C0-8F73-903627F350FE"
     },
@@ -68,6 +72,18 @@
     {
       "class": "symbolInstance",
       "id": "355D08DD-B73E-42BF-B94F-3203D43E15E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39283299-6293-4C55-881F-E689028F41F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "88FE397D-D3B8-441B-B716-F05D6A9AEA29"
+    },
+    {
+      "class": "text",
+      "id": "6113059D-BC63-455D-BFC9-AD060866654E"
     }
   ],
   "name": "Notifications",

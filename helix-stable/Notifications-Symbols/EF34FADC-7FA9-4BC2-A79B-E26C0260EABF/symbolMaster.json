@@ -7,8 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 414,
-  "do_objectID": "4EA7370E-6F2A-412D-B6D2-66DA98562C15",
+  "changeIdentifier": 1019,
+  "do_objectID": "EF34FADC-7FA9-4BC2-A79B-E26C0260EABF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 25,
-    "width": 25,
-    "x": 130,
-    "y": 449
+    "height": 62,
+    "width": 350,
+    "x": 671,
+    "y": 172
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -41,16 +41,32 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "group",
+      "id": "48B1B9C5-D32D-4FC9-B126-EF0343251ABE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33AF536D-70FA-4CA1-B139-71554A2CF0B7"
+    },
+    {
+      "class": "text",
+      "id": "30CC7125-00EC-4E0D-9DA8-631172B2DD2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9FE1E245-071B-4242-88B5-4CA4D693CEBA"
+    },
+    {
       "class": "shapeGroup",
-      "id": "0F507EFC-C34E-4B5E-A39D-3BB82614EA64"
+      "id": "1F53AE0D-6F37-467C-B5ED-E23D6A426CFA"
     }
   ],
-  "name": "Colors / Purple / Purple 500",
+  "name": "_parts / Notifications / Toast-sm / Info",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -61,7 +77,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "7324EC65-788A-40B6-9B48-2A5C6887A0B4",
+  "symbolID": "8E730926-8F65-4D59-8702-A7606DF2B86A",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
