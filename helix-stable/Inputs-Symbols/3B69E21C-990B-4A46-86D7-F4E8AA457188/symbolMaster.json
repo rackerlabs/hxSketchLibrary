@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1608,
+  "changeIdentifier": 1609,
   "do_objectID": "3B69E21C-990B-4A46-86D7-F4E8AA457188",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -9
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -56,7 +56,7 @@
       "id": "960628B6-8C38-4083-85CB-5151BC6F0F62"
     }
   ],
-  "name": "_parts / Inputs / Text-Area / Default",
+  "name": "_parts / Inputs / Text-Area / Empty",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
