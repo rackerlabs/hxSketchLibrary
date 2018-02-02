@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 784,
+  "changeIdentifier": 785,
   "do_objectID": "ED8CA9BF-739D-49BF-9595-2B073FF50A2E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -111
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
       "id": "99DC3F0E-E56C-4836-90A3-8B3B710E60B5"
     }
   ],
-  "name": "Colors / Gray / Gray 1000",
+  "name": "Colors / Gray / Gray _1000",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

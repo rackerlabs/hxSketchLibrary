@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 771,
+    "height": 429,
     "width": 894,
     "x": 1515,
     "y": 389
@@ -48,6 +48,54 @@
     {
       "class": "text",
       "id": "A6C733BF-6968-4D29-86B1-3CDE9FA5D7A8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "212E0DFC-AF26-4C52-934E-2A066FA25EE8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25F04753-A3DF-47BE-8582-A7EB5C3A94AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "15791369-352E-4330-9908-115A2B29D467"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6052891-7691-41DD-8A82-0B1DC6AFB303"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4F29356-57BA-475A-9672-AB563A69BF07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5575226F-3140-4BBD-B30C-A82B8121D19E"
+    },
+    {
+      "class": "text",
+      "id": "AD808DC3-DE22-468D-976A-E7C598B7E960"
+    },
+    {
+      "class": "text",
+      "id": "FA698421-7AD7-4A48-91D7-294EF83E141E"
+    },
+    {
+      "class": "text",
+      "id": "52DC1692-026C-448F-BE23-5955CCCEB5B3"
+    },
+    {
+      "class": "text",
+      "id": "B235DB08-6FE7-45A6-A33F-84B96A2F2E8A"
+    },
+    {
+      "class": "text",
+      "id": "C37DE546-C1B0-4E12-9F30-AC6BE27490B6"
+    },
+    {
+      "class": "text",
+      "id": "A78D71D0-A33E-48A1-A0D2-73E8485609F9"
     }
   ],
   "name": "Inputs",
