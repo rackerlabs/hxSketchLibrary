@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "BA5E142A-991A-401E-94AE-A5A62109B39D",
+  "do_objectID": "9D225353-BDD0-4C67-BD15-DF3CD9D2DF37",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 737,
-    "width": 1200,
-    "x": 44,
-    "y": 146
+    "height": 100,
+    "width": 1440,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,20 +28,11 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Layout/No-Eyebrow/Left-Nav/Tablet+Laptop",
-  "nameIsFixed": false,
+  "name": "Columns",
+  "nameIsFixed": true,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "947AB96C-EB7B-4F8E-8D2A-88D6391B9A24",
-      "overrideName": "E34AF816-71AE-483E-B6D2-99ACFCA46E98_symbolID",
-      "value": "174F2515-A4C0-47FE-9D1C-C2E44B989B04"
-    }
   ],
   "overrides": {
-    "E34AF816-71AE-483E-B6D2-99ACFCA46E98": {
-      "symbolID": "174F2515-A4C0-47FE-9D1C-C2E44B989B04"
-    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -54,6 +45,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "1FD65BF0-9D88-462C-B89E-336D6FD37D36",
+  "symbolID": "1F6A58C2-2C0B-46E6-9CEB-C89B515F7F07",
   "verticalSpacing": 0
 }
