@@ -7,8 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3221,
-  "do_objectID": "FE2EFD1D-1D59-42EE-AFA2-9C1C7211F95C",
+  "changeIdentifier": 2459,
+  "do_objectID": "8C5778F2-B3C6-45ED-89B6-0CD41A376939",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,10 +24,10 @@
     "height": 204,
     "width": 480,
     "x": 894,
-    "y": 86
+    "y": 365
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,15 +44,15 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "D4388A7C-E777-497C-9502-CB72AF099CBB"
+      "class": "shapeGroup",
+      "id": "10B74C5F-E439-4353-A46D-D52F6262A07C"
     },
     {
-      "class": "symbolInstance",
-      "id": "8B1A771E-45D4-4388-A615-8CFA6EA1F2D6"
+      "class": "shapeGroup",
+      "id": "996DC4DD-43B4-4B68-92A1-FB51EDF81231"
     }
   ],
-  "name": "Tabs / Tabset Container",
+  "name": "_parts / tabs/ container / base",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
@@ -65,7 +65,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "F40C26CB-1D89-45C4-A7B3-CE8BC277E997",
+  "symbolID": "FC3BF09B-236B-4837-B5DD-60D48A155E1E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
