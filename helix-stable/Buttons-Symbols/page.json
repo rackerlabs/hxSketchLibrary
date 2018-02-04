@@ -250,6 +250,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "69A0B966-D3E4-445A-B2F5-2DB2991A8E72"
+    },
+    {
+      "class": "symbolMaster",
       "id": "BA1E09E8-2C41-4F01-A3E3-572D3BF3F231"
     },
     {
@@ -291,6 +295,10 @@
     {
       "class": "symbolMaster",
       "id": "575A1F79-C362-420D-B3A1-CD2A66B3FF06"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4A880669-0734-4DC5-9219-BE5D86D54FC4"
     }
   ],
   "name": "Buttons-Symbols",

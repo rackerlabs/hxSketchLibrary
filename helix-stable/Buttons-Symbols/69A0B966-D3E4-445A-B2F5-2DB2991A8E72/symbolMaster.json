@@ -7,8 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1052,
-  "do_objectID": "1C370583-D378-4F47-ABBE-00E8B2893362",
+  "changeIdentifier": 2190,
+  "do_objectID": "69A0B966-D3E4-445A-B2F5-2DB2991A8E72",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 48,
+    "height": 70,
     "width": 119,
-    "x": 1345,
-    "y": 476
+    "x": 1346,
+    "y": 899
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -45,14 +45,22 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "D4F1B574-8042-4A22-881F-68058E9DB585"
+      "id": "6D230E79-C2E8-4147-BBEA-24F1CAEA6617"
     },
     {
       "class": "shapeGroup",
-      "id": "0C0A410C-A618-4168-A0E5-EA34647C0ECB"
+      "id": "77B0E4C9-FC69-448D-BED0-A8F3FECB8D75"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DDED84E2-74A2-4C1C-936B-5F1FEF449A80"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "167A0493-0D53-4067-BEEB-9E2412E0E891"
     }
   ],
-  "name": "  _parts / Padding / 20px vert",
+  "name": "  _parts / Padding / Tabs inset",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
@@ -65,7 +73,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "A52AAD6E-04D0-479B-B97A-DE17AAE8A137",
+  "symbolID": "42FAA9C3-39B2-4A4D-A98F-38CD85FD3F74",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
