@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "456DD273-759F-4843-9408-6E0FBD5977A0",
+  "do_objectID": "59B839D7-66FD-45AD-82DB-EEDD292977CE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 28,
-    "width": 68,
-    "x": 3864,
-    "y": -213
+    "height": 50,
+    "width": 896,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -25,22 +25,37 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "32F8C2FE-11EA-4729-ABC0-551251BBBF9B"
+      "class": "rectangle",
+      "id": "AB425DAE-2209-4967-A312-6C5DDFCD64D1"
     }
   ],
-  "name": "Fill 219 Copy",
+  "name": "Rectangle",
   "nameIsFixed": false,
-  "originalObjectID": "32C3D11C-BA9A-4B46-8B4C-9E1765CB82E3",
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
     "endDecorationType": 0,
     "fills": [
       {
@@ -48,15 +63,15 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5176470588235293,
-          "green": 0.4862745098039217,
-          "red": 0.04705882352941178
+          "blue": 0.9686274509803922,
+          "green": 0.9568627450980391,
+          "red": 0.9019607843137255
         },
         "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
-        "patternFillType": 1,
+        "patternFillType": 0,
         "patternTileScale": 1
       }
     ],

@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "04F1F52A-0FC3-4F58-BDF7-018889C172F6",
+  "do_objectID": "1084A1F2-6DAA-411A-A9B4-0AA3BF9A3C52",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,11 +13,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 26,
-    "width": 26,
-    "x": 3864,
-    "y": -164
+    "constrainProportions": false,
+    "height": 30,
+    "width": 294.000002038011,
+    "x": 0,
+    "y": 0
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -28,14 +28,14 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "34A2A124-8F9C-4814-987F-3B49E0574C91"
+      "class": "rectangle",
+      "id": "CC3E413B-8FB7-4D2A-A531-BB4F380BC4CA"
     }
   ],
-  "name": "Fill 231 Copy",
+  "name": "Rectangle 4",
   "nameIsFixed": false,
-  "originalObjectID": "C3233CF6-5952-42D3-89B8-7D4692B6D996",
-  "resizingConstraint": 63,
+  "originalObjectID": "ACBE5160-3AF9-4A46-85BB-83C7CB49FEB4",
+  "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -47,9 +47,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4588235294117647,
-          "green": 0.4588235294117647,
-          "red": 0.4588235294117647
+          "blue": 0.1843137254901961,
+          "green": 0.1843137254901961,
+          "red": 0.8274509803921568
         },
         "fillType": 0,
         "isEnabled": true,
@@ -77,6 +77,28 @@
       }
     ],
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.1843137254901961,
+          "green": 0.1843137254901961,
+          "red": 0.8274509803921568
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
     "startDecorationType": 0
   },
   "windingRule": 1
