@@ -1,7 +1,7 @@
 {
   "_class": "rectangle",
   "booleanOperation": -1,
-  "do_objectID": "AB425DAE-2209-4967-A312-6C5DDFCD64D1",
+  "do_objectID": "AD2F2F73-A7CB-426C-81CF-DA71A8D6C82F",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -16,8 +16,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 1323,
+    "height": 20,
+    "width": 546,
     "x": 0,
     "y": 0
   },

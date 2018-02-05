@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "59B839D7-66FD-45AD-82DB-EEDD292977CE",
+  "do_objectID": "C410FB03-EBD9-402A-B920-CD481512F2B3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 50,
-    "width": 1323,
-    "x": 0,
-    "y": 0
+    "height": 8,
+    "width": 545,
+    "x": 2728,
+    "y": 936
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,12 +29,13 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "AB425DAE-2209-4967-A312-6C5DDFCD64D1"
+      "id": "6F04494A-1BAA-4192-95C4-A645FE09EBD0"
     }
   ],
-  "name": "Rectangle",
+  "name": "Rectangle 3 Copy 6",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "originalObjectID": "5D2611A4-FB5D-4C3D-8B77-93EDA4976C43",
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -63,9 +64,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.9686274509803922,
-          "green": 0.9568627450980391,
-          "red": 0.9019607843137255
+          "blue": 0.9215686274509803,
+          "green": 0.7607843137254902,
+          "red": 0.611764705882353
         },
         "fillType": 0,
         "isEnabled": true,
@@ -77,6 +78,12 @@
     ],
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "windingRule": 1
 }

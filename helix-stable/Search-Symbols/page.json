@@ -59,6 +59,54 @@
     {
       "class": "symbolMaster",
       "id": "C056DA6A-7DF7-48B1-8BE3-2D20695736CF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FA2F1A08-07BE-4D19-8242-41D03ACE97D7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "298F5B22-B025-44BC-9006-A19A6A3D77AE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CD7EE83A-7FE4-491C-88A2-B349FFA0A380"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E6C5EBDC-F99B-413F-B95A-F06FD2535381"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A25964E7-458D-4D05-9545-C924535ABACC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9506312B-6166-49AA-861D-1A77137F6F48"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "884DBE27-71B1-4B5A-A3AF-BEAC5CC3F676"
+    },
+    {
+      "class": "text",
+      "id": "4EE46543-4C58-4450-B3DC-7B6CF8690B6C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C410FB03-EBD9-402A-B920-CD481512F2B3"
+    },
+    {
+      "class": "text",
+      "id": "B1019504-9597-4596-8BE6-B0779F232A1F"
+    },
+    {
+      "class": "text",
+      "id": "02004271-B924-4B73-B1C7-34463166B556"
+    },
+    {
+      "class": "text",
+      "id": "E470BC25-96BA-4529-B602-CF1A0E6F995E"
     }
   ],
   "name": "Search-Symbols",
