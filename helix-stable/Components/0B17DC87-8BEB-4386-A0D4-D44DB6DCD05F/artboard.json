@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "2C6F78C6-1D0F-4512-8D80-2D38C7AE91D0",
+  "do_objectID": "0B17DC87-8BEB-4386-A0D4-D44DB6DCD05F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,7 +23,7 @@
     "height": 413,
     "width": 374,
     "x": 2464,
-    "y": -399
+    "y": 94
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,55 +42,51 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "60E9FF2F-2716-4FA9-BDEA-B9C78FAF2A4E"
-    },
-    {
       "class": "shapeGroup",
-      "id": "21A2D63C-E93B-481B-BBCD-F28B32EDC700"
+      "id": "6C2646E2-65E5-4C11-B23E-4BBC7BFAA932"
     },
     {
       "class": "text",
-      "id": "76A722EC-5096-4BED-929E-0DE8FDBE381C"
-    },
-    {
-      "class": "text",
-      "id": "8627A50D-4502-444C-8112-459840AB1843"
-    },
-    {
-      "class": "text",
-      "id": "5A80AF7C-D498-4CFA-836C-08D97EB6D089"
+      "id": "1CD46642-56E3-4722-AC1A-AA142B770F16"
     },
     {
       "class": "symbolInstance",
-      "id": "31A09C5E-0E19-482C-8A85-F99BA0E8CC98"
+      "id": "A88B0E47-E5FE-458E-A255-3904043764D1"
     },
     {
       "class": "symbolInstance",
-      "id": "357E80E0-ED2E-49E4-9CC8-69A6EBD96525"
+      "id": "B12ACC08-89AE-48FB-B683-E81E42C69159"
     },
     {
       "class": "symbolInstance",
-      "id": "04B526F9-F8CF-4F25-8D55-B3DB19527DA3"
+      "id": "3D327654-B191-46E6-A621-4B912D3E1094"
     },
     {
       "class": "symbolInstance",
-      "id": "7BBB1DBD-73EA-47BB-A170-88721C45556F"
-    },
-    {
-      "class": "text",
-      "id": "693E2E39-107E-4F00-8D07-B37CC16E3A75"
+      "id": "D6814C9F-7F95-45D9-A7DF-6915D2A10342"
     },
     {
       "class": "symbolInstance",
-      "id": "5B506913-BE18-43D2-AF85-0014374435EF"
+      "id": "189824D1-417B-4906-BE07-31259C9A3991"
     },
     {
       "class": "symbolInstance",
-      "id": "B3344FA7-AC8E-44D4-80E2-8071838CD779"
+      "id": "427DC3C5-576D-469E-A4F8-D2CE61F8D264"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "11973F0E-ECAE-413D-B8EA-849B82C86BE4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4DFB2641-47AA-4C8B-AAE8-CE1EE7FFE629"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0DA68354-81A9-483B-9D38-F02EE6F562F5"
     }
   ],
-  "name": "Radios",
+  "name": "Status Labels",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
