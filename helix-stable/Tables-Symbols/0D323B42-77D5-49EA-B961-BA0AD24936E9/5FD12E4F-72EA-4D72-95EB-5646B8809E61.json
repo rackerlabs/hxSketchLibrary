@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "EDE9D8B6-5343-4E2F-90D5-AF3841BA6B63",
+  "do_objectID": "5FD12E4F-72EA-4D72-95EB-5646B8809E61",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 55,
-    "width": 720,
-    "x": 0,
-    "y": 0
+    "height": 16,
+    "width": 16,
+    "x": 10,
+    "y": 24
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,13 +28,13 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Tables / Header / Check+Cog",
+  "name": "Inputs / Checkbox / Checkbox",
   "nameIsFixed": false,
   "overrideValues": [
   ],
   "overrides": {
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -45,6 +45,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "29920F67-EF8D-4E90-810B-3A1EE4FEB28A",
+  "symbolID": "819A21ED-3ABD-40F8-9AFA-69F725E8B134",
   "verticalSpacing": 0
 }

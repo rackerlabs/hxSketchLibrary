@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 359,
+  "changeIdentifier": 394,
   "do_objectID": "4A1970F5-D6D4-4FD1-BF86-4C7FFC89E6B5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,10 +24,10 @@
     "height": 51,
     "width": 720,
     "x": 1551,
-    "y": 98
+    "y": 144
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -72,7 +72,7 @@
       "id": "A918D09C-C565-465E-A811-E502E902BB8A"
     }
   ],
-  "name": "Tables / Row / Checkbox",
+  "name": "Tables / Row / Default / Checkbox",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

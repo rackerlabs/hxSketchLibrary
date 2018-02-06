@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1411,
+  "changeIdentifier": 2394,
   "do_objectID": "5C610732-FB46-44AE-99AE-941A6717467C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 404,
+    "height": 406,
     "width": 720,
     "x": 665,
     "y": -196
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,11 +45,11 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "986F9EDD-CB52-4E8F-B1D8-E1584B4FA397"
+      "id": "43F2D781-6460-4F17-9D08-3A3E6A743FF5"
     },
     {
       "class": "symbolInstance",
-      "id": "43F2D781-6460-4F17-9D08-3A3E6A743FF5"
+      "id": "7F2D4E12-D8C8-407F-97D6-06E3D77B5472"
     },
     {
       "class": "symbolInstance",
@@ -76,7 +76,7 @@
       "id": "9E3ED5B9-0B0A-4F6E-9EA0-C7F0DAC1C0B6"
     }
   ],
-  "name": "Tables / Mockup / Full",
+  "name": "Tables / Mockup / Default / Full",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
