@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 15,
-    "width": 15,
+    "height": 16,
+    "width": 16,
     "x": 0,
-    "y": 2
+    "y": 1
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,10 +24,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 1,
-  "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 94,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Type",
   "nameIsFixed": true,
   "overrideValues": [

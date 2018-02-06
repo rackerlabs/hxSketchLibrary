@@ -13,11 +13,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 10.49783375423182,
-    "width": 10.50047305883686,
-    "x": 1.749806682835469,
-    "y": 1.75006624576821
+    "constrainProportions": true,
+    "height": 8,
+    "width": 8.002011313699057,
+    "x": 3,
+    "y": 3
   },
   "hasClickThrough": false,
   "hasClippingMask": true,

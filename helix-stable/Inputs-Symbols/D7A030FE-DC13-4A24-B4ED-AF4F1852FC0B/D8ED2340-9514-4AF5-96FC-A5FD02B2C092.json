@@ -26,8 +26,8 @@
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 92,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Checkbox Group",
   "nameIsFixed": true,
   "overrideValues": [
