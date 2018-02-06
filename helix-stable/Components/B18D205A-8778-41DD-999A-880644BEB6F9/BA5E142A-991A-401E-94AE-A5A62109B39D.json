@@ -31,8 +31,17 @@
   "name": "Layout/No-Eyebrow/Left-Nav/Tablet+Laptop",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "947AB96C-EB7B-4F8E-8D2A-88D6391B9A24",
+      "overrideName": "E34AF816-71AE-483E-B6D2-99ACFCA46E98_symbolID",
+      "value": "174F2515-A4C0-47FE-9D1C-C2E44B989B04"
+    }
   ],
   "overrides": {
+    "E34AF816-71AE-483E-B6D2-99ACFCA46E98": {
+      "symbolID": "174F2515-A4C0-47FE-9D1C-C2E44B989B04"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,
