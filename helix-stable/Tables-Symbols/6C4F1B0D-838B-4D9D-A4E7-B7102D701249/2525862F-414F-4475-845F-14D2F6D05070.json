@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Tables / Row / Check + Cog Copy",
-  "nameIsFixed": false,
+  "name": "Row 2",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

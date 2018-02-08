@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Tables / Header / Condensed / Check+Cog",
-  "nameIsFixed": false,
+  "name": "Header",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

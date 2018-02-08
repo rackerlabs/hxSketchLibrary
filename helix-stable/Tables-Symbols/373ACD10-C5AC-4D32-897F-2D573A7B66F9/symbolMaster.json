@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2226,
+  "changeIdentifier": 2242,
   "do_objectID": "373ACD10-C5AC-4D32-897F-2D573A7B66F9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,15 +45,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "841CAC40-0435-4E17-85DF-D3A1ACD7FF54"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E4539537-7E78-4EBC-A520-19B4D153ABDF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A03F97D1-9233-437E-B123-16FE325A6BF9"
+      "id": "CCEDAE38-C090-49AB-8C01-FF21016DD5F5"
     },
     {
       "class": "symbolInstance",
@@ -61,7 +53,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "CCEDAE38-C090-49AB-8C01-FF21016DD5F5"
+      "id": "A03F97D1-9233-437E-B123-16FE325A6BF9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E4539537-7E78-4EBC-A520-19B4D153ABDF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "841CAC40-0435-4E17-85DF-D3A1ACD7FF54"
     },
     {
       "class": "symbolInstance",

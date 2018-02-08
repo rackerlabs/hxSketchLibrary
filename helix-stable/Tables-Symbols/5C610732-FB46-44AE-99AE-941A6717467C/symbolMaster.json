@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2425,
+  "changeIdentifier": 2452,
   "do_objectID": "5C610732-FB46-44AE-99AE-941A6717467C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,7 +45,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "43F2D781-6460-4F17-9D08-3A3E6A743FF5"
+      "id": "DA4EC1EA-6F11-42DF-B3C9-A3EBCBB1FDA1"
     },
     {
       "class": "symbolInstance",
@@ -53,15 +53,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "DA4EC1EA-6F11-42DF-B3C9-A3EBCBB1FDA1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "01BA7791-C828-4E7E-9FD8-2A42101DE70E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CDCB30DE-D9B8-477C-AD74-AFBBFE8A9C26"
+      "id": "9E3ED5B9-0B0A-4F6E-9EA0-C7F0DAC1C0B6"
     },
     {
       "class": "symbolInstance",
@@ -73,7 +65,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "9E3ED5B9-0B0A-4F6E-9EA0-C7F0DAC1C0B6"
+      "id": "CDCB30DE-D9B8-477C-AD74-AFBBFE8A9C26"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "01BA7791-C828-4E7E-9FD8-2A42101DE70E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43F2D781-6460-4F17-9D08-3A3E6A743FF5"
     }
   ],
   "name": "Tables / Mockup / Default / Full",

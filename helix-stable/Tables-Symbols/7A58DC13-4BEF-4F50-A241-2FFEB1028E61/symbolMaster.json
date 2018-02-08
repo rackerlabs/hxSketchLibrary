@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2265,
+  "changeIdentifier": 2291,
   "do_objectID": "7A58DC13-4BEF-4F50-A241-2FFEB1028E61",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,27 +45,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "7DBD46C5-87F8-4A23-8716-FDE2714FE042"
-    },
-    {
-      "class": "symbolInstance",
       "id": "088D088A-C51F-4627-AA30-420BF8039A00"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BE7E060A-3FE0-4150-B870-98B3F5A10CB0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0B08DE4A-C7F4-46BA-B627-46D38D702547"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6508F2D8-42BE-4C8F-9A07-C77D241372ED"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4A5D7746-97ED-432F-9E28-1A6A0E1C89C4"
     },
     {
       "class": "symbolInstance",
@@ -73,7 +53,27 @@
     },
     {
       "class": "symbolInstance",
+      "id": "4A5D7746-97ED-432F-9E28-1A6A0E1C89C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6508F2D8-42BE-4C8F-9A07-C77D241372ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0B08DE4A-C7F4-46BA-B627-46D38D702547"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE7E060A-3FE0-4150-B870-98B3F5A10CB0"
+    },
+    {
+      "class": "symbolInstance",
       "id": "5CFC59AB-1E6F-469C-BC25-61A0C066FB50"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7DBD46C5-87F8-4A23-8716-FDE2714FE042"
     }
   ],
   "name": "Tables / Mockup / Condensed / Full",

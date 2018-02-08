@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Tables / Row / Check + Cog",
-  "nameIsFixed": false,
+  "name": "Row 1",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {
