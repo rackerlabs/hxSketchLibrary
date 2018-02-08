@@ -27,7 +27,7 @@
   "masterInfluenceEdgeMaxXPadding": 1,
   "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 29,
+  "masterInfluenceEdgeMinYPadding": 1,
   "name": "Inputs / Checkbox / Checkbox Copy",
   "nameIsFixed": false,
   "overrideValues": [

@@ -27,7 +27,7 @@
   "masterInfluenceEdgeMaxXPadding": 32,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 68,
+  "masterInfluenceEdgeMinYPadding": 174,
   "name": "Inputs / Checkbox / Checkbox Group",
   "nameIsFixed": false,
   "overrideValues": [
