@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2236,
+  "changeIdentifier": 2265,
   "do_objectID": "7A58DC13-4BEF-4F50-A241-2FFEB1028E61",
   "exportOptions": {
     "_class": "exportOptions",
@@ -78,7 +78,7 @@
   ],
   "name": "Tables / Mockup / Condensed / Full",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
