@@ -46,6 +46,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "DD50D178-A75A-4388-B564-6B1295187F5B"
+    },
+    {
+      "class": "symbolMaster",
       "id": "42500EA9-E2E7-485C-86E6-C639F1528460"
     },
     {
@@ -59,6 +63,22 @@
     {
       "class": "symbolMaster",
       "id": "4D58E23D-86F2-4947-B800-76982A604345"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2CF7AF8B-1B29-4FCF-8FBF-AF6B7BC5A2CF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1793B45E-6B0A-4768-8BD6-E72FAE3BC92D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "702E5CFC-7BEC-4985-86E0-5CD102A5BC36"
+    },
+    {
+      "class": "group",
+      "id": "2F1F96C7-197A-40EF-90C8-867FA92422E0"
     }
   ],
   "name": "Typography-Symbols",

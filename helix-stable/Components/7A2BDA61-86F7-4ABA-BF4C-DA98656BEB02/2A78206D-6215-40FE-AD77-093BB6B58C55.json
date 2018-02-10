@@ -31,17 +31,8 @@
   "name": "Search / Search-term",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "28865A68-2EC6-4C0A-9379-ED5718DBE8CE",
-      "overrideName": "6C20E492-0A37-4567-ABDA-53882AECEFE1_symbolID",
-      "value": "DA57B83E-5128-44C1-ABE0-4487D47EE3F1"
-    }
   ],
   "overrides": {
-    "6C20E492-0A37-4567-ABDA-53882AECEFE1": {
-      "symbolID": "DA57B83E-5128-44C1-ABE0-4487D47EE3F1"
-    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

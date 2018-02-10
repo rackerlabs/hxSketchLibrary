@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "E104D703-F68E-4BD3-BFB6-8724CCF21FD4",
+  "do_objectID": "0FEDFF58-0264-454D-B04B-1C1D16EF0A45",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 194,
-    "width": 137,
-    "x": -331,
-    "y": 142
+    "height": 48,
+    "width": 417,
+    "x": 176,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,15 +24,22 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 11,
-  "masterInfluenceEdgeMaxYPadding": 6,
-  "masterInfluenceEdgeMinXPadding": 3,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Actions-menu / Advanced",
-  "nameIsFixed": false,
+  "name": "Value",
+  "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DC67595C-EB0F-4093-8E2B-D09359CC31F5",
+      "overrideName": "A9F6F4EF-8FDD-4233-BA28-692940463598_stringValue",
+      "value": "Dual line value goes here; Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
   ],
   "overrides": {
+    "A9F6F4EF-8FDD-4233-BA28-692940463598": "Dual line value goes here; Lorem ipsum dolor sit amet, consectetur adipiscing elit."
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,6 +52,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "CC67D19B-D200-41A1-9A4C-F3FB476786DA",
+  "symbolID": "DE15D238-E008-45DC-BE74-095F378E923A",
   "verticalSpacing": 0
 }
