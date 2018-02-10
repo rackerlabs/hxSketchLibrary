@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 308,
+  "changeIdentifier": 310,
   "do_objectID": "72C28446-C262-4340-80B4-2B7663B0A18C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "1DB90D80-5790-4C24-BBBA-DC6662C63BDF"
     }
   ],
-  "name": "_parts/chips/type/icon",
+  "name": "_parts/Chips/type/icon",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

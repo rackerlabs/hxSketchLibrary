@@ -95,6 +95,10 @@
     {
       "class": "symbolMaster",
       "id": "6134F7BE-4CC4-4FD9-98DA-47DB2B8A8934"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "48A1836A-0466-450E-86B9-FF86B3892BAB"
     }
   ],
   "name": "Choice-Tiles-Symbols",

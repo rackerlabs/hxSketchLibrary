@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 124,
+  "changeIdentifier": 126,
   "do_objectID": "A182B4B5-C78F-4683-9AFE-2C4B07F806A4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,8 +52,8 @@
       "id": "B05D97AA-EECF-4FF5-9DBB-8D2382EEECFA"
     }
   ],
-  "name": "_parts / status-labels /  filled / emphasis purple",
-  "nameIsFixed": false,
+  "name": "_parts / Status-labels /  filled / emphasis purple",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

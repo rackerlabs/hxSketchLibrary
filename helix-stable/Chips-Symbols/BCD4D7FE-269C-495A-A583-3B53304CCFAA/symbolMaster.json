@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1101,
+  "changeIdentifier": 1106,
   "do_objectID": "BCD4D7FE-269C-495A-A583-3B53304CCFAA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 91
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
       "id": "944E89E0-2A18-4A86-ABC6-F51B45D27CF7"
     }
   ],
-  "name": "_parts/chips/avatars/1",
+  "name": "_parts/Chips/avatars/1",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

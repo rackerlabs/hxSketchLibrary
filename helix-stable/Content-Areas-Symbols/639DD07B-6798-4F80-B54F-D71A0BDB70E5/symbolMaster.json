@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2803,
+  "changeIdentifier": 2804,
   "do_objectID": "639DD07B-6798-4F80-B54F-D71A0BDB70E5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 652
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -60,7 +60,7 @@
       "id": "A6B2A0A7-A8B2-42B2-9F7F-6FDD6F6F2E25"
     }
   ],
-  "name": "_parts / tabs / container / zero state",
+  "name": "_parts / Tabs / container / zero state",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

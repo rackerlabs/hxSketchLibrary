@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 524,
+  "changeIdentifier": 525,
   "do_objectID": "41961736-F0D2-4B8F-8B4C-FCCE1B174A96",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "80EF9D9E-FA4D-4B7C-AB00-578B516567F9"
     }
   ],
-  "name": "_parts / panels / error",
+  "name": "_parts / Panels / error",
   "nameIsFixed": true,
   "originalObjectID": "D880ED03-40FE-4CBC-BD61-018F04043145",
   "resizesContent": false,

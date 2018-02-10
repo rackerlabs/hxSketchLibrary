@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 77,
+  "changeIdentifier": 79,
   "do_objectID": "18A3693F-DD58-41B8-9CBC-1A1577E1E8F2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,8 +52,8 @@
       "id": "3603D591-30A5-4C22-A51C-257C11AE5015"
     }
   ],
-  "name": "_parts / status-labels / filled / subdued",
-  "nameIsFixed": false,
+  "name": "_parts / Status-labels / filled / subdued",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

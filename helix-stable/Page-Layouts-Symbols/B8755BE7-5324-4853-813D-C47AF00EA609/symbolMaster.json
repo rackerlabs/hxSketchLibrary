@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 370,
+  "changeIdentifier": 371,
   "do_objectID": "B8755BE7-5324-4853-813D-C47AF00EA609",
   "exportOptions": {
     "_class": "exportOptions",
@@ -67,7 +67,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1440
   },
-  "name": "_parts/layout/dual",
+  "name": "_parts/Layout/dual",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
