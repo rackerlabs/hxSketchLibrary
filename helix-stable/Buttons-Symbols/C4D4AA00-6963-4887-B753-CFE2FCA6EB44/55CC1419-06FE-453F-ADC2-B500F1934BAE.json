@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "55CC1419-06FE-453F-ADC2-B500F1934BAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 51,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Colors / Cyan / Cyan 500",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "367AAC2C-F72B-45E4-A587-C20A2542C32E",
+  "verticalSpacing": 0
+}

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1114,
+  "changeIdentifier": 1115,
   "do_objectID": "FE39E633-CDC5-4F28-AEA0-4E172DCCFADA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "7D4DC708-AC0B-4A7F-88BE-EEF61AFF4924"
     }
   ],
-  "name": "_parts/chips/icons/aws",
+  "name": "_parts/Chips/icons/aws",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

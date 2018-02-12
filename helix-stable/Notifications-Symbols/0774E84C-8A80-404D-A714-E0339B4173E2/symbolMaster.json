@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 107,
+  "changeIdentifier": 109,
   "do_objectID": "0774E84C-8A80-404D-A714-E0339B4173E2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -68
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,8 +52,8 @@
       "id": "F7279B10-C55D-48F8-A00D-9D7C93E6356F"
     }
   ],
-  "name": "_parts / status-labels / stroked / default",
-  "nameIsFixed": false,
+  "name": "_parts / Status-labels / stroked / default",
+  "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

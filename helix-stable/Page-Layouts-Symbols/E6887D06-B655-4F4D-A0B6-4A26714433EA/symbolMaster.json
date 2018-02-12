@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 13,
+  "changeIdentifier": 14,
   "do_objectID": "E6887D06-B655-4F4D-A0B6-4A26714433EA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "0889EE63-D68B-4532-9DE8-770A5F364A06"
     }
   ],
-  "name": "_parts/layout/standard",
+  "name": "_parts/Layout/standard",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

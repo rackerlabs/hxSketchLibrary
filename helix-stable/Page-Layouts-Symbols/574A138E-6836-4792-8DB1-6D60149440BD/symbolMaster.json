@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2609,
+  "changeIdentifier": 2610,
   "do_objectID": "574A138E-6836-4792-8DB1-6D60149440BD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "8D49F225-63A2-44F2-8356-DE23F4C11271"
     }
   ],
-  "name": "_parts/layout / mobile-dual",
+  "name": "_parts/Layout / mobile-dual",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

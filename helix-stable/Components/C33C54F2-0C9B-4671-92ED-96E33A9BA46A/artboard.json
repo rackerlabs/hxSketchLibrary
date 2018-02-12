@@ -23,10 +23,10 @@
     "height": 341,
     "width": 894,
     "x": 1515,
-    "y": 897
+    "y": 819
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -60,6 +60,10 @@
     {
       "class": "text",
       "id": "EBF4484A-FCDB-4901-9DCF-D4CF798FB04E"
+    },
+    {
+      "class": "text",
+      "id": "4026768B-1389-4A10-A2A7-68AF0211D537"
     },
     {
       "class": "symbolInstance",
@@ -96,6 +100,10 @@
     {
       "class": "symbolInstance",
       "id": "9B0DE341-E40D-47CD-A404-8DEB3ED70E79"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B600E212-15E6-462D-8818-D363BBF5F515"
     }
   ],
   "name": "Tabs",

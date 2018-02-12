@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 117,
+  "changeIdentifier": 118,
   "do_objectID": "A3C3C848-8223-499C-A462-FA1B5A39689C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -67,7 +67,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1440
   },
-  "name": "_parts/layout/rightbar",
+  "name": "_parts/Layout/rightbar",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

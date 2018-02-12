@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "504A1E03-A206-4FE5-8962-655D9029AB81",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 595,
+    "x": 715,
+    "y": 132
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Key-value / Pairs / Dual Line",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0D5228EE-52E2-4507-9AF9-5AD4A511EB89",
+      "overrideName": "0FEDFF58-0264-454D-B04B-1C1D16EF0A45/A9F6F4EF-8FDD-4233-BA28-692940463598_stringValue",
+      "value": "Dual line value goes here; 8px vertical space between each k:v pair."
+    }
+  ],
+  "overrides": {
+    "0FEDFF58-0264-454D-B04B-1C1D16EF0A45": {
+      "A9F6F4EF-8FDD-4233-BA28-692940463598": "Dual line value goes here; 8px vertical space between each k:v pair."
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A5B660E8-2C34-478B-A508-8E2B79A4BBF9",
+  "verticalSpacing": 0
+}

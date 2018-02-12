@@ -24,10 +24,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 537,
-  "masterInfluenceEdgeMaxYPadding": 125,
+  "masterInfluenceEdgeMaxXPadding": 241,
+  "masterInfluenceEdgeMaxYPadding": 6,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Tabs / Tabset Group",
   "nameIsFixed": false,
   "overrideValues": [

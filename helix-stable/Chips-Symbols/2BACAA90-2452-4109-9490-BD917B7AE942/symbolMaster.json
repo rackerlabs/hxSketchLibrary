@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1911,
+  "changeIdentifier": 1912,
   "do_objectID": "2BACAA90-2452-4109-9490-BD917B7AE942",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "7BB0592A-5E99-489A-98D0-1F2AB1572D77"
     }
   ],
-  "name": "_parts/chips/avatars/5",
+  "name": "_parts/Chips/avatars/5",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

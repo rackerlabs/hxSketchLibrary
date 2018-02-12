@@ -278,6 +278,10 @@
     },
     {
       "class": "symbolInstance",
+      "id": "17EEADFA-45A9-48E0-8732-725BE982FB08"
+    },
+    {
+      "class": "symbolInstance",
       "id": "578CC6C9-97AC-43B7-A2F6-ED28024069A3"
     },
     {
@@ -290,15 +294,63 @@
     },
     {
       "class": "symbolInstance",
+      "id": "DDB37CB6-593A-4DEF-BF95-8660BCDCDA37"
+    },
+    {
+      "class": "symbolInstance",
       "id": "E285BB67-BB57-4E00-AD67-FF302BBE7FA3"
     },
     {
       "class": "symbolMaster",
-      "id": "575A1F79-C362-420D-B3A1-CD2A66B3FF06"
+      "id": "4A880669-0734-4DC5-9219-BE5D86D54FC4"
     },
     {
       "class": "symbolMaster",
-      "id": "4A880669-0734-4DC5-9219-BE5D86D54FC4"
+      "id": "4584F175-7A78-47C7-B0B1-AE419E5C90A6"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C4D4AA00-6963-4887-B753-CFE2FCA6EB44"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CFEBBF3A-42D0-4176-98CF-FB1E98179843"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BABDCF9E-7B4B-4F2D-A0FA-631E87E735AA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8923614C-FE82-4695-A7B2-856A1626DE07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3873E2C6-BB54-46A8-A640-CB359F07509D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4AE56432-4820-406F-8C3F-A9AA7FA5E88A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "643EE016-B5ED-4279-820E-FC803B19E029"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B1494976-D648-4C45-89D3-43A1B6B7FC6A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2A3332F6-2BB3-467A-B9C2-7A870E4BAD04"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7648CA71-EDD0-4F29-990F-48BC8D98C912"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "146B215E-ADEB-4442-A218-BFCA8268F88D"
     }
   ],
   "name": "Buttons-Symbols",

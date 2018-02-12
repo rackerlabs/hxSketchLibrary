@@ -371,6 +371,38 @@
     {
       "class": "symbolMaster",
       "id": "1883EC29-5024-4D48-ABA7-726D3E306EFB"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A8294947-9730-4137-BD28-CB16F8BC120C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DB61C330-1133-461A-AB1D-6715D1D86E59"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "ECDF911C-6E93-40C3-B4B1-EA0BA3B211EC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "ACF5F296-9B6B-4BAB-8816-2F85EFBD33A1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "172470C7-2D66-4152-8D49-9C23DEC91983"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "21557CE3-922E-4E9F-BB7B-3A199251A7F1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7A61241E-E6E6-4967-9687-E0B29EE559A0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F2F9F2D4-68D3-443D-BCCC-88CF1DB832EA"
     }
   ],
   "name": "Inputs-Symbols",

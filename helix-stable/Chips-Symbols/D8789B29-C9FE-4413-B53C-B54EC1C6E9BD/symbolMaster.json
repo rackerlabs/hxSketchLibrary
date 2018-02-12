@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1514,
+  "changeIdentifier": 1530,
   "do_objectID": "D8789B29-C9FE-4413-B53C-B54EC1C6E9BD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 154
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
       "id": "1C4C0BA6-1B5F-42E2-A2C9-0ADD9C1B10B7"
     }
   ],
-  "name": "_parts/chips/icons/dedicated",
+  "name": "_parts/Chips/icons/dedicated",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

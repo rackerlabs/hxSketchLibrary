@@ -31,8 +31,17 @@
   "name": "Tabs / Tabset Item",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "63320430-E15E-4A54-9A80-7220F1D4CEF5",
+      "overrideName": "8E71D949-B732-46F2-A66B-646E5BD17EEB_symbolID",
+      "value": ""
+    }
   ],
   "overrides": {
+    "8E71D949-B732-46F2-A66B-646E5BD17EEB": {
+      "symbolID": ""
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

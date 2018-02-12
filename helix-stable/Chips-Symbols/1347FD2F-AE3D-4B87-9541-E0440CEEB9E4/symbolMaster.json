@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 984,
+  "changeIdentifier": 985,
   "do_objectID": "1347FD2F-AE3D-4B87-9541-E0440CEEB9E4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,7 +48,7 @@
       "id": "21C153E9-CB6B-4DF9-B302-D92891940A0C"
     }
   ],
-  "name": "_parts/chips/icons/openstack",
+  "name": "_parts/Chips/icons/openstack",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

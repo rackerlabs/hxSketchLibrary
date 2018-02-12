@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "67D69630-AE01-49DF-806B-5E8C4BD9B54A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 156,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Key",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FDBF9312-6888-4F23-812F-6B02259A6118",
+      "overrideName": "F77511A4-5446-4F1D-AF0D-1BDC2E5E5F0C_stringValue",
+      "value": "Dual line Key Goes Here"
+    }
+  ],
+  "overrides": {
+    "F77511A4-5446-4F1D-AF0D-1BDC2E5E5F0C": "Dual line Key Goes Here"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AD38FBDD-749A-4E29-B004-7B4E172FA195",
+  "verticalSpacing": 0
+}

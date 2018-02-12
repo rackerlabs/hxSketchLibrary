@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1586,
+  "changeIdentifier": 1587,
   "do_objectID": "6BB4D010-FC8E-4127-AC62-CCADCBDD3D8D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,7 +52,7 @@
       "id": "9D5DCBB0-5BDC-4237-B911-1C66E6C0E37E"
     }
   ],
-  "name": " _parts/layout/mobile-rightbar",
+  "name": " _parts/Layout/mobile-rightbar",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
