@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1371,
+  "changeIdentifier": 1373,
   "do_objectID": "02EE6244-F195-4501-88FC-3CB671ADA24F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 861
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -52,7 +52,7 @@
       "id": "67D69630-AE01-49DF-806B-5E8C4BD9B54A"
     }
   ],
-  "name": "Key-value / Pairs / Dual Line",
+  "name": "Key-value / Horizontal / Dual Line",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
