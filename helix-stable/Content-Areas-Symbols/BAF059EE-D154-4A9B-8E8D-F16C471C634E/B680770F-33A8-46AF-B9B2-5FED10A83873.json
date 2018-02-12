@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "6624F93D-A477-486B-8F0B-FAB22D854280",
+  "do_objectID": "B680770F-33A8-46AF-B9B2-5FED10A83873",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 156,
-    "width": 595,
-    "x": 40,
-    "y": 130
+    "height": 33,
+    "width": 118,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,17 +24,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMaxXPadding": 244,
+  "masterInfluenceEdgeMaxYPadding": 6,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Key-value / Group",
-  "nameIsFixed": false,
+  "name": "Padding",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -45,6 +45,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "045327AC-9415-4DED-9C1B-8D25E4F3F5D1",
+  "symbolID": "42FAA9C3-39B2-4A4D-A98F-38CD85FD3F74",
   "verticalSpacing": 0
 }

@@ -7,8 +7,8 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 938,
-  "do_objectID": "90703713-BF21-4E51-9653-B4C10A0A5A1D",
+  "changeIdentifier": 7,
+  "do_objectID": "8989CF3A-BF18-405C-9257-434A52CCC8DF",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33,
-    "width": 408,
-    "x": 894,
-    "y": -3
+    "height": 16,
+    "width": 16,
+    "x": 189,
+    "y": 84
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -35,42 +35,26 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": false,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "AF3DC9BA-5D5C-4FA3-A05B-38F3B97C02A5"
+      "id": "E1771F08-B03D-4D7F-A9D7-F3EF0AF0A403"
     },
     {
-      "class": "shapeGroup",
-      "id": "E8834ADB-60BE-4241-ACA4-AAA4C375EEA6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "87A67FF0-733B-4C44-AC28-148CC95459C8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A5E8AD2E-6BF8-4DD6-AE91-1D9E98BAFC91"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "69E60CA7-F4DC-44DC-AD3E-214D13D47E42"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DEFA43AE-B4C1-40AC-8AB8-31040849BD75"
+      "class": "text",
+      "id": "3E6F05C6-D25A-4EAD-ADE8-8E449B6CB0EF"
     }
   ],
-  "name": "Tabs / Tab Group",
-  "nameIsFixed": true,
-  "resizesContent": false,
+  "name": "Badge/Tab Badge",
+  "nameIsFixed": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -81,7 +65,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "749D05F4-50E1-4DC9-BB10-23612795CE90",
+  "symbolID": "1B346AFF-A60A-452A-A88F-21319CE01E70",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

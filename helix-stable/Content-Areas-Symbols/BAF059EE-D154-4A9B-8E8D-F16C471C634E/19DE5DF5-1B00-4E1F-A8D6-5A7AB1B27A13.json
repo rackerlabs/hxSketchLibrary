@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "38F28CD7-C3BA-49DC-B27A-CC8CAA58421B",
+  "do_objectID": "19DE5DF5-1B00-4E1F-A8D6-5A7AB1B27A13",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 8,
-    "width": 204,
-    "x": 0,
-    "y": 72
+    "height": 16,
+    "width": 16,
+    "x": 90,
+    "y": 9
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,17 +24,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 1308,
-  "masterInfluenceEdgeMaxYPadding": 83,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 3,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Margin",
+  "name": "Badge",
   "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 12,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -45,6 +45,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "24036F10-F029-4F83-8D6E-AEF1AD0195E6",
+  "symbolID": "1B346AFF-A60A-452A-A88F-21319CE01E70",
   "verticalSpacing": 0
 }
