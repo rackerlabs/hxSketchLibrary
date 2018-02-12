@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 392,
+    "height": 677,
     "width": 1323,
     "x": 1515,
-    "y": 3095
+    "y": 3023
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -55,11 +55,23 @@
     },
     {
       "class": "text",
+      "id": "19850699-C456-4277-A03C-2EBDCCB68FA7"
+    },
+    {
+      "class": "text",
       "id": "64C3340E-047C-49B6-A472-54188BC89591"
     },
     {
       "class": "text",
+      "id": "A5013BAE-075C-4A42-B4EB-B443C990F751"
+    },
+    {
+      "class": "text",
       "id": "A112C986-6170-4380-B327-70B9FEA2FB17"
+    },
+    {
+      "class": "text",
+      "id": "F4F3BC12-E56A-4FA4-94EC-085133B5107C"
     },
     {
       "class": "symbolInstance",
@@ -72,6 +84,18 @@
     {
       "class": "symbolInstance",
       "id": "26B6106A-DCA8-4F86-8E14-B1CC2848FAAD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8B9BC596-8FA0-45F4-A2AC-E900C6860432"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A678DF16-6416-4C35-AC3F-F589DAD63B3A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "903F9275-C09C-41FE-800F-A70DD64D0339"
     }
   ],
   "name": "Key:Value",

@@ -20,13 +20,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 526,
+    "height": 635,
     "width": 749,
     "x": -224,
-    "y": 634
+    "y": 525
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -71,6 +71,22 @@
     },
     {
       "class": "text",
+      "id": "9A808524-7D26-4521-8701-5323B2499749"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB17F41F-2D6B-421C-9320-9694C4625753"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "90469CE3-3398-4C59-B1FF-4404271A2873"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27020E84-D3AE-46AC-B7DD-F6667CC8CE95"
+    },
+    {
+      "class": "text",
       "id": "50FF0E87-51AD-44B1-ACF2-21CA93D211BD"
     },
     {
@@ -88,6 +104,10 @@
     {
       "class": "text",
       "id": "A4C9F645-3A7B-45FF-BCBC-9D3A2EB8B349"
+    },
+    {
+      "class": "text",
+      "id": "7B68C9C5-1DAD-4373-9391-C4617D250431"
     },
     {
       "class": "symbolInstance",
