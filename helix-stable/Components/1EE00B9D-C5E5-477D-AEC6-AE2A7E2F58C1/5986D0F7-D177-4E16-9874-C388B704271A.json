@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5986D0F7-D177-4E16-9874-C388B704271A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 476,
+    "x": 53,
+    "y": 372
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Grid Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A078184-A2BA-4F49-86B7-ED510CBFE420",
+      "overrideName": "9D225353-BDD0-4C67-BD15-DF3CD9D2DF37_symbolID",
+      "value": "8581D330-A930-4FEF-8703-A5D27D32D2BB"
+    }
+  ],
+  "overrides": {
+    "9D225353-BDD0-4C67-BD15-DF3CD9D2DF37": {
+      "symbolID": "8581D330-A930-4FEF-8703-A5D27D32D2BB"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A2280A5D-CBD0-4AE2-BB79-26A796CC2136",
+  "verticalSpacing": 0
+}
