@@ -32,8 +32,8 @@
       "id": "F1033D30-264C-437A-97E2-1AC409823715"
     }
   ],
-  "name": "Fill 215 Copy 47",
-  "nameIsFixed": false,
+  "name": "Background",
+  "nameIsFixed": true,
   "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,

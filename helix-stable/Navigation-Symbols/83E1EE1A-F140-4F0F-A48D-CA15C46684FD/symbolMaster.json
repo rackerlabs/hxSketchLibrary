@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3525,
+  "changeIdentifier": 3550,
   "do_objectID": "83E1EE1A-F140-4F0F-A48D-CA15C46684FD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -86,7 +86,7 @@
   ],
   "name": "Navigation/Top-Nav",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -32,10 +32,10 @@
       "id": "1C97B370-E4D2-4ECA-B5B6-53A4ED02DDD8"
     }
   ],
-  "name": "Rectangle 5 Copy 28",
-  "nameIsFixed": false,
+  "name": "Rectangle",
+  "nameIsFixed": true,
   "originalObjectID": "07847E37-BB09-4159-B7A8-C78A462DDA31",
-  "resizingConstraint": 12,
+  "resizingConstraint": 20,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

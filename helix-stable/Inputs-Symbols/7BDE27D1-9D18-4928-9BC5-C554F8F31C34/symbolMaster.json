@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2059,
+  "changeIdentifier": 2184,
   "do_objectID": "7BDE27D1-9D18-4928-9BC5-C554F8F31C34",
   "exportOptions": {
     "_class": "exportOptions",
@@ -41,19 +41,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "text",
-      "id": "6D8528B1-B2E3-4506-8745-C91F24D20704"
-    },
-    {
       "class": "symbolInstance",
-      "id": "FD72C8E8-DAAF-4EB7-9424-9A078D2B1A25"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E17E284D-C1E7-456B-A059-BE9CD0F98AA3"
+      "id": "D5C0353B-6A59-4E5E-B19E-F55564BACBC1"
     },
     {
       "class": "symbolInstance",
@@ -61,7 +53,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "D5C0353B-6A59-4E5E-B19E-F55564BACBC1"
+      "id": "E17E284D-C1E7-456B-A059-BE9CD0F98AA3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD72C8E8-DAAF-4EB7-9424-9A078D2B1A25"
+    },
+    {
+      "class": "text",
+      "id": "6D8528B1-B2E3-4506-8745-C91F24D20704"
     }
   ],
   "name": "Inputs / Radio / Radio Group - no sub",

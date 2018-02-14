@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -34,8 +34,8 @@
       "id": "0877C674-06E0-4234-BA95-ED13080ACE76"
     }
   ],
-  "name": "Group 2",
-  "nameIsFixed": false,
+  "name": "Radio",
+  "nameIsFixed": true,
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,

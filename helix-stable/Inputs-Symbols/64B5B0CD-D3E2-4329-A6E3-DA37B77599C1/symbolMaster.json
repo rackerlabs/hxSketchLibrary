@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 732,
+  "changeIdentifier": 742,
   "do_objectID": "64B5B0CD-D3E2-4329-A6E3-DA37B77599C1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,7 +54,7 @@
   ],
   "name": "Inputs / Radio / Radio w Label",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

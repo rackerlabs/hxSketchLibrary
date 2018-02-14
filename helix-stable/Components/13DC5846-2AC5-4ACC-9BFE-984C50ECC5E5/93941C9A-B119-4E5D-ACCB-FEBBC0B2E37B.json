@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 32,
     "width": 217,
-    "x": 285,
+    "x": 304,
     "y": 164
   },
   "horizontalSpacing": 0,
@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Dropdown/Input Copy 2",
-  "nameIsFixed": false,
+  "name": "Dropdown/Input",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

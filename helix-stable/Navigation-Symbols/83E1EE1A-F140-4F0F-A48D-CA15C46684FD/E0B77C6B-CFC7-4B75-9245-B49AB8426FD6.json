@@ -21,7 +21,7 @@
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
@@ -34,7 +34,7 @@
   ],
   "overrides": {
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

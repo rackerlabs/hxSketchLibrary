@@ -32,9 +32,9 @@
       "id": "6121772A-9DC1-4161-A6BC-2325CF5EC928"
     }
   ],
-  "name": "Rectangle 2",
-  "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "name": "Rectangle",
+  "nameIsFixed": true,
+  "resizingConstraint": 34,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

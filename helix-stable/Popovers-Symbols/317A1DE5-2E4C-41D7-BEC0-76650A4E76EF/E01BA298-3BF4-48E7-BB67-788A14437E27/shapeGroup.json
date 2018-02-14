@@ -32,8 +32,8 @@
       "id": "7E6100F7-71FA-42EE-8512-10F38C983C6D"
     }
   ],
-  "name": "Fill 227 Copy 10",
-  "nameIsFixed": false,
+  "name": "Pointer",
+  "nameIsFixed": true,
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 360,

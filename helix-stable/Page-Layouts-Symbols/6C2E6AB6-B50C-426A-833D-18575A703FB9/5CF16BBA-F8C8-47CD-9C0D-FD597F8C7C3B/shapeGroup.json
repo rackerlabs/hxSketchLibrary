@@ -32,8 +32,8 @@
       "id": "EC3A5BF5-631F-44A2-9F8F-170FF5DF6C64"
     }
   ],
-  "name": "Rectangle 3 Copy 11",
-  "nameIsFixed": false,
+  "name": "Background",
+  "nameIsFixed": true,
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,

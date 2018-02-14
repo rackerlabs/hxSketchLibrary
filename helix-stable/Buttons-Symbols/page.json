@@ -325,10 +325,6 @@
       "id": "8923614C-FE82-4695-A7B2-856A1626DE07"
     },
     {
-      "class": "symbolInstance",
-      "id": "3873E2C6-BB54-46A8-A640-CB359F07509D"
-    },
-    {
       "class": "symbolMaster",
       "id": "4AE56432-4820-406F-8C3F-A9AA7FA5E88A"
     },
@@ -351,6 +347,10 @@
     {
       "class": "symbolMaster",
       "id": "146B215E-ADEB-4442-A218-BFCA8268F88D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "950601BC-55D2-4555-8942-59ED8E693EBA"
     }
   ],
   "name": "Buttons-Symbols",

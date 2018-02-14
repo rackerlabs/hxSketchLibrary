@@ -32,8 +32,8 @@
       "id": "51D5B0BC-1EF9-4DC1-BE79-26829D1C2203"
     }
   ],
-  "name": "Shape Copy 8",
-  "nameIsFixed": false,
+  "name": "Shape",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

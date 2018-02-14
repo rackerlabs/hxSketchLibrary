@@ -25,11 +25,11 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 416,
-  "masterInfluenceEdgeMinXPadding": 2760,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "_parts / Inputs / Error Message",
-  "nameIsFixed": false,
+  "name": "Error",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

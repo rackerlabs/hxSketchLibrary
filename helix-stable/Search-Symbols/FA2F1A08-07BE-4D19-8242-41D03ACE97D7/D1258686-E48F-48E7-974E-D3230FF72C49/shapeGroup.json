@@ -23,7 +23,7 @@
   "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
@@ -32,8 +32,8 @@
       "id": "80ABD4E2-DCE5-4F84-87AD-8572645992B8"
     }
   ],
-  "name": "Rectangle 6 Copy 2",
-  "nameIsFixed": false,
+  "name": "Rectangle",
+  "nameIsFixed": true,
   "resizingConstraint": 34,
   "resizingType": 0,
   "rotation": 0,

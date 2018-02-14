@@ -32,8 +32,8 @@
       "id": "CD900C9A-9679-45CE-BDF9-A70FFF5B51C5"
     }
   ],
-  "name": "Rectangle",
-  "nameIsFixed": false,
+  "name": "Left Border",
+  "nameIsFixed": true,
   "resizingConstraint": 17,
   "resizingType": 0,
   "rotation": 0,

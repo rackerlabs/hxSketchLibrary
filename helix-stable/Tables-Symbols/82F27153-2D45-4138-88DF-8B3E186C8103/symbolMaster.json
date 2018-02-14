@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2793,
+  "changeIdentifier": 2843,
   "do_objectID": "82F27153-2D45-4138-88DF-8B3E186C8103",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 50
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,12 +48,12 @@
       "id": "3E16F9F9-6661-49A4-88E6-E9E37548E37A"
     },
     {
-      "class": "text",
-      "id": "8AEC03AB-FA04-41CA-B499-F452EC5D7CAE"
-    },
-    {
       "class": "group",
       "id": "72483E5C-1499-4E7C-BFC3-99D70E767177"
+    },
+    {
+      "class": "text",
+      "id": "8AEC03AB-FA04-41CA-B499-F452EC5D7CAE"
     }
   ],
   "name": "Tables / Controls / Bottom",

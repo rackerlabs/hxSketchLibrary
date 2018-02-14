@@ -22,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 573,
+    "width": 88,
     "x": 0,
     "y": 0
   },
@@ -34,8 +34,8 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Select Date(s)",
-  "nameIsFixed": false,
+  "name": "Title",
+  "nameIsFixed": true,
   "originalObjectID": "375067E8-83AA-468D-B15B-57B9EE9CCADF",
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -62,5 +62,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

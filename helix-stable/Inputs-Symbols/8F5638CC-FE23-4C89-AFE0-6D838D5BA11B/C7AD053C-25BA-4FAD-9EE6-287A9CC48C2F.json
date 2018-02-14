@@ -22,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 78,
+    "width": 186,
     "x": 17,
     "y": 4
   },
@@ -37,7 +37,7 @@
   "name": "Error message",
   "nameIsFixed": false,
   "originalObjectID": "994CDA45-0259-4C08-950A-D26CB665D06E",
-  "resizingConstraint": 35,
+  "resizingConstraint": 34,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

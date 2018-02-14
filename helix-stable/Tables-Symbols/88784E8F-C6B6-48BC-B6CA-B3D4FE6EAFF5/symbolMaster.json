@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3489,
+  "changeIdentifier": 3524,
   "do_objectID": "88784E8F-C6B6-48BC-B6CA-B3D4FE6EAFF5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,10 +48,6 @@
       "id": "2ED63C54-B132-4FAA-A6C7-39283702633E"
     },
     {
-      "class": "symbolInstance",
-      "id": "B156B66F-4A0A-42F9-93EF-C09609388008"
-    },
-    {
       "class": "shapeGroup",
       "id": "974F604F-FC05-4FF1-8EB8-09A3D45B0785"
     },
@@ -72,13 +68,17 @@
       "id": "BE395DE8-1ECD-4C46-851B-D0E68950D6D5"
     },
     {
+      "class": "group",
+      "id": "0230C25B-4D79-4557-A86E-608256996BB8"
+    },
+    {
       "class": "symbolInstance",
-      "id": "B42F113B-0BAE-4546-BBFD-4A34F13301B8"
+      "id": "AA860758-DA16-46FA-B02D-A2674112BE2F"
     }
   ],
   "name": "Tables / Row / Condensed / Check + Cog",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

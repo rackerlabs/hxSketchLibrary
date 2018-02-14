@@ -24,24 +24,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 1,
-  "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 1,
-  "masterInfluenceEdgeMinYPadding": 1,
+  "masterInfluenceEdgeMaxXPadding": 5,
+  "masterInfluenceEdgeMaxYPadding": 6,
+  "masterInfluenceEdgeMinXPadding": 6,
+  "masterInfluenceEdgeMinYPadding": 6,
   "name": "Search / Search-bar",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "0E6800EF-CBEA-4EC5-AFE8-70E57496A57F",
-      "overrideName": "DB4D4D84-3AC4-4B11-98CA-59D82B8B2E92_symbolID",
-      "value": "A181D94D-46ED-44BF-8937-72B84D0288FB"
-    }
   ],
   "overrides": {
-    "DB4D4D84-3AC4-4B11-98CA-59D82B8B2E92": {
-      "symbolID": "A181D94D-46ED-44BF-8937-72B84D0288FB"
-    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

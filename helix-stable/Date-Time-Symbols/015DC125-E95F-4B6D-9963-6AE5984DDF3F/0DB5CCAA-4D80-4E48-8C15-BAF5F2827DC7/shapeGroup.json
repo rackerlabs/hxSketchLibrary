@@ -34,7 +34,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapePath",
@@ -61,8 +61,8 @@
       "id": "9E122C22-2340-4FFE-B2CE-7E07642EE664"
     }
   ],
-  "name": "Shape Copy",
-  "nameIsFixed": false,
+  "name": "Start - Calendar",
+  "nameIsFixed": true,
   "resizingConstraint": 12,
   "resizingType": 0,
   "rotation": 0,

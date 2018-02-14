@@ -36,7 +36,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Term",
   "nameIsFixed": true,
-  "resizingConstraint": 11,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

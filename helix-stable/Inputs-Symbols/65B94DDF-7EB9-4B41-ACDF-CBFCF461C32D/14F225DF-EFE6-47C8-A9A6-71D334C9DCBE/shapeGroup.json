@@ -32,8 +32,8 @@
       "id": "1E748DC6-7182-4A8B-B151-32920208AD94"
     }
   ],
-  "name": "Rectangle 4",
-  "nameIsFixed": false,
+  "name": "Background",
+  "nameIsFixed": true,
   "originalObjectID": "3B46D06E-708C-4EE7-843F-6B806A34E75D",
   "resizingConstraint": 18,
   "resizingType": 0,

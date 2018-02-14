@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 1,
-  "name": "Inputs / Selector / first",
+  "name": "First",
   "nameIsFixed": true,
   "overrideValues": [
     {

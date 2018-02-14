@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Colors / Gray / Gray 025",
-  "nameIsFixed": false,
+  "name": "Color",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 102,
+  "changeIdentifier": 272,
   "do_objectID": "423A40CE-F0AF-4481-8D37-A2A459C1FF62",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,12 +22,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 56,
-    "width": 250,
-    "x": 603,
-    "y": -314
+    "width": 257,
+    "x": 461,
+    "y": -298
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,16 +45,16 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "A298BD07-96C9-48FC-AD1D-F14BFAC1FA81"
+      "id": "B6EAE723-84F4-4352-BAA1-69E5DE3AA8D2"
     },
     {
       "class": "symbolInstance",
-      "id": "B6EAE723-84F4-4352-BAA1-69E5DE3AA8D2"
+      "id": "A298BD07-96C9-48FC-AD1D-F14BFAC1FA81"
     }
   ],
   "name": "Dropdown / Input w Label",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

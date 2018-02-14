@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "/chips/icons/aws",
-  "nameIsFixed": false,
+  "name": "Icon",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

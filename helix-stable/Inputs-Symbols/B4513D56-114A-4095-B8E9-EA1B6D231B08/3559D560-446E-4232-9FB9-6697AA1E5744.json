@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Inputs / Radio / Radio w Label Copy",
-  "nameIsFixed": false,
+  "name": "Option 2",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

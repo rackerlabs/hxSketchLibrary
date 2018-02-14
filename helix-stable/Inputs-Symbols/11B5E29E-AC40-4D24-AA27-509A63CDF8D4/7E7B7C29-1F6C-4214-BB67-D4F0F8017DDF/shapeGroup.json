@@ -32,8 +32,8 @@
       "id": "B40FCCC2-453A-428C-91E1-00F2EBAA3A91"
     }
   ],
-  "name": "Shape Copy 8",
-  "nameIsFixed": false,
+  "name": "Shape",
+  "nameIsFixed": true,
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,

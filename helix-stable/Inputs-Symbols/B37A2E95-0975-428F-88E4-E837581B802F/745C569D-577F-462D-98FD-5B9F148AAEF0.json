@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "_parts / Switch / B - Off",
-  "nameIsFixed": false,
+  "name": "Status",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

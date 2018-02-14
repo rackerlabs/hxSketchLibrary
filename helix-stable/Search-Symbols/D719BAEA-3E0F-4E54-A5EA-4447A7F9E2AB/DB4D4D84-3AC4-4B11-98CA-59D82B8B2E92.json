@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 1,
-  "name": "_parts / Search / Empty",
-  "nameIsFixed": false,
+  "name": "State",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

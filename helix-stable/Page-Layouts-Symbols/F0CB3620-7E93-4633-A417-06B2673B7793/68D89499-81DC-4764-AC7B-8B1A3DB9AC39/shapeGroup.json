@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "height": 100,
     "width": 20,
-    "x": 815.0000000000001,
+    "x": 887.0000000000001,
     "y": 0
   },
   "hasClickThrough": false,
@@ -32,8 +32,8 @@
       "id": "CFDDDBFA-84F3-4A0E-8F41-830340A88D92"
     }
   ],
-  "name": "Rectangle 3 Copy 7",
-  "nameIsFixed": false,
+  "name": "Gutter 9",
+  "nameIsFixed": true,
   "resizingConstraint": 21,
   "resizingType": 0,
   "rotation": 0,

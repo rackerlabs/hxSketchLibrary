@@ -32,8 +32,8 @@
       "id": "FA69AF1E-355A-4232-AFDC-78B818C0CBD1"
     }
   ],
-  "name": "Mask",
-  "nameIsFixed": false,
+  "name": "icon",
+  "nameIsFixed": true,
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,

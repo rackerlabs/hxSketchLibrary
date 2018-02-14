@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1808,
+  "changeIdentifier": 1960,
   "do_objectID": "F80AF3D3-70BA-4319-A04A-CD79C5425846",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,6 +45,14 @@
   "layers": [
     {
       "class": "symbolInstance",
+      "id": "6EEF214F-964E-45C4-8E6C-C4D991947DB2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B59E523F-0B0E-4DC0-99AB-902D294D2A5D"
+    },
+    {
+      "class": "symbolInstance",
       "id": "64433F4D-86F0-4099-9ED7-F1E686841381"
     },
     {
@@ -54,14 +62,6 @@
     {
       "class": "symbolInstance",
       "id": "D43570D9-F175-49D9-A25B-D68769226FF3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6EEF214F-964E-45C4-8E6C-C4D991947DB2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B59E523F-0B0E-4DC0-99AB-902D294D2A5D"
     }
   ],
   "name": "Inputs / Text / Text-Area Full",

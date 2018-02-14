@@ -32,8 +32,8 @@
       "id": "0E3CC044-750D-4DE4-94EB-13F41212FF33"
     }
   ],
-  "name": "Fill 215 Copy 46",
-  "nameIsFixed": false,
+  "name": "Background",
+  "nameIsFixed": true,
   "resizingConstraint": 42,
   "resizingType": 0,
   "rotation": 0,

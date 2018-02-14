@@ -61,8 +61,8 @@
       "id": "847EFC94-4454-4DFF-95E2-C1A6434D319B"
     }
   ],
-  "name": "Shape Copy",
-  "nameIsFixed": false,
+  "name": "End - Calendar",
+  "nameIsFixed": true,
   "resizingConstraint": 12,
   "resizingType": 0,
   "rotation": 0,

@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "_parts / Search / Results / Term",
-  "nameIsFixed": false,
+  "name": "Result 1",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

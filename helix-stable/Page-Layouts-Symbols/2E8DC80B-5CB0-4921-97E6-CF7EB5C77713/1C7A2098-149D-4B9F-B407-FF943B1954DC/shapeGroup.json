@@ -32,8 +32,8 @@
       "id": "EC9E4CB4-7E71-4C79-8B2C-CE3920F1DA14"
     }
   ],
-  "name": "Rectangle 3 Copy 28",
-  "nameIsFixed": false,
+  "name": "Left Margin",
+  "nameIsFixed": true,
   "resizingConstraint": 17,
   "resizingType": 0,
   "rotation": 0,

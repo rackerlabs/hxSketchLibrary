@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "/chips/type/avatar",
-  "nameIsFixed": false,
+  "name": "Type",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

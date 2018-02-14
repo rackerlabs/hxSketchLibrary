@@ -32,8 +32,8 @@
       "id": "BD57418A-5ECD-495A-94BF-100783E94A56"
     }
   ],
-  "name": "Oval Copy 53",
-  "nameIsFixed": false,
+  "name": "Oval",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

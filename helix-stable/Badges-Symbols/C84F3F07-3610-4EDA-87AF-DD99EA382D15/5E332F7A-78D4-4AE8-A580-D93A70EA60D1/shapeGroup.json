@@ -32,8 +32,8 @@
       "id": "AEE371FB-2837-4DCA-A981-C910E1AC93FF"
     }
   ],
-  "name": "Rectangle Copy 7",
-  "nameIsFixed": false,
+  "name": "Rectangle",
+  "nameIsFixed": true,
   "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,

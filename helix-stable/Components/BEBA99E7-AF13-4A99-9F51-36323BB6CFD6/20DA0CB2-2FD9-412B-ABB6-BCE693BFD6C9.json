@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 33,
-    "width": 720,
+    "width": 763,
     "x": 53,
-    "y": 347
+    "y": 351
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -31,8 +31,37 @@
   "name": "Tables / Row / Condensed / Check + Cog",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "363AA3A6-4F7F-483B-8519-44982D2A065B",
+      "overrideName": "2ED63C54-B132-4FAA-A6C7-39283702633E_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4C722A94-3534-429E-8C17-5E62C5AD4934",
+      "overrideName": "B156B66F-4A0A-42F9-93EF-C09609388008/93C1F1E5-A330-437A-B247-E57F2E6CD7DB_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8EFF8E6F-D391-40BF-BA51-50851E036CE0",
+      "overrideName": "B156B66F-4A0A-42F9-93EF-C09609388008/93C1F1E5-A330-437A-B247-E57F2E6CD7DB/257EE4A7-59FF-486A-BD5B-EEF59C4B144B_symbolID",
+      "value": "0017E5D0-DFDA-4EA8-9DD4-43ED67C49D51"
+    }
   ],
   "overrides": {
+    "2ED63C54-B132-4FAA-A6C7-39283702633E": {
+      "symbolID": ""
+    },
+    "B156B66F-4A0A-42F9-93EF-C09609388008": {
+      "93C1F1E5-A330-437A-B247-E57F2E6CD7DB": {
+        "257EE4A7-59FF-486A-BD5B-EEF59C4B144B": {
+          "symbolID": "0017E5D0-DFDA-4EA8-9DD4-43ED67C49D51"
+        },
+        "symbolID": ""
+      }
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Buttons / Standard Copy",
-  "nameIsFixed": false,
+  "name": "Secondary",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
@@ -61,7 +61,7 @@
       "symbolID": "7FC1687D-C1B5-41E0-8495-2DD17F649329"
     }
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

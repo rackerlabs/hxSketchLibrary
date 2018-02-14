@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 6,
   "masterInfluenceEdgeMinXPadding": 3,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Actions-menu / Atomic parts / Container",
-  "nameIsFixed": false,
+  "name": "Container",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

@@ -28,13 +28,13 @@
   "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 1,
-  "name": "Search / Search-bar",
-  "nameIsFixed": false,
+  "name": "Search",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 62,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

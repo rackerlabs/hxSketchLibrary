@@ -21,15 +21,15 @@
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "masterInfluenceEdgeMaxXPadding": 4,
   "masterInfluenceEdgeMaxYPadding": 4,
   "masterInfluenceEdgeMinXPadding": 4,
   "masterInfluenceEdgeMinYPadding": 4,
-  "name": "_parts / Inputs / Text / States / Error-Focused",
-  "nameIsFixed": false,
+  "name": "State",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

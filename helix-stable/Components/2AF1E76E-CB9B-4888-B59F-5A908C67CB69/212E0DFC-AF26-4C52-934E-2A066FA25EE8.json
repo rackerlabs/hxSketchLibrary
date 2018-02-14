@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 76,
-    "width": 210,
+    "width": 238,
     "x": 47,
     "y": 95
   },
@@ -24,10 +24,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 5,
-  "masterInfluenceEdgeMaxYPadding": 5,
-  "masterInfluenceEdgeMinXPadding": 5,
-  "masterInfluenceEdgeMinYPadding": 5,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Inputs / Text / Text-Area",
   "nameIsFixed": false,
   "overrideValues": [

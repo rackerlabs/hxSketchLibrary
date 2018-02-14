@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 317,
+  "changeIdentifier": 338,
   "do_objectID": "A5EC60CE-97C3-44EA-860E-D54E4770C838",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -395
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,11 +41,23 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "DFE6061C-BA9C-4CAA-AC06-5825A2274E3D"
+      "class": "shapeGroup",
+      "id": "9A0E5AE0-6C51-4E34-B3B5-DBA456B0F873"
+    },
+    {
+      "class": "text",
+      "id": "47E62E86-B680-4493-9CC9-48F8FE658CD9"
+    },
+    {
+      "class": "text",
+      "id": "D2CD066B-8C0A-431C-9A4E-9FB71A3A600D"
+    },
+    {
+      "class": "text",
+      "id": "9A506D59-C266-4475-BCB2-80B116FAE556"
     }
   ],
   "name": "Navigation/Footer",

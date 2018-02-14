@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 646,
+  "changeIdentifier": 652,
   "do_objectID": "243872EB-5F90-4963-81CA-AB1FF38E1245",
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,7 +54,7 @@
   ],
   "name": "Inputs / Checkbox / Checkbox w Label",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

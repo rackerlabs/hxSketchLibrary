@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 662,
+  "changeIdentifier": 680,
   "do_objectID": "F3C91A52-368C-4463-95A6-A273370374A7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 23
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,7 +41,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -53,19 +53,11 @@
     },
     {
       "class": "shapeGroup",
-      "id": "51A3EC77-8E14-46B9-8C3F-E322218D37CB"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "E7887A3E-DC69-434B-8F81-CB4B99311A08"
-    },
-    {
-      "class": "shapeGroup",
       "id": "D48344D8-4C1A-42F9-9D0F-BC0A6E981B8C"
     }
   ],
-  "name": "_parts/Dropdown/Item/Padding",
-  "nameIsFixed": false,
+  "name": "_parts/Dropdown/Container/Padding",
+  "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

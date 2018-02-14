@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1631,
+  "changeIdentifier": 1646,
   "do_objectID": "57185C24-AD91-432A-B1EF-761058247E71",
   "exportOptions": {
     "_class": "exportOptions",
@@ -60,20 +60,8 @@
       "id": "5E9239C5-7B2B-40AC-89CB-D334A4E662E8"
     },
     {
-      "class": "group",
-      "id": "FD4EFBA6-D9DE-4323-8296-6D8F232E6E15"
-    },
-    {
-      "class": "group",
-      "id": "F4C3F00B-EB08-4BC5-8816-1ABB827EC682"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F0FC642F-36DE-461C-9E7A-FF1A86D52108"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7F3AAB79-0F1C-4AFB-A9B6-8891FF88A296"
+      "class": "shapeGroup",
+      "id": "BB547E4E-2884-417C-8762-D1E9D7CBA9A7"
     }
   ],
   "name": "Modals / Modal",

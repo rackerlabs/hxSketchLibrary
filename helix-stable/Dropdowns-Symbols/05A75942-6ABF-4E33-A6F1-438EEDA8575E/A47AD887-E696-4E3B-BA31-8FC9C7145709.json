@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 30,
     "width": 250,
-    "x": 0,
+    "x": 7,
     "y": 68
   },
   "horizontalSpacing": 0,
@@ -28,13 +28,13 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "_parts / Checkbox / Warning Error",
-  "nameIsFixed": false,
+  "name": "Error Message",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 27,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

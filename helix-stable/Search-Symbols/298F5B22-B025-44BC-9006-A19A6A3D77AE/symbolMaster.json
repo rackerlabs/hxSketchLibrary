@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2478,
+  "changeIdentifier": 2486,
   "do_objectID": "298F5B22-B025-44BC-9006-A19A6A3D77AE",
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,16 +52,16 @@
       "id": "8BABE05B-F0F5-4BCB-99D4-C279148953F6"
     },
     {
-      "class": "text",
-      "id": "223EF74E-F75C-431A-AB2F-C49BCFD34612"
-    },
-    {
       "class": "shapeGroup",
       "id": "9980530C-6654-47A2-B5DD-DE8CD35182AF"
     },
     {
       "class": "text",
       "id": "290A8DEB-3355-4A53-B7FB-D021338FCC8F"
+    },
+    {
+      "class": "text",
+      "id": "223EF74E-F75C-431A-AB2F-C49BCFD34612"
     }
   ],
   "name": "Search / Assistive / Container",

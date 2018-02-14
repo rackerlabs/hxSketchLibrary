@@ -15,7 +15,7 @@
     "constrainProportions": false,
     "height": 32,
     "width": 250,
-    "x": 0,
+    "x": 7,
     "y": 24
   },
   "horizontalSpacing": 0,
@@ -34,7 +34,7 @@
   ],
   "overrides": {
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

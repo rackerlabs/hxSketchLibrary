@@ -32,8 +32,8 @@
       "id": "0E68D5B4-7BBE-47A7-94BB-41F9C7115FDF"
     }
   ],
-  "name": "Rectangle 3 Copy 6",
-  "nameIsFixed": false,
+  "name": "Bottom Margin",
+  "nameIsFixed": true,
   "resizingConstraint": 39,
   "resizingType": 0,
   "rotation": 0,

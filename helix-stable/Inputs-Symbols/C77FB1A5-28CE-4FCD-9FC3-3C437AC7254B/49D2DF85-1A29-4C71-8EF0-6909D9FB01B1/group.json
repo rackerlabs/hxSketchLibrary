@@ -34,8 +34,8 @@
       "id": "9B8AF2B4-E268-4E77-96AC-E47ECAB4F039"
     }
   ],
-  "name": "Group 5",
-  "nameIsFixed": false,
+  "name": "Switch Icon",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
