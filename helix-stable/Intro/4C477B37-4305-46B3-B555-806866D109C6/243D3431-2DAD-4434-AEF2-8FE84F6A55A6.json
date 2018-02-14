@@ -1,6 +1,7 @@
 {
-  "_class": "group",
-  "do_objectID": "30EB5733-81DD-4CD1-BB7F-4D1F9EB05622",
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "243D3431-2DAD-4434-AEF2-8FE84F6A55A6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,36 +11,27 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 95,
-    "width": 85,
-    "x": 116,
-    "y": 189
+    "height": 480,
+    "width": 600,
+    "x": 0,
+    "y": 0
   },
-  "hasClickThrough": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/bb90b432df4e1b2cda41d12d7ca4c0018b86fa9c",
+    "_ref_class": "MSImageData"
+  },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "6DE2B5E6-6554-4E66-A1F4-139046D61102"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "09447852-CC5C-4C3F-A649-13821149CEE4"
-    },
-    {
-      "class": "group",
-      "id": "21D856B6-F70E-42B1-9CE8-B6C0E1E140DE"
-    }
-  ],
-  "name": "icon",
-  "nameIsFixed": true,
+  "layerListExpandedType": 0,
+  "name": "Bitmap",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
