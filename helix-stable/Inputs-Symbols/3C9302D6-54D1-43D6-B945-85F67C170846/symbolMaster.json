@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1556,
+  "changeIdentifier": 1582,
   "do_objectID": "3C9302D6-54D1-43D6-B945-85F67C170846",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,7 +45,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "14ACEC70-4F12-4854-B3A9-FAEC251E7A3B"
+      "id": "4BA557E7-FD44-42AD-A0DC-1AEFA9EDA38B"
     },
     {
       "class": "symbolInstance",
@@ -53,7 +53,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "4BA557E7-FD44-42AD-A0DC-1AEFA9EDA38B"
+      "id": "14ACEC70-4F12-4854-B3A9-FAEC251E7A3B"
     }
   ],
   "name": "Inputs / Selector / 3-up Generic",

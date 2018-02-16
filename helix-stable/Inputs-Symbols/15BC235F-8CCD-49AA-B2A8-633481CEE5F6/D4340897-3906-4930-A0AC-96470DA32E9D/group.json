@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -34,8 +34,8 @@
       "id": "F6E23FF0-B5A8-4B3E-8DAC-F908E3E3EACC"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "Switch Icon",
+  "nameIsFixed": true,
   "resizingConstraint": 41,
   "resizingType": 0,
   "rotation": 0,

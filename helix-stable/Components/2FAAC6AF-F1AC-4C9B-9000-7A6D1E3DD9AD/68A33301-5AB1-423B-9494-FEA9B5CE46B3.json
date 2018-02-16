@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 150,
-    "width": 260,
+    "width": 205,
     "x": 186,
     "y": 85
   },
@@ -24,10 +24,10 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 32,
+  "masterInfluenceEdgeMaxXPadding": 0,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 174,
+  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Inputs / Checkbox / Checkbox Group",
   "nameIsFixed": false,
   "overrideValues": [

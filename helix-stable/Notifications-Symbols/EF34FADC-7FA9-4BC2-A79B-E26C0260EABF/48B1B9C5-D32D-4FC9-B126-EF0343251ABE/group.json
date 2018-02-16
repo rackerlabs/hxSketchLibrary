@@ -30,8 +30,8 @@
       "id": "EC6B02B8-6641-4D3F-B38D-7BCBB04A7C61"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "Toast",
+  "nameIsFixed": true,
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,

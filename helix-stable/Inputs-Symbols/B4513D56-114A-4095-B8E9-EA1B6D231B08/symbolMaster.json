@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3140,
+  "changeIdentifier": 3276,
   "do_objectID": "B4513D56-114A-4095-B8E9-EA1B6D231B08",
   "exportOptions": {
     "_class": "exportOptions",
@@ -44,20 +44,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "8B5362C2-9944-4CD9-B1C3-38578A944FFC"
-    },
-    {
-      "class": "text",
-      "id": "17FDFDCC-3261-4F44-B9B9-1C02269871D3"
-    },
-    {
       "class": "symbolInstance",
-      "id": "A0382371-1B08-4E1A-BFFA-8A62A526B6EF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3559D560-446E-4232-9FB9-6697AA1E5744"
+      "id": "8DE7E901-3353-48CD-8F36-9B62840F4BCB"
     },
     {
       "class": "symbolInstance",
@@ -65,12 +53,24 @@
     },
     {
       "class": "symbolInstance",
-      "id": "8DE7E901-3353-48CD-8F36-9B62840F4BCB"
+      "id": "3559D560-446E-4232-9FB9-6697AA1E5744"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0382371-1B08-4E1A-BFFA-8A62A526B6EF"
+    },
+    {
+      "class": "text",
+      "id": "17FDFDCC-3261-4F44-B9B9-1C02269871D3"
+    },
+    {
+      "class": "text",
+      "id": "8B5362C2-9944-4CD9-B1C3-38578A944FFC"
     }
   ],
   "name": "Inputs / Radio / Radio Group w/ sub",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

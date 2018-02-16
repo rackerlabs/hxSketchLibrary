@@ -32,8 +32,8 @@
       "id": "7390234F-2EEF-4F60-B5CA-5A915F5F8A46"
     }
   ],
-  "name": "Fill-5-Copy",
-  "nameIsFixed": false,
+  "name": "Loading",
+  "nameIsFixed": true,
   "originalObjectID": "3225680E-F26D-48EA-B652-FE91339D1049",
   "resizingConstraint": 63,
   "resizingType": 0,

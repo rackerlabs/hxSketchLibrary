@@ -32,8 +32,8 @@
       "id": "CCE2048E-D2C8-427D-9EDC-3A30454DDD96"
     }
   ],
-  "name": "Fill 227 Copy 10",
-  "nameIsFixed": false,
+  "name": "Pointer",
+  "nameIsFixed": true,
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 270,

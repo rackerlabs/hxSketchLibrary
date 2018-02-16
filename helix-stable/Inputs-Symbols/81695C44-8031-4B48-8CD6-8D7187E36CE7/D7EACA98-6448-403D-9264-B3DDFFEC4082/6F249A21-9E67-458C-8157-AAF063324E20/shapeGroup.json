@@ -32,8 +32,8 @@
       "id": "F8D3AEE4-2B94-4F73-9440-2DF05037A783"
     }
   ],
-  "name": "Line 2 Copy 5",
-  "nameIsFixed": false,
+  "name": "Line",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

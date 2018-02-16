@@ -16,7 +16,7 @@
     "constrainProportions": false,
     "height": 100,
     "width": 20,
-    "x": 274.9999999999999,
+    "x": 292.9999999999999,
     "y": 0
   },
   "hasClickThrough": false,
@@ -32,8 +32,8 @@
       "id": "CD49D87D-9CB3-4C55-9822-9C997215C38E"
     }
   ],
-  "name": "Rectangle 3 Copy 2",
-  "nameIsFixed": false,
+  "name": "Gutter 3",
+  "nameIsFixed": true,
   "resizingConstraint": 21,
   "resizingType": 0,
   "rotation": 0,

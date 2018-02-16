@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 591,
+  "changeIdentifier": 595,
   "do_objectID": "4250546C-C1E9-438E-A38A-BCFF52955C2A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -44,12 +44,12 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "74A15419-26E9-4950-89E9-7D47BE5AF68E"
-    },
-    {
       "class": "shapeGroup",
       "id": "38E1949D-A5F5-45B0-95A6-5D5B968F429C"
+    },
+    {
+      "class": "text",
+      "id": "74A15419-26E9-4950-89E9-7D47BE5AF68E"
     }
   ],
   "name": "_parts / Selector / Middle / Disabled",

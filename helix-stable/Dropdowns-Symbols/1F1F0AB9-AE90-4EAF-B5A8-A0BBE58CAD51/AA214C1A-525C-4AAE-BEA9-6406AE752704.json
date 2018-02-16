@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 5,
   "masterInfluenceEdgeMinXPadding": 5,
   "masterInfluenceEdgeMinYPadding": 5,
-  "name": "_parts / Inputs / Text / States / Focused",
-  "nameIsFixed": false,
+  "name": "Background",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 365,
+  "changeIdentifier": 371,
   "do_objectID": "A1682B7B-5533-4AFB-9F3B-66014AF18FD2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -44,12 +44,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "98E18159-9DA5-437D-8C02-A8E39A35DF44"
-    },
-    {
       "class": "shapeGroup",
       "id": "7E31C723-25C4-4594-B231-B93C1CB30CDC"
+    },
+    {
+      "class": "text",
+      "id": "98E18159-9DA5-437D-8C02-A8E39A35DF44"
     }
   ],
   "name": "_parts / Selector / Middle / Default",

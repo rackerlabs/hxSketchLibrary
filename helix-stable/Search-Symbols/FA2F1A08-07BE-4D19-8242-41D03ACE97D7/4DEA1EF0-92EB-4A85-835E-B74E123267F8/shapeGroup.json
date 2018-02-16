@@ -32,10 +32,10 @@
       "id": "C9711E80-BED9-4F47-A956-B593252E6F5C"
     }
   ],
-  "name": "Dropdown Background Copy",
+  "name": "Background",
   "nameIsFixed": true,
   "originalObjectID": "444A5EB2-39A2-4F19-B71D-A03601A1918C",
-  "resizingConstraint": 21,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

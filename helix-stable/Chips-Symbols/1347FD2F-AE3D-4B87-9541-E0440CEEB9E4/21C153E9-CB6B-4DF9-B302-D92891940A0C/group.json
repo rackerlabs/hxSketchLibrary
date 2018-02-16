@@ -42,8 +42,8 @@
       "id": "5808CEE3-2B9D-4072-A6C4-CCF0D874DAD8"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "Openstack",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

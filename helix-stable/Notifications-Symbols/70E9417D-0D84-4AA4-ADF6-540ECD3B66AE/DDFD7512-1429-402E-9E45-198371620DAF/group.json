@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -42,8 +42,8 @@
       "id": "C6B5376B-6180-4443-999A-8D62AC8E2010"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "Alert-container",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

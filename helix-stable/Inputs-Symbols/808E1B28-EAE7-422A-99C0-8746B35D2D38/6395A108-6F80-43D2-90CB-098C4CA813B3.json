@@ -22,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 19,
-    "width": 101,
+    "width": 194,
     "x": 7,
     "y": 6
   },
@@ -34,10 +34,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Input Disab",
+  "name": "Input",
   "nameIsFixed": true,
   "originalObjectID": "C31F74A5-AAA4-4F05-8E36-D31050F59642",
-  "resizingConstraint": 11,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -62,5 +62,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

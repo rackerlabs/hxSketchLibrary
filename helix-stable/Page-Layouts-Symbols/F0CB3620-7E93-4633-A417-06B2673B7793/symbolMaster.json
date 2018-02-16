@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2530,
+  "changeIdentifier": 2781,
   "do_objectID": "F0CB3620-7E93-4633-A417-06B2673B7793",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 100,
     "width": 1200,
-    "x": 1181,
-    "y": -3298
+    "x": 1054,
+    "y": -2345
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,23 +49,7 @@
     },
     {
       "class": "shapeGroup",
-      "id": "428DE318-C383-44D7-9938-42D3BFA85514"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "EC4F26A2-425A-498B-9348-65515472D83C"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "AE2CE0F9-8111-4AD3-854D-713ADDD544E2"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "68D89499-81DC-4764-AC7B-8B1A3DB9AC39"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "4B887377-239E-4CE5-9DAE-6467154B0B05"
+      "id": "C97F5CCD-4A2D-4A97-91FA-1AE3FADFDE22"
     },
     {
       "class": "shapeGroup",
@@ -73,7 +57,11 @@
     },
     {
       "class": "shapeGroup",
-      "id": "3D3081EB-5F5B-450E-9A03-B1B397151267"
+      "id": "FF2284BB-60A1-4F94-AE88-A7091EB5ACEA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "68D89499-81DC-4764-AC7B-8B1A3DB9AC39"
     },
     {
       "class": "shapeGroup",
@@ -81,11 +69,7 @@
     },
     {
       "class": "shapeGroup",
-      "id": "94554B8F-18DB-4598-807B-9236811FD563"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "FF2284BB-60A1-4F94-AE88-A7091EB5ACEA"
+      "id": "EC4F26A2-425A-498B-9348-65515472D83C"
     },
     {
       "class": "shapeGroup",
@@ -93,15 +77,27 @@
     },
     {
       "class": "shapeGroup",
+      "id": "4B887377-239E-4CE5-9DAE-6467154B0B05"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "94554B8F-18DB-4598-807B-9236811FD563"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE2CE0F9-8111-4AD3-854D-713ADDD544E2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3D3081EB-5F5B-450E-9A03-B1B397151267"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "428DE318-C383-44D7-9938-42D3BFA85514"
+    },
+    {
+      "class": "shapeGroup",
       "id": "67DC7B7C-972A-4D59-A141-E37AD886CE63"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "90C6BDFA-C00B-419B-A3F7-D30A12397C20"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C97F5CCD-4A2D-4A97-91FA-1AE3FADFDE22"
     }
   ],
   "name": "_parts / Grid / 12Col",

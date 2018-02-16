@@ -28,7 +28,7 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 2,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "pointer",
+  "name": "Location",
   "nameIsFixed": true,
   "overrideValues": [
   ],

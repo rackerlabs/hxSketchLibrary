@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 808,
+  "changeIdentifier": 818,
   "do_objectID": "DDDB385E-1B6F-492C-962F-68BF044E025C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -70,7 +70,7 @@
   ],
   "name": "Tables / Header / Default / Checkbox",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

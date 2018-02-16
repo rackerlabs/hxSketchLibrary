@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Buttons / Standard",
-  "nameIsFixed": false,
+  "name": "Primary",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
@@ -54,7 +54,7 @@
       }
     }
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

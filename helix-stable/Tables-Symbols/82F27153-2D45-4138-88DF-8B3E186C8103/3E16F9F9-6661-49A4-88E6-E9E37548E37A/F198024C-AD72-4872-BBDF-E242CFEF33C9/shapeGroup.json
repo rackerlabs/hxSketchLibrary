@@ -23,7 +23,7 @@
   "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 1,
   "layers": [
@@ -32,8 +32,8 @@
       "id": "7276C1A7-B465-405E-85E9-C259C03D54A2"
     }
   ],
-  "name": "Rectangle 11",
-  "nameIsFixed": false,
+  "name": "Rectangle",
+  "nameIsFixed": true,
   "originalObjectID": "710BAF5A-6596-4DA1-8DB6-64F2F102CD09",
   "resizingConstraint": 45,
   "resizingType": 0,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 225,
+  "changeIdentifier": 233,
   "do_objectID": "1883EC29-5024-4D48-ABA7-726D3E306EFB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,7 +50,7 @@
   ],
   "name": "Inputs / Radio / Radio",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -32,8 +32,8 @@
       "id": "C656CE22-432A-499E-A97E-915E6AD61070"
     }
   ],
-  "name": "Rectangle",
-  "nameIsFixed": false,
+  "name": "Container",
+  "nameIsFixed": true,
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,

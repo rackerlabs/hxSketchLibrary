@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 1,
   "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 1,
-  "name": "Inputs / Selector / Base",
-  "nameIsFixed": false,
+  "name": "Selector 1",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

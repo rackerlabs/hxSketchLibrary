@@ -32,8 +32,8 @@
       "id": "9A6FE4DD-0D08-464E-A4EA-A03CF4AF3542"
     }
   ],
-  "name": "Rectangle 3 Copy 20",
-  "nameIsFixed": false,
+  "name": "Gutter 2",
+  "nameIsFixed": true,
   "resizingConstraint": 21,
   "resizingType": 0,
   "rotation": 0,

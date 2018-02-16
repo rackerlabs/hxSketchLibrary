@@ -23,15 +23,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "F3CE59B8-EB83-4F94-BAB8-E52024CE657A"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "AWS",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

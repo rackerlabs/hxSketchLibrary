@@ -21,8 +21,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 21,
-    "width": 38,
+    "height": 19,
+    "width": 194,
     "x": 7,
     "y": 5
   },
@@ -37,7 +37,7 @@
   "name": "Input",
   "nameIsFixed": false,
   "originalObjectID": "8CFA712E-4105-482F-B449-3B18AB3DCDD3",
-  "resizingConstraint": 11,
+  "resizingConstraint": 26,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -62,5 +62,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

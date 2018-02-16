@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Status-Label Copy 2",
-  "nameIsFixed": false,
+  "name": "Status-Label",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

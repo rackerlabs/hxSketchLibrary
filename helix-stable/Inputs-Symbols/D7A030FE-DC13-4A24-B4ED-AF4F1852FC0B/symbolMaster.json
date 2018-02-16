@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1687,
+  "changeIdentifier": 1784,
   "do_objectID": "D7A030FE-DC13-4A24-B4ED-AF4F1852FC0B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,15 +45,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "59EB0C46-AC56-4876-B017-D9286B8B1EA5"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D8ED2340-9514-4AF5-96FC-A5FD02B2C092"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BDAA3CFC-B2EF-4F91-8964-F865C3F3BBFF"
+      "id": "4F7D75C0-2BFF-4726-ACAA-352E3DA9305A"
     },
     {
       "class": "symbolInstance",
@@ -61,16 +53,24 @@
     },
     {
       "class": "symbolInstance",
-      "id": "ED80A8E1-0FDF-4FFA-A193-AEC15834DF3D"
+      "id": "BDAA3CFC-B2EF-4F91-8964-F865C3F3BBFF"
     },
     {
       "class": "symbolInstance",
-      "id": "4F7D75C0-2BFF-4726-ACAA-352E3DA9305A"
+      "id": "D8ED2340-9514-4AF5-96FC-A5FD02B2C092"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "59EB0C46-AC56-4876-B017-D9286B8B1EA5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED80A8E1-0FDF-4FFA-A193-AEC15834DF3D"
     }
   ],
   "name": "Inputs / Checkbox / Checkbox Group",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -28,13 +28,13 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "_parts / Search / Results / Term Group",
-  "nameIsFixed": false,
+  "name": "Results Group",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {
   },
-  "resizingConstraint": 63,
+  "resizingConstraint": 26,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

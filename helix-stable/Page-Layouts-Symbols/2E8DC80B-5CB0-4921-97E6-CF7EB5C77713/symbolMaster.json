@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2372,
+  "changeIdentifier": 2486,
   "do_objectID": "2E8DC80B-5CB0-4921-97E6-CF7EB5C77713",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 100,
     "width": 1200,
-    "x": 1181,
-    "y": -2970
+    "x": 1054,
+    "y": -2017
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,15 +49,7 @@
     },
     {
       "class": "shapeGroup",
-      "id": "579B15F2-75D3-4F29-BE59-8C57FFAA5EF6"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "839B5F92-35A9-4F2A-B5C8-B5B0DDD0F15C"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1C7A2098-149D-4B9F-B407-FF943B1954DC"
+      "id": "FF901A11-8D7D-414C-BD42-CBC91A86CAEC"
     },
     {
       "class": "shapeGroup",
@@ -65,7 +57,15 @@
     },
     {
       "class": "shapeGroup",
-      "id": "FF901A11-8D7D-414C-BD42-CBC91A86CAEC"
+      "id": "839B5F92-35A9-4F2A-B5C8-B5B0DDD0F15C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "579B15F2-75D3-4F29-BE59-8C57FFAA5EF6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C7A2098-149D-4B9F-B407-FF943B1954DC"
     }
   ],
   "name": "_parts / Grid / 4col",

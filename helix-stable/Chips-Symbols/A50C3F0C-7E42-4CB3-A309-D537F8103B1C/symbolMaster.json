@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 851,
+  "changeIdentifier": 885,
   "do_objectID": "A50C3F0C-7E42-4CB3-A309-D537F8103B1C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -23
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -41,11 +41,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "AF2F4E4E-3E3E-4C6E-889E-8E5951B3153A"
+    },
+    {
       "class": "group",
-      "id": "CA59DAAD-EB15-4BC8-86E2-883BA52ACBC8"
+      "id": "6849785B-9130-4883-BF4A-37F14A1E07D1"
     }
   ],
   "name": "Chip / Create",

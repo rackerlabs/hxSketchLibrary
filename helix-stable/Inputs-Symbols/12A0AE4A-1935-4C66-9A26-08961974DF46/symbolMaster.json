@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 603,
+  "changeIdentifier": 637,
   "do_objectID": "12A0AE4A-1935-4C66-9A26-08961974DF46",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -191
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,8 +44,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "18D77F34-316B-4478-8856-630629C4476E"
+      "class": "shapeGroup",
+      "id": "733F0534-123A-4A10-979C-A1BD0B9D8F8E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1D2D8BC-E9A2-4874-BB2C-27F767809BE2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43F8148F-7372-4DC8-A385-C43F81FD530E"
     }
   ],
   "name": "_parts / Radio / Selected",

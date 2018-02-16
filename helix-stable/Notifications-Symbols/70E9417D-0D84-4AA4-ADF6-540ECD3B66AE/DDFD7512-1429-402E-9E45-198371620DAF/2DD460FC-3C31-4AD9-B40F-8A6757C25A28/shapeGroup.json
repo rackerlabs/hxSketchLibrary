@@ -32,8 +32,8 @@
       "id": "1E2015DF-BADB-4114-983C-E63A4EB9B380"
     }
   ],
-  "name": "Fill 48 Copy 5",
-  "nameIsFixed": false,
+  "name": "Background",
+  "nameIsFixed": true,
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,

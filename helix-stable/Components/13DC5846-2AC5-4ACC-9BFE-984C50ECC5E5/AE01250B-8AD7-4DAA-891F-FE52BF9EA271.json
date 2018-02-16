@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Dropdown/Input Copy 4",
-  "nameIsFixed": false,
+  "name": "Dropdown/Input",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

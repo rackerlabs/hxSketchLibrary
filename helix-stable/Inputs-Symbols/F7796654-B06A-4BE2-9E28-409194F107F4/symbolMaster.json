@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1175,
+  "changeIdentifier": 1278,
   "do_objectID": "F7796654-B06A-4BE2-9E28-409194F107F4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,6 +45,14 @@
   "layers": [
     {
       "class": "symbolInstance",
+      "id": "93D4EC53-E813-4771-8F62-9194ADC59CF1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B45A2302-DD67-450D-9938-A3FC7D9F75AE"
+    },
+    {
+      "class": "symbolInstance",
       "id": "726F4488-159E-4CA3-8189-9069B277D89A"
     },
     {
@@ -54,14 +62,6 @@
     {
       "class": "symbolInstance",
       "id": "D6C863FA-C29B-4372-863B-EB3626040B12"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "93D4EC53-E813-4771-8F62-9194ADC59CF1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B45A2302-DD67-450D-9938-A3FC7D9F75AE"
     }
   ],
   "name": "Inputs / Text / Text-Input Full",

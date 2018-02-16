@@ -32,8 +32,8 @@
       "id": "AD2F2F73-A7CB-426C-81CF-DA71A8D6C82F"
     }
   ],
-  "name": "Rectangle 10",
-  "nameIsFixed": false,
+  "name": "Rectangle",
+  "nameIsFixed": true,
   "originalObjectID": "4E217160-FA06-49F2-83AD-8EB8818DF84E",
   "resizingConstraint": 63,
   "resizingType": 0,

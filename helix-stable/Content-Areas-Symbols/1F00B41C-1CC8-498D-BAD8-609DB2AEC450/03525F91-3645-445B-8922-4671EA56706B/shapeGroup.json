@@ -32,8 +32,8 @@
       "id": "4AA87ED6-A94B-48BC-A5CD-92BF44015262"
     }
   ],
-  "name": "Rectangle 2",
-  "nameIsFixed": false,
+  "name": "Bottom border",
+  "nameIsFixed": true,
   "resizingConstraint": 34,
   "resizingType": 0,
   "rotation": 0,

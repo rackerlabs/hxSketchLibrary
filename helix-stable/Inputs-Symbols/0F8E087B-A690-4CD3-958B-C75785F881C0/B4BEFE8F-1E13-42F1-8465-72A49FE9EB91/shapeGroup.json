@@ -32,8 +32,8 @@
       "id": "9F220F74-CB8E-40D8-AF52-537EF7AC06C6"
     }
   ],
-  "name": "Rectangle Copy 4",
-  "nameIsFixed": false,
+  "name": "Rectangle",
+  "nameIsFixed": true,
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,

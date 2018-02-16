@@ -16,7 +16,7 @@
     "height": 316,
     "width": 720,
     "x": 53,
-    "y": 826
+    "y": 901
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,7 +24,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxXPadding": 93,
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 0,

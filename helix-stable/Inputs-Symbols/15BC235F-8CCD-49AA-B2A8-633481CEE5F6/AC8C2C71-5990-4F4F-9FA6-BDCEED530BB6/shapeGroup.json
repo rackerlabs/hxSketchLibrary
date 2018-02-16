@@ -32,8 +32,8 @@
       "id": "DC840DDA-93F8-4963-BB9E-6E425A3EF466"
     }
   ],
-  "name": "Rectangle Copy 50",
-  "nameIsFixed": false,
+  "name": "Background",
+  "nameIsFixed": true,
   "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,

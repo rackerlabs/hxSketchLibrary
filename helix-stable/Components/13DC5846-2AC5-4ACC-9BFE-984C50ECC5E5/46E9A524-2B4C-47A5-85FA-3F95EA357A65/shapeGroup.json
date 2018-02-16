@@ -32,8 +32,8 @@
       "id": "BC2B70B0-0B09-4A45-A13D-CB2CAF0CADC2"
     }
   ],
-  "name": "Rectangle Copy",
-  "nameIsFixed": false,
+  "name": "Header",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 273,
+  "changeIdentifier": 278,
   "do_objectID": "1E191761-EF13-43F7-95D2-E4A141790D81",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -219
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,8 +44,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "570211B7-00F9-4700-B8BA-ABE9BEC72E72"
+      "class": "shapeGroup",
+      "id": "D439AFAC-79BE-4CF9-BD41-64035506D5CE"
     }
   ],
   "name": "_parts / Radio / Deselected",

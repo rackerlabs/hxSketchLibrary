@@ -32,8 +32,8 @@
       "id": "76E49585-FDC1-4DF3-A520-1A981F2FE290"
     }
   ],
-  "name": "Oval Copy 27",
-  "nameIsFixed": false,
+  "name": "Oval",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

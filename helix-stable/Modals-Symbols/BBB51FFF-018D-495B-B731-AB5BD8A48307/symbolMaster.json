@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1645,
+  "changeIdentifier": 1651,
   "do_objectID": "BBB51FFF-018D-495B-B731-AB5BD8A48307",
   "exportOptions": {
     "_class": "exportOptions",
@@ -54,10 +54,6 @@
     {
       "class": "shapeGroup",
       "id": "6CCC6E59-CCE8-405D-AFF5-B5A82CB78B80"
-    },
-    {
-      "class": "group",
-      "id": "1AA4CB00-AF03-43E1-B301-0F59025ACC19"
     }
   ],
   "name": "Modals / Loading",

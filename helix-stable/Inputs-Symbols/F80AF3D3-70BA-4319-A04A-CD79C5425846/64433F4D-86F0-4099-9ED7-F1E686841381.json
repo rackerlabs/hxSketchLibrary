@@ -28,8 +28,8 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "Inputs / Text / Text-Area",
-  "nameIsFixed": false,
+  "name": "State",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {
