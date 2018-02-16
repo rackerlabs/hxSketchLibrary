@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3524,
+  "changeIdentifier": 3553,
   "do_objectID": "88784E8F-C6B6-48BC-B6CA-B3D4FE6EAFF5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -45,35 +45,35 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "2ED63C54-B132-4FAA-A6C7-39283702633E"
+      "id": "E958C413-5F3D-4664-9CCA-829D73981C9B"
     },
     {
       "class": "shapeGroup",
-      "id": "974F604F-FC05-4FF1-8EB8-09A3D45B0785"
+      "id": "11420ADE-2ED4-4645-827C-2A501F6CD5E6"
     },
     {
       "class": "text",
-      "id": "340B0E89-46E7-4A25-A69A-0B5699876A3D"
+      "id": "292805CA-D47A-4D0D-A411-4A15309B3C3A"
     },
     {
       "class": "text",
-      "id": "EFC5B6D0-3EC0-46DF-B95F-6485BF9DCEA8"
+      "id": "82A02C87-FC76-412E-B167-DAD00593EB09"
     },
     {
       "class": "text",
-      "id": "CF893E69-BBF5-4976-9B3B-A76EB908A88A"
+      "id": "9523493B-5352-4695-AC61-9F5565B55D45"
     },
     {
       "class": "text",
-      "id": "BE395DE8-1ECD-4C46-851B-D0E68950D6D5"
-    },
-    {
-      "class": "group",
-      "id": "0230C25B-4D79-4557-A86E-608256996BB8"
+      "id": "E441D536-47F3-41CF-84A1-057973E552E3"
     },
     {
       "class": "symbolInstance",
-      "id": "AA860758-DA16-46FA-B02D-A2674112BE2F"
+      "id": "A1FAC4DB-2936-4F5C-9D2B-0913510AB957"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E8ECF501-BE59-4861-911B-812A5442B95B"
     }
   ],
   "name": "Tables / Row / Condensed / Check + Cog",

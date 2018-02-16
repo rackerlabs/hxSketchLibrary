@@ -36,7 +36,7 @@
   "lineSpacingBehaviour": 1,
   "name": "Error message",
   "nameIsFixed": true,
-  "resizingConstraint": 10,
+  "resizingConstraint": 26,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

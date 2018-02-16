@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "2ED63C54-B132-4FAA-A6C7-39283702633E",
+  "do_objectID": "A1FAC4DB-2936-4F5C-9D2B-0913510AB957",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 33,
-    "width": 720,
-    "x": 0,
-    "y": 0
+    "height": 16,
+    "width": 16,
+    "x": 36,
+    "y": 8
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -28,13 +28,21 @@
   "masterInfluenceEdgeMaxYPadding": 0,
   "masterInfluenceEdgeMinXPadding": 0,
   "masterInfluenceEdgeMinYPadding": 0,
-  "name": "State",
+  "name": "Cog",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F59FC87B-338D-4249-B197-80720493482F_symbolID",
+      "value": "8A33095F-ADF3-4B59-A10C-DF05F83B87DE"
+    }
   ],
   "overrides": {
+    "F59FC87B-338D-4249-B197-80720493482F": {
+      "symbolID": "8A33095F-ADF3-4B59-A10C-DF05F83B87DE"
+    }
   },
-  "resizingConstraint": 42,
+  "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -45,6 +53,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "17A3205E-F426-48A4-BBF2-E0812835F570",
+  "symbolID": "CA00998D-DB31-4363-9CBF-5C654F1E1D57",
   "verticalSpacing": 0
 }

@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 39,
     "width": 241,
-    "x": -0.5,
-    "y": -1
+    "x": 0.5,
+    "y": 0
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,

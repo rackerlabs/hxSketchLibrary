@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2184,
+  "changeIdentifier": 2218,
   "do_objectID": "7BDE27D1-9D18-4928-9BC5-C554F8F31C34",
   "exportOptions": {
     "_class": "exportOptions",
@@ -66,7 +66,7 @@
   ],
   "name": "Inputs / Radio / Radio Group - no sub",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

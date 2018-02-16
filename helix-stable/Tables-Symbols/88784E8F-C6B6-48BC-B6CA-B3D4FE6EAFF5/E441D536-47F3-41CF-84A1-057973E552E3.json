@@ -7,7 +7,7 @@
     }
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "BE395DE8-1ECD-4C46-851B-D0E68950D6D5",
+  "do_objectID": "E441D536-47F3-41CF-84A1-057973E552E3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 147,
+    "width": 44,
     "x": 62,
     "y": 8
   },
@@ -37,7 +37,7 @@
   "name": "Data 1",
   "nameIsFixed": true,
   "originalObjectID": "44345C01-2A02-4FCB-A8D7-0AAB2D13C244",
-  "resizingConstraint": 57,
+  "resizingConstraint": 43,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -65,7 +65,7 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
