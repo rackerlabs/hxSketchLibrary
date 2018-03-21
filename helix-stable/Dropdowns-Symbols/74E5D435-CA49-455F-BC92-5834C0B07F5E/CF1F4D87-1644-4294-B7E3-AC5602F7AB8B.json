@@ -24,10 +24,6 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 4,
-  "masterInfluenceEdgeMaxYPadding": 4,
-  "masterInfluenceEdgeMinXPadding": 4,
-  "masterInfluenceEdgeMinYPadding": 4,
   "name": "State",
   "nameIsFixed": true,
   "overrideValues": [

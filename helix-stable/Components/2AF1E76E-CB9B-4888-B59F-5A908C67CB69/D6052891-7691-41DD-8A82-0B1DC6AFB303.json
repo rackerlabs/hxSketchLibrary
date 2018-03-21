@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 4,
-  "masterInfluenceEdgeMaxYPadding": 4,
-  "masterInfluenceEdgeMinXPadding": 4,
-  "masterInfluenceEdgeMinYPadding": 4,
   "name": "Inputs / Text / Text-Input",
   "nameIsFixed": false,
   "overrideValues": [

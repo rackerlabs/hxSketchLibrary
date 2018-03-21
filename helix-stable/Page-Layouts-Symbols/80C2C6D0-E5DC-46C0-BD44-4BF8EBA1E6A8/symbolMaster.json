@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -69,6 +70,13 @@
   },
   "name": "Layout/Mobile+native",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 320,
+    "name": "iPhone SE",
+    "offersLandscapeVariant": 1,
+    "width": 568
+  },
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

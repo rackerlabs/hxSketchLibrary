@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "E78F33E9-367F-4FA0-B71E-1BC9DFD86295",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "387211AD-8FDF-4774-914E-A35E3AC531BB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3DF3153F-5376-4299-86A3-5B9E87E5E805",
+    "height": 50,
+    "width": 50,
+    "x": 0,
+    "y": 450
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "20C640C4-459E-43CC-B16E-34A4643A657A"
+    },
+    {
+      "class": "text",
+      "id": "3F149980-EBFD-450F-8B7D-8D887AC1D9D7"
+    }
+  ],
+  "name": "Orange 900",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E7F8AAA-E69C-4072-99F0-B48A3AE5D0A5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

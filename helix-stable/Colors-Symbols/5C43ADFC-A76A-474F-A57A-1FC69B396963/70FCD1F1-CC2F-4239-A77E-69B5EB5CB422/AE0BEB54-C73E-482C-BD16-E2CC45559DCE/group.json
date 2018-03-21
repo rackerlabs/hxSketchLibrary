@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "AE0BEB54-C73E-482C-BD16-E2CC45559DCE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF59F1ED-3ECC-44C9-9D9E-A8CA118E2FE2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "17A6F057-10B2-409C-A79C-A48983218124",
+    "height": 50,
+    "width": 50,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4C11946F-8497-4CB8-9A40-2BF84DEB98F8"
+    },
+    {
+      "class": "text",
+      "id": "75C0184C-F631-4D1C-9073-1982430F7AC2"
+    }
+  ],
+  "name": "Green 500",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "883D200C-EC3F-4837-A54D-B56E334AEE5E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

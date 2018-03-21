@@ -24,10 +24,6 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 5,
-  "masterInfluenceEdgeMaxYPadding": 5,
-  "masterInfluenceEdgeMinXPadding": 5,
-  "masterInfluenceEdgeMinYPadding": 5,
   "name": "Background",
   "nameIsFixed": true,
   "overrideValues": [

@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "0551E91A-41FA-4BD4-BDFB-F6A8C2379600",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C8262AD-C22E-4240-AF83-1F0E7021A275",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E9908188-E073-4BF2-A475-08E5913D5020",
+    "height": 50,
+    "width": 50,
+    "x": 0,
+    "y": 500
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "26656494-14EC-4AD5-9812-606895094DF1"
+    },
+    {
+      "class": "text",
+      "id": "A8399907-C149-4966-8163-6032967B61CD"
+    }
+  ],
+  "name": "Gray 800",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9182C600-5E7F-4F47-BA24-753FA9AD86E4",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
