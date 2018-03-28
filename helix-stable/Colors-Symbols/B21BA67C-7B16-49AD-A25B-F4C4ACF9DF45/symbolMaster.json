@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 642,
+  "changeIdentifier": 644,
   "do_objectID": "B21BA67C-7B16-49AD-A25B-F4C4ACF9DF45",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 529
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,7 +49,7 @@
       "id": "A3862A44-CF55-4BAD-8688-D2CB762DD68B"
     }
   ],
-  "name": "Colors / Blue / Blue 500",
+  "name": "Colors / Blue / Blue 500 (#3391FF)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -62,6 +63,12 @@
     "startDecorationType": 0
   },
   "symbolID": "CBF6F509-AC7B-459B-B1F9-D56FEB7F9408",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
