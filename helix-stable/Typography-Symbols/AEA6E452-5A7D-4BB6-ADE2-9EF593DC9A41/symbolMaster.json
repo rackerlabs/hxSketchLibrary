@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 432,
+  "changeIdentifier": 433,
   "do_objectID": "AEA6E452-5A7D-4BB6-ADE2-9EF593DC9A41",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,7 +53,7 @@
       "id": "E5737334-E985-4C16-8DB5-6DA265B50B28"
     }
   ],
-  "name": "Typography / Header Four (H5)",
+  "name": "Typography / Header Four (H5 - 12px)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
