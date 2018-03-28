@@ -68,19 +68,19 @@
     },
     {
       "class": "symbolInstance",
+      "id": "B95E689D-FE79-4499-9DA4-E790905076D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "02F3E094-DC69-4ECE-87DC-A9951B7A4F7C"
+    },
+    {
+      "class": "symbolInstance",
       "id": "629A7FA5-D229-441D-B861-ACD29CC8F676"
     },
     {
       "class": "symbolInstance",
       "id": "295A1B9E-DBC0-4390-9982-8D0445A94EF3"
-    },
-    {
-      "class": "text",
-      "id": "0E69E069-EB1A-486E-B973-0E40DCB336D4"
-    },
-    {
-      "class": "text",
-      "id": "B7FBE580-796A-4681-A735-49470B1961D0"
     },
     {
       "class": "symbolInstance",
@@ -93,6 +93,14 @@
     {
       "class": "symbolInstance",
       "id": "44DE056E-2554-442C-969A-3D087A2DA790"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "20D5B4F2-3BD5-4BED-8574-0D27D096ABA7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "733EC51F-6E7C-4AE4-AF7D-B59EFCFF410C"
     }
   ],
   "name": "Typography",

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2347,
+  "changeIdentifier": 2348,
   "do_objectID": "373ACD10-C5AC-4D32-897F-2D573A7B66F9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 266
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -69,7 +69,7 @@
       "id": "5765604B-0847-42DE-975C-14AD64CD40B7"
     }
   ],
-  "name": "Tables / Mockup / Condensed / Basic",
+  "name": "Tables: Mockup / Condensed / Basic",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

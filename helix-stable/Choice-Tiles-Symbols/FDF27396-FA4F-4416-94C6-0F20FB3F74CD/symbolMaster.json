@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 543,
+  "changeIdentifier": 544,
   "do_objectID": "FDF27396-FA4F-4416-94C6-0F20FB3F74CD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 318
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,14 +42,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "E704B25E-09A5-4193-BA03-051EFFE19A13"
     }
   ],
-  "name": "Choice Tile / No Description",
+  "name": "Inputs: Choice Tile / No Description",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -7,7 +7,7 @@
     "green": 0.9803921568627451,
     "red": 0.9803921568627451
   },
-  "changeIdentifier": 2336,
+  "changeIdentifier": 2340,
   "do_objectID": "FE73BCDC-3EF9-42BB-AEDC-AF2CFCDEF9C2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -2529
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -76,7 +76,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1400
   },
-  "name": "Layout/With-Eyebrow/Top-Nav/Desktop-Tablet",
+  "name": "Layout: Top-Nav/With-Eyebrow",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

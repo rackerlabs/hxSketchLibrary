@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 317,
+  "changeIdentifier": 318,
   "do_objectID": "C5FE9549-5042-4602-A0A1-FD5B80EE0615",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,14 +42,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "90470FBE-8B17-47E3-84C5-51CE0B5DC475"
     }
   ],
-  "name": "Colors / Orange / Orange 700 (#DD6105)",
+  "name": "Style: Colors / Orange / Orange 700 (#DD6105)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

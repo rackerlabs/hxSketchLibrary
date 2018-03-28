@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 228,
+  "changeIdentifier": 229,
   "do_objectID": "933C6F35-2F18-4599-BE47-521EBAF9C335",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -362
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "slice",
@@ -57,7 +57,7 @@
       "id": "C5EED6D8-2713-4F76-9366-B3BB179B0F0F"
     }
   ],
-  "name": "Icons / exclamation/circle",
+  "name": "Style: Icons / exclamation/circle",
   "nameIsFixed": true,
   "originalObjectID": "EA77E531-FB0C-4B12-A97F-C7DFF8048217",
   "resizesContent": false,

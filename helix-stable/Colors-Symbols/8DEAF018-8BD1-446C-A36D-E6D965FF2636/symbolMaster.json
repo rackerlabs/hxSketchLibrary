@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 328,
+  "changeIdentifier": 329,
   "do_objectID": "8DEAF018-8BD1-446C-A36D-E6D965FF2636",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,14 +42,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "E4C72545-85F0-43F0-A2F4-F1DD30056822"
     }
   ],
-  "name": "Colors / Gray / Gray 0 (#FFFFFF )",
+  "name": "Style: Colors / Gray / Gray 0 (#FFFFFF )",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

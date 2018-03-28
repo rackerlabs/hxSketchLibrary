@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 7,
+  "changeIdentifier": 9,
   "do_objectID": "8989CF3A-BF18-405C-9257-434A52CCC8DF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -53,8 +53,8 @@
       "id": "3E6F05C6-D25A-4EAD-ADE8-8E449B6CB0EF"
     }
   ],
-  "name": "Badge/Tab Badge",
-  "nameIsFixed": false,
+  "name": "Notifications: Badge/Tab Badge",
+  "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

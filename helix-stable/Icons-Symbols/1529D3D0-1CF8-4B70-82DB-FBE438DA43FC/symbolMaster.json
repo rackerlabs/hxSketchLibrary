@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 12010,
+  "changeIdentifier": 12011,
   "do_objectID": "1529D3D0-1CF8-4B70-82DB-FBE438DA43FC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -33,7 +33,7 @@
     "thickGridTimes": 4
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "slice",
@@ -63,7 +63,7 @@
       "id": "F725E447-3505-4B56-95D9-51222776E0CD"
     }
   ],
-  "name": "Icons / kbd/command",
+  "name": "Style: Icons / kbd/command",
   "nameIsFixed": true,
   "originalObjectID": "A2DA872A-E4BE-42C4-BED0-5218ADEAFB39",
   "resizesContent": false,

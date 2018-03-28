@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 199,
+  "changeIdentifier": 200,
   "do_objectID": "EC615DCD-57AD-42A2-9424-867CFE4154BC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,14 +42,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "0ECCD505-D80F-4BF2-B2C3-D3955E74A25E"
     }
   ],
-  "name": "Colors / Cyan / Cyan 100 (#B6E3EB)",
+  "name": "Style: Colors / Cyan / Cyan 100 (#B6E3EB)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

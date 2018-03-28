@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 644,
+  "changeIdentifier": 645,
   "do_objectID": "B21BA67C-7B16-49AD-A25B-F4C4ACF9DF45",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,14 +42,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "A3862A44-CF55-4BAD-8688-D2CB762DD68B"
     }
   ],
-  "name": "Colors / Blue / Blue 500 (#3391FF)",
+  "name": "Style: Colors / Blue / Blue 500 (#3391FF)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

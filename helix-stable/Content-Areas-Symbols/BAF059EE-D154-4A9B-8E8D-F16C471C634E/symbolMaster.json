@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 711,
+  "changeIdentifier": 712,
   "do_objectID": "BAF059EE-D154-4A9B-8E8D-F16C471C634E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 229
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -57,7 +57,7 @@
       "id": "19DE5DF5-1B00-4E1F-A8D6-5A7AB1B27A13"
     }
   ],
-  "name": "Tabs / Tab Item with Badge",
+  "name": "Content Areas: Tabs / Tab Item with Badge",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

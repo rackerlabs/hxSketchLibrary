@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3276,
+  "changeIdentifier": 3277,
   "do_objectID": "B4513D56-114A-4095-B8E9-EA1B6D231B08",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -161
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -69,7 +69,7 @@
       "id": "8B5362C2-9944-4CD9-B1C3-38578A944FFC"
     }
   ],
-  "name": "Inputs / Radio / Radio Group w/ sub",
+  "name": "Inputs:  Radio / Radio Group w/ sub",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

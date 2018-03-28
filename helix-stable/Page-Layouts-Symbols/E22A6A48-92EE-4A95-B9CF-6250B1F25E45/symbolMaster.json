@@ -7,7 +7,7 @@
     "green": 0.9803921568627451,
     "red": 0.9803921568627451
   },
-  "changeIdentifier": 3025,
+  "changeIdentifier": 3048,
   "do_objectID": "E22A6A48-92EE-4A95-B9CF-6250B1F25E45",
   "exportOptions": {
     "_class": "exportOptions",
@@ -53,8 +53,8 @@
       "id": "B54C4E5F-ABAD-4DAC-A9C8-8D57135E60A8"
     },
     {
-      "class": "symbolInstance",
-      "id": "136629B9-7FA4-414C-B452-FA9185528451"
+      "class": "group",
+      "id": "3667877C-0D74-4898-B6D1-6FAF5602769F"
     },
     {
       "class": "symbolInstance",
@@ -76,7 +76,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1160
   },
-  "name": "Layout/With-Eyebrow/Left-Nav/Wall+Desktop",
+  "name": "Layout: Left-Nav/With-Eyebrow/Wall+Desktop",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

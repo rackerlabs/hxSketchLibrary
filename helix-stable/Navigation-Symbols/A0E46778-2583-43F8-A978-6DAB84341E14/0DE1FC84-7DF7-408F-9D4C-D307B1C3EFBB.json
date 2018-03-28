@@ -42,5 +42,11 @@
     "startDecorationType": 0
   },
   "symbolID": "56E69CF3-40D9-4451-82B0-CBCFF54967A3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

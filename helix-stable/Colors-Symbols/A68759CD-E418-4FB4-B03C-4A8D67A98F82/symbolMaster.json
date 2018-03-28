@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 266,
+  "changeIdentifier": 267,
   "do_objectID": "A68759CD-E418-4FB4-B03C-4A8D67A98F82",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,14 +42,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "28E7A0F0-FC7C-4A82-9618-C27407B334C1"
     }
   ],
-  "name": "Colors / Magenta / Magenta 900 (#A5134E)",
+  "name": "Style: Colors / Magenta / Magenta 900 (#A5134E)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

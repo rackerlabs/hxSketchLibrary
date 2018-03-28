@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 262,
+  "changeIdentifier": 264,
   "do_objectID": "BDC8D60D-9441-493A-A125-25CD6520AF45",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 473
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -53,8 +53,8 @@
       "id": "0A111A08-0AD0-4831-9DFE-E60ABC8E69A6"
     }
   ],
-  "name": "Buttons / Group / Secondary Tertiary",
-  "nameIsFixed": false,
+  "name": "Inputs: Buttons / Group / Secondary Tertiary",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

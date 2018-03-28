@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 603,
+  "changeIdentifier": 604,
   "do_objectID": "85945DA2-4742-4B49-A4E2-8F2B71B76579",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,14 +42,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "BE697C64-3E6F-4358-B3C7-DE7555DD7E26"
     }
   ],
-  "name": "Colors / Green / Green 900 (#2E7D32)",
+  "name": "Style: Colors / Green / Green 900 (#2E7D32)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

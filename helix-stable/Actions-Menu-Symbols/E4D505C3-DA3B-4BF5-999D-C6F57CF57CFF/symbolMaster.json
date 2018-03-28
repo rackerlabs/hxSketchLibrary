@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1771,
+  "changeIdentifier": 1772,
   "do_objectID": "E4D505C3-DA3B-4BF5-999D-C6F57CF57CFF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 262
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -57,7 +57,7 @@
       "id": "9FD791EB-2A4E-45F2-947E-403EA1A11D13"
     }
   ],
-  "name": "Actions-menu / Simple Label",
+  "name": "Inputs: Actions-menu / Simple Label",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

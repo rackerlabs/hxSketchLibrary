@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3240,
+  "changeIdentifier": 3241,
   "do_objectID": "FE2EFD1D-1D59-42EE-AFA2-9C1C7211F95C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 86
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -53,7 +53,7 @@
       "id": "8B1A771E-45D4-4388-A615-8CFA6EA1F2D6"
     }
   ],
-  "name": "Tabs / Tabset Container",
+  "name": "Content Areas: Tabs / Tabset Container",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

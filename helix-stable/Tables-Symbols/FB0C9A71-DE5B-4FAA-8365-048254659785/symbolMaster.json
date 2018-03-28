@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2385,
+  "changeIdentifier": 2386,
   "do_objectID": "FB0C9A71-DE5B-4FAA-8365-048254659785",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -73,7 +73,7 @@
       "id": "4A4D9B69-2986-459F-AF12-D6D880385FC1"
     }
   ],
-  "name": "Tables / Row / Default / Check + Cog",
+  "name": "Tables: Row / Default / Check + Cog",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 370,
+  "changeIdentifier": 371,
   "do_objectID": "3BFCE23A-C5D1-4E6E-96BE-248F62813A4D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,14 +42,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "AB71A3EE-CD04-4EEB-B762-535EBC89BD52"
     }
   ],
-  "name": "Colors / Purple / Purple 700 (#2E3187)",
+  "name": "Style: Colors / Purple / Purple 700 (#2E3187)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

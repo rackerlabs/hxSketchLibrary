@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 349,
+  "changeIdentifier": 351,
   "do_objectID": "B37A2E95-0975-428F-88E4-E837581B802F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -316
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,14 +42,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "745C569D-577F-462D-98FD-5B9F148AAEF0"
     }
   ],
-  "name": "Inputs / Switch / Binary",
+  "name": "Inputs: Switch / Binary",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -63,6 +63,12 @@
     "startDecorationType": 0
   },
   "symbolID": "AF6D6929-FF8F-4196-9D4E-8CBAD1A6B067",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

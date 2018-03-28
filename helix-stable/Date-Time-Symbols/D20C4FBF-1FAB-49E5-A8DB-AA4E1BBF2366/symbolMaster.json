@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 147,
+  "changeIdentifier": 150,
   "do_objectID": "D20C4FBF-1FAB-49E5-A8DB-AA4E1BBF2366",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -89
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,15 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "26E8F626-636F-455F-9220-750C3297FE3B"
     }
   ],
-  "name": "Date - Time / Date Picker / Picker",
-  "nameIsFixed": false,
+  "name": "Inputs: Date Picker / Picker",
+  "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

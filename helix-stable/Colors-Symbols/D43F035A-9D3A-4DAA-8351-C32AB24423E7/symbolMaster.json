@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 374,
+  "changeIdentifier": 375,
   "do_objectID": "D43F035A-9D3A-4DAA-8351-C32AB24423E7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,14 +42,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "E5660DE7-41F2-4E9E-8EAE-B50F6C73DA35"
     }
   ],
-  "name": "Colors / Red / Red 100 (#FFCDD2)",
+  "name": "Style: Colors / Red / Red 100 (#FFCDD2)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

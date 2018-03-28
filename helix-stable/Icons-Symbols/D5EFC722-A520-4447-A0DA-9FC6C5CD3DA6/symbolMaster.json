@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 886,
+  "changeIdentifier": 887,
   "do_objectID": "D5EFC722-A520-4447-A0DA-9FC6C5CD3DA6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -202
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "slice",
@@ -57,7 +57,7 @@
       "id": "9BF932AC-9B8F-48E0-AEC3-8C899DC9B87D"
     }
   ],
-  "name": "Icons / help/circle",
+  "name": "Style: Icons / help/circle",
   "nameIsFixed": true,
   "originalObjectID": "292B4235-D8B7-4310-B968-C1220A039BE8",
   "resizesContent": false,

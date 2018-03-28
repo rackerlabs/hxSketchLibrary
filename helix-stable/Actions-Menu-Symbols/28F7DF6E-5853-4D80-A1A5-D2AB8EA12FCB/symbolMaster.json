@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 812,
+  "changeIdentifier": 813,
   "do_objectID": "28F7DF6E-5853-4D80-A1A5-D2AB8EA12FCB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 505
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -53,7 +53,7 @@
       "id": "5FC97739-F60D-4CC9-8A55-FEDE0E20223B"
     }
   ],
-  "name": "Actions-menu / Atomic parts / Container",
+  "name": "Inputs: Actions-menu / Atomic parts / Container",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
