@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 158,
+  "changeIdentifier": 293,
   "do_objectID": "0C454018-3D95-4468-8B22-B97C91C6B234",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,12 +22,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 158,
-    "x": 1866,
-    "y": 0
+    "width": 220,
+    "x": 673,
+    "y": 184
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,8 +49,8 @@
       "id": "C098BAE9-CDD4-4E9A-BC57-EEBDA3A4211F"
     }
   ],
-  "name": "Typography / Container Title",
-  "nameIsFixed": false,
+  "name": "Typography / Header Three (H3)",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

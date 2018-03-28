@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 565,
+  "changeIdentifier": 566,
   "do_objectID": "E3E0A767-2D0A-4CB6-BD27-2F840CD4DAFB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,7 +49,7 @@
       "id": "6D870E38-52C5-4FBC-B357-FAEE13DFDB09"
     }
   ],
-  "name": "Colors / Yellow / Yellow 700",
+  "name": "Colors / Yellow / Yellow 500 (#FFEB3B)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
