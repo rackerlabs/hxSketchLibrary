@@ -50,6 +50,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "19B88AE4-9E64-4E81-9F60-F4D53D5B6A49"
+    },
+    {
+      "class": "symbolMaster",
       "id": "7A58DC13-4BEF-4F50-A241-2FFEB1028E61"
     },
     {
@@ -131,6 +135,10 @@
     {
       "class": "symbolInstance",
       "id": "8ECF7471-FD11-4CB2-956A-1D573747A7B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6798B5F9-753C-4D7B-A888-7B7DCE2BE4CD"
     }
   ],
   "name": "Tables-Symbols",
