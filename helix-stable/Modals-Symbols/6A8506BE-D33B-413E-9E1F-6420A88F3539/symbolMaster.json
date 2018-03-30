@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 52,
+  "changeIdentifier": 54,
   "do_objectID": "6A8506BE-D33B-413E-9E1F-6420A88F3539",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,15 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "0597C1DE-E441-4E22-87BB-8D28359E4B51"
     }
   ],
-  "name": "Modals / Overlay",
-  "nameIsFixed": false,
+  "name": "Content Areas: Modals / Overlay",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

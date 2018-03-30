@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 648,
+  "changeIdentifier": 651,
   "do_objectID": "C158AEE8-175C-4C9A-8092-EF4268C5CBF7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -31
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,14 +42,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "DDE0E035-B771-4316-A0E3-34BF3AB82AAB"
     }
   ],
-  "name": "Colors / Green / Green 700",
+  "name": "Style: Colors / Green / Green 500 (#4CAF51)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -63,6 +63,12 @@
     "startDecorationType": 0
   },
   "symbolID": "6FCB59FB-F71C-43B1-A5EE-D164479B3308",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

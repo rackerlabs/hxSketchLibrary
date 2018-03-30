@@ -21,11 +21,11 @@
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Icons / checkmark/plain",
-  "nameIsFixed": false,
+  "name": "Style: Icons / checkmark/plain",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",
@@ -50,5 +50,26 @@
     "startDecorationType": 0
   },
   "symbolID": "5D4061B8-CCAD-4F35-B2BC-D8359AC7BB0C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 12,
+            "enabled": 1,
+            "modelID": "constraint_50a31c38-eb58-4ce3-9a31-66b36f421d2e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 12
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_8dc768be-4096-4a79-a88d-7182ac4c314b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
   "verticalSpacing": 0
 }

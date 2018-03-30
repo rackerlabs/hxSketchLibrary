@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 441,
+  "changeIdentifier": 444,
   "do_objectID": "DC2B4D16-7E0F-4C4D-BC46-9D460E48CF0D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 449
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,14 +42,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "59BDB9BE-70AD-479B-B3C4-EDC48FF315DD"
     }
   ],
-  "name": "Colors / Purple / Purple 100",
+  "name": "Style: Colors / Purple / Purple 100 (#6676BC)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -63,6 +63,12 @@
     "startDecorationType": 0
   },
   "symbolID": "920C2D78-68C3-41C4-BD7E-CB65B3D214C2",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

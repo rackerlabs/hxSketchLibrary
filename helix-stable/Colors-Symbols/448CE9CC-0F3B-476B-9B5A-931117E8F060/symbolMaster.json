@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 274,
+  "changeIdentifier": 277,
   "do_objectID": "448CE9CC-0F3B-476B-9B5A-931117E8F060",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,14 +42,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "277BE1D5-43DF-4973-B966-B9D7BC5CB73A"
     }
   ],
-  "name": "Colors / Orange / Orange 500",
+  "name": "Style: Colors / Orange / Orange 500 (#F57C00)",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -63,6 +63,12 @@
     "startDecorationType": 0
   },
   "symbolID": "68E104FE-C2DA-4C5D-B889-9821D64BBCF7",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

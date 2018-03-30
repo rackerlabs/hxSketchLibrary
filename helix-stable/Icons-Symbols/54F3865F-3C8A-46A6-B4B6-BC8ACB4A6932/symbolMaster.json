@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 258,
+  "changeIdentifier": 259,
   "do_objectID": "54F3865F-3C8A-46A6-B4B6-BC8ACB4A6932",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 406
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "slice",
@@ -57,7 +57,7 @@
       "id": "1B83AF85-F60C-45AE-A426-F8B8E3C42864"
     }
   ],
-  "name": "Icons / technical-incident",
+  "name": "Style: Icons / technical-incident",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

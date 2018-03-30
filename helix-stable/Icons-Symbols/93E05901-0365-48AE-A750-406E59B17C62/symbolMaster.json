@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 216,
+  "changeIdentifier": 217,
   "do_objectID": "93E05901-0365-48AE-A750-406E59B17C62",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -522
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "slice",
@@ -57,7 +57,7 @@
       "id": "41746885-C3D2-4E71-A706-1CE6D953F7CA"
     }
   ],
-  "name": "Icons / checkmark/circle",
+  "name": "Style: Icons / checkmark/circle",
   "nameIsFixed": true,
   "originalObjectID": "C872788B-2BA2-4D65-958D-A8F60599C484",
   "resizesContent": false,

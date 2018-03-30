@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9167,
+  "changeIdentifier": 9168,
   "do_objectID": "CAE4F133-ACB9-4FF1-92F4-B7E45F19EAD1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -33,7 +33,7 @@
     "thickGridTimes": 4
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "slice",
@@ -63,7 +63,7 @@
       "id": "8F004210-78AF-42F7-BF9C-B6E2437F0EBA"
     }
   ],
-  "name": "Icons / kbd/delete",
+  "name": "Style: Icons / kbd/delete",
   "nameIsFixed": true,
   "originalObjectID": "8630FFB4-7D0D-465F-B53C-A30A6D058BF3",
   "resizesContent": false,

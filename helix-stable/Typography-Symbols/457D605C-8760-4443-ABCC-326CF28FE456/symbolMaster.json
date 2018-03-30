@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 158,
+  "changeIdentifier": 513,
   "do_objectID": "457D605C-8760-4443-ABCC-326CF28FE456",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,12 +22,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 40,
-    "width": 279,
-    "x": 375,
-    "y": 0
+    "width": 300,
+    "x": 1058,
+    "y": 180
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,8 +49,8 @@
       "id": "685F1FED-0736-46FF-88FC-2E0F3487394B"
     }
   ],
-  "name": "Typography / Caption",
-  "nameIsFixed": false,
+  "name": "Style: Typography / Caption - 14px",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

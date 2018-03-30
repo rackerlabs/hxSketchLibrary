@@ -46,6 +46,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "EFFA9938-0ED3-4E50-B8C2-679208BFEC4A"
+    },
+    {
+      "class": "symbolMaster",
       "id": "0F5FE8E8-9AE1-4008-9E11-964ECBE16F08"
     },
     {
@@ -70,6 +74,14 @@
     },
     {
       "class": "symbolMaster",
+      "id": "5F3E78A9-5376-474F-9C1E-DC63BF8ED88F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4BC037CD-DE3E-4B7A-BA53-80B9341F1B40"
+    },
+    {
+      "class": "symbolMaster",
       "id": "1F1F0AB9-AE90-4EAF-B5A8-A0BBE58CAD51"
     },
     {
@@ -91,6 +103,14 @@
     {
       "class": "symbolMaster",
       "id": "423A40CE-F0AF-4481-8D37-A2A459C1FF62"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB0D9E43-FB65-4CB1-8C31-6AE30084EA12"
+    },
+    {
+      "class": "group",
+      "id": "20DC10AA-F3E4-40D7-A1AA-1963B2DE4805"
     }
   ],
   "name": "Dropdowns-Symbols",

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2575,
+  "changeIdentifier": 2576,
   "do_objectID": "0C2D402B-EF86-4B71-BEC4-CD7AC4D096C0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 188
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -53,7 +53,7 @@
       "id": "149C46B7-AD2A-4275-98F8-B2EBF8D65E7A"
     }
   ],
-  "name": "Buttons / Standard",
+  "name": "Inputs: Buttons / Standard",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

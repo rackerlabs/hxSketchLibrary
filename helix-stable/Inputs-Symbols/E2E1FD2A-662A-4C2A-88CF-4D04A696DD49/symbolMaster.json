@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 161,
+  "changeIdentifier": 163,
   "do_objectID": "E2E1FD2A-662A-4C2A-88CF-4D04A696DD49",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -279
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,15 +42,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
       "id": "93C1F1E5-A330-437A-B247-E57F2E6CD7DB"
     }
   ],
-  "name": "Inputs / Checkbox / Checkbox",
-  "nameIsFixed": false,
+  "name": "Inputs: Checkbox / Checkbox",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

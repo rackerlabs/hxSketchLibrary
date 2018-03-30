@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1646,
+  "changeIdentifier": 1647,
   "do_objectID": "57185C24-AD91-432A-B1EF-761058247E71",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 335
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -65,7 +65,7 @@
       "id": "BB547E4E-2884-417C-8762-D1E9D7CBA9A7"
     }
   ],
-  "name": "Modals / Modal",
+  "name": "Content Areas: Modals / Modal",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

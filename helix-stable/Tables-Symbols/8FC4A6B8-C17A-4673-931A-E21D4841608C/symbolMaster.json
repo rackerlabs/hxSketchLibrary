@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1701,
+  "changeIdentifier": 1702,
   "do_objectID": "8FC4A6B8-C17A-4673-931A-E21D4841608C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 252
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -69,7 +69,7 @@
       "id": "4759E795-AC5D-4230-9CEC-6AA8F36AE3B0"
     }
   ],
-  "name": "Tables / Row / Condensed / No checkbox",
+  "name": "Tables: Row / Condensed / No checkbox",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

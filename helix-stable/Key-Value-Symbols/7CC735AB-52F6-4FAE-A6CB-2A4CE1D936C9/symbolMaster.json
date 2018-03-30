@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1935,
+  "changeIdentifier": 1936,
   "do_objectID": "7CC735AB-52F6-4FAE-A6CB-2A4CE1D936C9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 439
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -54,7 +54,7 @@
       "id": "51A09F0E-C6BC-40DA-890A-9C332EF20922"
     }
   ],
-  "name": "Key-value / Vertical / Single-line",
+  "name": "Content Areas: Key-value / Vertical / Single-line",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

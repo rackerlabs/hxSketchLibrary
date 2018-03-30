@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9441,
+  "changeIdentifier": 9442,
   "do_objectID": "715D8A17-7D2C-4E39-B769-6E13D9E92458",
   "exportOptions": {
     "_class": "exportOptions",
@@ -33,7 +33,7 @@
     "thickGridTimes": 4
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "slice",
@@ -63,7 +63,7 @@
       "id": "83CD2A4C-B3E6-4593-88A6-F39223626850"
     }
   ],
-  "name": "Icons / kbd/arrow/up",
+  "name": "Style: Icons / kbd/arrow/up",
   "nameIsFixed": true,
   "originalObjectID": "B7B8A7AD-6030-4817-A1E3-1F6284E442F6",
   "resizesContent": false,

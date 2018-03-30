@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2219,
+  "changeIdentifier": 2221,
   "do_objectID": "66FD7A1C-FFA6-45DF-990B-8524EB959BE4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -2529
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -57,7 +57,7 @@
       "id": "5CBDA6F1-9AFF-4DFB-83A8-E7CD935E8E37"
     }
   ],
-  "name": "Grid",
+  "name": "Layout: Grid",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

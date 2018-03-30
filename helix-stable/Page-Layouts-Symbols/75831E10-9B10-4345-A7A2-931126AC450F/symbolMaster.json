@@ -7,7 +7,7 @@
     "green": 0.9803921568627451,
     "red": 0.9803921568627451
   },
-  "changeIdentifier": 2685,
+  "changeIdentifier": 2689,
   "do_objectID": "75831E10-9B10-4345-A7A2-931126AC450F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -1476
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -68,7 +68,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 1400
   },
-  "name": "Layout/No-Eyebrow/Top-Nav",
+  "name": "Layout: Top-Nav/No-Eyebrow",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

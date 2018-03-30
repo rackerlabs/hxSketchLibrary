@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3665,
+  "changeIdentifier": 3677,
   "do_objectID": "9CB186A1-E9CD-47BA-BFB8-83F2495C7B64",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -81,8 +81,8 @@
       "id": "046F2D71-AE71-4F20-82E5-85BEB68481F4"
     }
   ],
-  "name": "Dropdown/Menu",
-  "nameIsFixed": false,
+  "name": "Inputs: Dropdown/Menu/Group 7",
+  "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 306,
+  "changeIdentifier": 307,
   "do_objectID": "B14AB339-336B-4590-A303-03D3A357BBE8",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 470
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "slice",
@@ -57,7 +57,7 @@
       "id": "34844C10-1295-4ABD-8747-9ECA652760BB"
     }
   ],
-  "name": "Icons / times/plain",
+  "name": "Style: Icons / times/plain",
   "nameIsFixed": true,
   "originalObjectID": "CD3BF7C3-3325-4FAB-8FD3-C10214A633C5",
   "resizesContent": false,

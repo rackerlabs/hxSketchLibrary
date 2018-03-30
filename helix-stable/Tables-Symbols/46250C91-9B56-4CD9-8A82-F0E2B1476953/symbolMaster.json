@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 821,
+  "changeIdentifier": 822,
   "do_objectID": "46250C91-9B56-4CD9-8A82-F0E2B1476953",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 31
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -69,7 +69,7 @@
       "id": "1022AF8A-07AF-4294-996A-EEFF2157135F"
     }
   ],
-  "name": "Tables / Header / Default / Check+Cog",
+  "name": "Tables: Header / Default / Check+Cog",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

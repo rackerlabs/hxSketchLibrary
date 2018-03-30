@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3,
+  "changeIdentifier": 331,
   "do_objectID": "B70C89D1-3F09-4386-9408-A0B07141648C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,9 +22,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 51,
-    "x": 1715,
-    "y": 0
+    "width": 220,
+    "x": 1058,
+    "y": 88
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -49,7 +49,7 @@
       "id": "2F08FBD4-922B-4B9D-B339-F655542D40A7"
     }
   ],
-  "name": "Typography / Sub-Body",
+  "name": "Style: Typography / Sub-Body - 12px",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

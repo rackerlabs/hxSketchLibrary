@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1308,
+  "changeIdentifier": 1309,
   "do_objectID": "41E71121-27BB-4585-B98A-87ED7E88E2B6",
   "exportOptions": {
     "_class": "exportOptions",
@@ -43,7 +43,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "symbolInstance",
@@ -54,7 +54,7 @@
       "id": "57E167C0-A2CE-4032-B647-5C6972C4DF20"
     }
   ],
-  "name": "Key-value / Horizontal / Single Line",
+  "name": "Content Areas: Key-value / Horizontal / Single Line",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

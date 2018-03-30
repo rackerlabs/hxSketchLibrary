@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2218,
+  "changeIdentifier": 2219,
   "do_objectID": "7BDE27D1-9D18-4928-9BC5-C554F8F31C34",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -316
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -65,7 +65,7 @@
       "id": "6D8528B1-B2E3-4506-8745-C91F24D20704"
     }
   ],
-  "name": "Inputs / Radio / Radio Group - no sub",
+  "name": "Inputs: Radio / Radio Group - no sub",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
