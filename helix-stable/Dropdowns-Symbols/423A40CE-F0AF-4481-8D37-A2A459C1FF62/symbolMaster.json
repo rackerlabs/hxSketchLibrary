@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 273,
+  "changeIdentifier": 275,
   "do_objectID": "423A40CE-F0AF-4481-8D37-A2A459C1FF62",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -298
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -53,7 +53,7 @@
       "id": "A298BD07-96C9-48FC-AD1D-F14BFAC1FA81"
     }
   ],
-  "name": "Inputs: Dropdown / Input w Label",
+  "name": "Inputs: Dropdown / Input / Group w Label",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
