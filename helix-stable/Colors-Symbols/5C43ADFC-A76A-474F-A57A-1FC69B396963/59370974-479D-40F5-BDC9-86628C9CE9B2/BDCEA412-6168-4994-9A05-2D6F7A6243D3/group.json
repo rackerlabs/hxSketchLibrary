@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "BDCEA412-6168-4994-9A05-2D6F7A6243D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5EDF5E76-D082-4FDF-BB0B-465C467A9510",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E16F742D-1164-4400-B899-DA33A8578FDF",
+    "height": 50,
+    "width": 50,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C205DE09-E8DA-43BE-AA21-871C56130EDA"
+    },
+    {
+      "class": "text",
+      "id": "E9E01B7F-8527-43C0-8427-1D3FC68E445F"
+    }
+  ],
+  "name": "Yellow 500",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2521F565-7CA6-453F-867B-CC32D97C542A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "6D923A92-01A5-43BC-A38B-74918FE05D92",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0086BED0-B22D-45D5-A1E7-9DC855581E7D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1B9C0B23-F68F-4302-9EAA-4A8665C209E6",
+    "height": 50,
+    "width": 50,
+    "x": 0,
+    "y": 250
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1946F579-520F-4BA0-8A06-EAE98CA3C99C"
+    },
+    {
+      "class": "text",
+      "id": "F64FDCEE-3C72-4873-8618-C569BEFA1E43"
+    }
+  ],
+  "name": "Orange 500",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97F39E60-DF81-4C28-9892-703810935235",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
