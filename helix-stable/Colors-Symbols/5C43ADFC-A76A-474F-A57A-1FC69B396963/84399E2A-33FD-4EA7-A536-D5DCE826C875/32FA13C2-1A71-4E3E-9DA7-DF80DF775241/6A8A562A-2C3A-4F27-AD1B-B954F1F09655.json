@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6A8A562A-2C3A-4F27-AD1B-B954F1F09655",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D61BDB00-211F-43C6-AC56-CD8236D711EE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5803903E-594E-4751-8907-3D56799F88D6",
+    "height": 50,
+    "width": 50,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Colors / Red / Red 500 Copy 24",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "952F9501-1987-4EFA-BD35-A4019F4AABF1",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "18744B65-E625-4FDB-8790-13213C4B2DCD",
+  "verticalSpacing": 0
+}

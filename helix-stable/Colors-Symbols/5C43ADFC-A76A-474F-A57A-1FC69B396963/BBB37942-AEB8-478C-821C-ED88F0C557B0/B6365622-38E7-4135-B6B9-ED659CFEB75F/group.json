@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "B6365622-38E7-4135-B6B9-ED659CFEB75F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98C50004-9170-4B6A-BA4F-6EBAE8913CAE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D9701EB-66EC-4572-837B-BA3B92A54E66",
+    "height": 50,
+    "width": 50,
+    "x": 0,
+    "y": 200
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C7458681-BDE0-4CF5-B0C0-80000D2EE88D"
+    },
+    {
+      "class": "text",
+      "id": "A810D5C3-2469-4283-9364-AD3A68799995"
+    }
+  ],
+  "name": "Red 900",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "75D53ED4-9C18-44B5-9081-3BB81C980738",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

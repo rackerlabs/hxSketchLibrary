@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "A0B82119-7E36-4840-B1B3-1E436D1B9E7E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "05A4312E-16CC-4774-AE10-9F411F108709",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "65F9589D-450A-4044-8ABC-BB833CC2E50C",
+    "height": 50,
+    "width": 50,
+    "x": 0,
+    "y": 350
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "4F8168CB-FCAA-4AB9-86FC-8CCB7A912429"
+    },
+    {
+      "class": "text",
+      "id": "302B17EF-246B-4DC9-B981-064322863605"
+    }
+  ],
+  "name": "Blue 700",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1DD1A965-3539-4D6B-BC25-891E10714DA5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

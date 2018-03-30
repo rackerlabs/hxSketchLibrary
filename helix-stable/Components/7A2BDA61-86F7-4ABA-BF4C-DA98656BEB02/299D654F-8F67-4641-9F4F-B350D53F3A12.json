@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 5,
-  "masterInfluenceEdgeMaxYPadding": 6,
-  "masterInfluenceEdgeMinXPadding": 6,
-  "masterInfluenceEdgeMinYPadding": 6,
   "name": "Search / Search-bar",
   "nameIsFixed": false,
   "overrideValues": [

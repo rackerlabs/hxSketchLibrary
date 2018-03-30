@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "B49DD41F-BDF5-4893-BAC0-3EF6EA0FE139",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C2622125-B711-4727-9BFB-D254183411CE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4C3FEE80-E26D-45ED-8574-550C92101849",
+    "height": 50,
+    "width": 50,
+    "x": 0,
+    "y": 50
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A3E37EEA-1822-438E-9EB5-6B1F05AB2491"
+    },
+    {
+      "class": "text",
+      "id": "7D60203D-2A31-41A9-BA20-28B6FB6B1D98"
+    }
+  ],
+  "name": "Cyan 100",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4E97CBA7-401E-40F4-8998-8F79F925B5EC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
