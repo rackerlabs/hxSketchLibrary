@@ -107,6 +107,10 @@
     {
       "class": "symbolInstance",
       "id": "FB0D9E43-FB65-4CB1-8C31-6AE30084EA12"
+    },
+    {
+      "class": "group",
+      "id": "20DC10AA-F3E4-40D7-A1AA-1963B2DE4805"
     }
   ],
   "name": "Dropdowns-Symbols",
