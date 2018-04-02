@@ -15,8 +15,8 @@
     "constrainProportions": false,
     "height": 32,
     "width": 212,
-    "x": 33,
-    "y": 405
+    "x": 40,
+    "y": 405.0000000000001
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
