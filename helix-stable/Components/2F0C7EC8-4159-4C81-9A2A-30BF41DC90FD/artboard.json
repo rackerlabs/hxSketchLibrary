@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 635,
+    "height": 785,
     "width": 749,
     "x": -224,
     "y": 525
@@ -75,6 +75,22 @@
       "id": "9A808524-7D26-4521-8701-5323B2499749"
     },
     {
+      "class": "text",
+      "id": "08FBA9A3-E966-4216-9A12-D051D74DEE70"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B47CC8FF-D52F-4030-AFE4-313773839C07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8E2F7C8-26CE-4B80-836A-7829C63720AB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E81887B9-D9F0-4491-86CF-381FF0C8BACD"
+    },
+    {
       "class": "symbolInstance",
       "id": "FB17F41F-2D6B-421C-9320-9694C4625753"
     },
@@ -109,6 +125,10 @@
     {
       "class": "text",
       "id": "7B68C9C5-1DAD-4373-9391-C4617D250431"
+    },
+    {
+      "class": "text",
+      "id": "DCC49EE8-546C-46B5-867E-4A477DCBB013"
     },
     {
       "class": "symbolInstance",
