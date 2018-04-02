@@ -23,7 +23,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "BCCD775D-C982-40A1-AFA9-BEF3687F12E2",
-    "height": 504,
+    "height": 238,
     "width": 569,
     "x": 2884,
     "y": 1390
@@ -53,6 +53,30 @@
     {
       "class": "text",
       "id": "A4187788-570D-4831-B4C7-41A73F6C3591"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF989891-8B0E-451D-B2BA-D16365192321"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D90631F8-7C43-45E9-8D9B-13AC63EC7C41"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "599C9AA3-9790-4318-B9C7-F9DDECA5E67E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDA65484-FFF4-476A-BBF2-CE312765C25D"
+    },
+    {
+      "class": "text",
+      "id": "2B9CD683-0835-4C77-9E68-DB75C795E898"
+    },
+    {
+      "class": "text",
+      "id": "D852A6BB-9FE8-481D-BBD6-20BFB5B5E459"
     }
   ],
   "name": "Pills",
