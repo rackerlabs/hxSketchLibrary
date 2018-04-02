@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "72E67296-1A65-44F8-A588-F580A4262245",
+  "do_objectID": "305867A1-B22C-4014-8CE4-6B49CA094889",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 389,
-    "x": 48,
-    "y": 762
+    "height": 85,
+    "width": 256,
+    "x": 29,
+    "y": 73
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,13 +24,13 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Typography / Caption",
+  "name": "Content Areas: Tooltip / Multi-line",
   "nameIsFixed": false,
   "overrideValues": [
   ],
   "overrides": {
   },
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
@@ -41,7 +41,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "4A6383BA-9BFD-4847-A073-A68FA61DA9E0",
+  "symbolID": "D1C280AB-00EE-4739-9547-3D2ACCDB2DE5",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

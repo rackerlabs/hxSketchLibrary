@@ -1,8 +1,9 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "72E67296-1A65-44F8-A588-F580A4262245",
+  "do_objectID": "806BF0D1-2441-4748-8035-6EF17BD8E544",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "42A18411-0A11-41A8-980F-0F66702E70EF",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,10 +14,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40,
-    "width": 389,
-    "x": 48,
-    "y": 762
+    "do_objectID": "8DE495A1-949E-4A87-B595-46B61077C149",
+    "height": 85,
+    "width": 230,
+    "x": 0,
+    "y": 0
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,24 +26,25 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Typography / Caption",
-  "nameIsFixed": false,
+  "name": "Location",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {
   },
-  "resizingConstraint": 47,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "C6DCAC3D-5947-4097-A8DA-015B9C9CE5B1",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "4A6383BA-9BFD-4847-A073-A68FA61DA9E0",
+  "symbolID": "FA8B90E3-ACF5-4752-98FA-6080FFF6E753",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

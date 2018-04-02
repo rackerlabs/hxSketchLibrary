@@ -67,9 +67,17 @@
     {
       "class": "symbolMaster",
       "id": "4632EC77-9AAA-46A2-BB3C-E8284ED76B30"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B200E4A2-06DF-4A48-8E3D-B1420D810113"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7F9B7BBF-9D35-4C3E-A4CC-2C4AA06120D6"
     }
   ],
-  "name": "Popovers-Symbols",
+  "name": "Popovers-Tooltips-Symbols",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
