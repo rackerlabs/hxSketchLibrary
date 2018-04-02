@@ -75,6 +75,10 @@
     {
       "class": "symbolMaster",
       "id": "7F9B7BBF-9D35-4C3E-A4CC-2C4AA06120D6"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "AF7BD44C-23E9-4435-B0C2-92F89410D3A7"
     }
   ],
   "name": "Popovers-Tooltips-Symbols",

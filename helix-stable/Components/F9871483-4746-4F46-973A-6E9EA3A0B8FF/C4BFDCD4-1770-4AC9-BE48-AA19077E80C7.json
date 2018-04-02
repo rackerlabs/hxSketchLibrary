@@ -14,9 +14,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 136,
-    "width": 220,
-    "x": 39,
-    "y": 193
+    "width": 466,
+    "x": 29,
+    "y": 325
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -31,7 +31,7 @@
       "_class": "overrideValue",
       "do_objectID": "C5CC06D9-E3D1-4541-8729-7B4D3B2C0BD8",
       "overrideName": "04BFF7B0-F89E-4B65-8939-F07C73C4525F_stringValue",
-      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique lacinia nibh,"
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique lacinia nibh. Nam a sem vitae mi pretium venenatis vitae et velit. Vestibulum vel elementum libero. Cras vehicula rhoncus nibh vitae cursus."
     },
     {
       "_class": "overrideValue",
@@ -41,7 +41,7 @@
     }
   ],
   "overrides": {
-    "04BFF7B0-F89E-4B65-8939-F07C73C4525F": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique lacinia nibh,",
+    "04BFF7B0-F89E-4B65-8939-F07C73C4525F": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique lacinia nibh. Nam a sem vitae mi pretium venenatis vitae et velit. Vestibulum vel elementum libero. Cras vehicula rhoncus nibh vitae cursus.",
     "F05D87AC-9899-4E3B-A3FB-7223455AB025": {
       "symbolID": ""
     }

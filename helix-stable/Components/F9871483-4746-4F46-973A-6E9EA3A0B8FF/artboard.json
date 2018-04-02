@@ -23,13 +23,13 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1400D09C-8DA1-4E7F-9172-B670F6916046",
-    "height": 450,
+    "height": 517,
     "width": 569,
     "x": 2884,
     "y": 2522
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -64,11 +64,19 @@
     },
     {
       "class": "symbolInstance",
+      "id": "CD991727-4757-4C03-A567-1D699B471459"
+    },
+    {
+      "class": "symbolInstance",
       "id": "D8ADB07D-1FE4-4140-9D29-492871844ED3"
     },
     {
       "class": "text",
       "id": "2E3BD789-462C-4C9B-B99F-54FEC153F946"
+    },
+    {
+      "class": "text",
+      "id": "FCD7F024-92F5-49F3-A4CC-0115395213B0"
     },
     {
       "class": "text",
