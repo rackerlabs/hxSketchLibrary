@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1871,
+  "changeIdentifier": 2348,
   "do_objectID": "6C4F1B0D-838B-4D9D-A4E7-B7102D701249",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 312,
+    "height": 336,
     "width": 720,
-    "x": 665,
+    "x": -235,
     "y": 266
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,34 +42,34 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "E67EE80A-3D1E-4766-BEB3-AF444BCD978A"
+      "id": "32B3C837-026C-4A8B-8699-F6643B6AE76B"
     },
     {
       "class": "symbolInstance",
-      "id": "398C33E7-A8BA-4DB5-9850-04AB1C291E1A"
+      "id": "B1E3B3E8-2568-4315-8DCA-535215D4E74F"
     },
     {
       "class": "symbolInstance",
-      "id": "58485491-E61C-436C-9144-5A7A8C8BEE99"
+      "id": "2DDCA1C7-51FC-4BE0-95C2-B81509C87499"
     },
     {
       "class": "symbolInstance",
-      "id": "2525862F-414F-4475-845F-14D2F6D05070"
+      "id": "AB561C4C-A469-4568-87CB-99A247FC628A"
     },
     {
       "class": "symbolInstance",
-      "id": "C4CC83F5-A364-440B-8F08-764A0C2609A1"
+      "id": "52AB086E-99D5-4DDB-B9C3-9C0E53DFB8F3"
     },
     {
       "class": "symbolInstance",
-      "id": "4C80F318-13D5-4E97-AB82-ADC7A9BBA7AB"
+      "id": "9B5E03A7-9496-400F-84F2-91C6085974B8"
     }
   ],
-  "name": "Tables: Mockup / Default / Basic",
+  "name": "Tables: Templates / 4-col / Default / Example",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
@@ -83,6 +83,12 @@
     "startDecorationType": 0
   },
   "symbolID": "437EBC6D-09B6-4746-998E-DDF6132244B2",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

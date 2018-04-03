@@ -27,8 +27,17 @@
   "name": "Content Areas: Stepper / Step Open",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CCF22A0D-99D2-4F06-9ED2-DC748659B297",
+      "overrideName": "CDE82347-EAE8-4894-ACEA-53B122527310/92962C57-C7AB-4DF3-89E0-1CD478FE25C7_stringValue",
+      "value": "1"
+    }
   ],
   "overrides": {
+    "CDE82347-EAE8-4894-ACEA-53B122527310": {
+      "92962C57-C7AB-4DF3-89E0-1CD478FE25C7": "1"
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

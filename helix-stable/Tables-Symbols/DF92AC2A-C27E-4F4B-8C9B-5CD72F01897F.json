@@ -31,11 +31,11 @@
       "_class": "overrideValue",
       "do_objectID": "C8D121F0-9F0E-4A92-9244-31AEE3374DF8",
       "overrideName": "C098BAE9-CDD4-4E9A-BC57-EEBDA3A4211F_stringValue",
-      "value": "Prebuilt"
+      "value": "Prebuilt 4-col"
     }
   ],
   "overrides": {
-    "C098BAE9-CDD4-4E9A-BC57-EEBDA3A4211F": "Prebuilt"
+    "C098BAE9-CDD4-4E9A-BC57-EEBDA3A4211F": "Prebuilt 4-col"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

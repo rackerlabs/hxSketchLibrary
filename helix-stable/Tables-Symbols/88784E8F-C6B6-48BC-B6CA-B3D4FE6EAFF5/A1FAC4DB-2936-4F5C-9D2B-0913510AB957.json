@@ -16,12 +16,12 @@
     "height": 16,
     "width": 16,
     "x": 36,
-    "y": 8
+    "y": 12
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": false,
+  "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
   "name": "Cog",
@@ -50,5 +50,11 @@
     "startDecorationType": 0
   },
   "symbolID": "CA00998D-DB31-4363-9CBF-5C654F1E1D57",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

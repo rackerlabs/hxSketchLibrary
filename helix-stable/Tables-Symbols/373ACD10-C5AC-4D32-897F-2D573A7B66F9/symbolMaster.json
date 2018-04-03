@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2348,
+  "changeIdentifier": 2545,
   "do_objectID": "373ACD10-C5AC-4D32-897F-2D573A7B66F9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,9 +21,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 220,
+    "height": 257,
     "width": 720,
-    "x": -236,
+    "x": 665,
     "y": 266
   },
   "hasBackgroundColor": false,
@@ -42,34 +42,34 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "CCEDAE38-C090-49AB-8C01-FF21016DD5F5"
+      "id": "BF8455EF-B350-477C-8792-85578B3A5CDE"
     },
     {
       "class": "symbolInstance",
-      "id": "EFF24ADE-ECA1-4526-AA92-CA388E6318FB"
+      "id": "BCF1E6BB-DBBB-4F41-9768-30F77ACC37BB"
     },
     {
       "class": "symbolInstance",
-      "id": "A03F97D1-9233-437E-B123-16FE325A6BF9"
+      "id": "8F927AC5-983F-46E8-9245-42265234587A"
     },
     {
       "class": "symbolInstance",
-      "id": "E4539537-7E78-4EBC-A520-19B4D153ABDF"
+      "id": "61CCC0E8-BE6F-41DF-8119-426FC247933A"
     },
     {
       "class": "symbolInstance",
-      "id": "841CAC40-0435-4E17-85DF-D3A1ACD7FF54"
+      "id": "BE54B53E-5C60-4AC4-A98A-6C163C226714"
     },
     {
       "class": "symbolInstance",
-      "id": "5765604B-0847-42DE-975C-14AD64CD40B7"
+      "id": "B4C83AFF-F7C8-4B60-8619-7DF11831B7E1"
     }
   ],
-  "name": "Tables: Mockup / Condensed / Basic",
+  "name": "Tables: Templates / 4-col / Condensed / Example",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
@@ -83,6 +83,12 @@
     "startDecorationType": 0
   },
   "symbolID": "85028FE9-3808-4D8B-B028-50D48B79360F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
