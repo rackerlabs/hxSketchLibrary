@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "527FC326-1D21-4741-B981-FC7C3BEB40E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 595,
+    "x": 0,
+    "y": 108
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "KV Pair 4",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "726912EE-4EB0-4BB4-9B85-3C6E172CFC65",
+      "overrideName": "57E167C0-A2CE-4032-B647-5C6972C4DF20/F77511A4-5446-4F1D-AF0D-1BDC2E5E5F0C_stringValue",
+      "value": "Date Modified by Customer"
+    }
+  ],
+  "overrides": {
+    "57E167C0-A2CE-4032-B647-5C6972C4DF20": {
+      "F77511A4-5446-4F1D-AF0D-1BDC2E5E5F0C": "Date Modified by Customer"
+    }
+  },
+  "resizingConstraint": 26,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "96070A96-6E16-46F9-9D0A-422220BEDB36",
+  "verticalSpacing": 0
+}

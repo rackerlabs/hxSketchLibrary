@@ -1,0 +1,113 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "2C6F78C6-1D0F-4512-8D80-2D38C7AE91D0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 413,
+    "width": 374,
+    "x": 2464,
+    "y": -399
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "60E9FF2F-2716-4FA9-BDEA-B9C78FAF2A4E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21A2D63C-E93B-481B-BBCD-F28B32EDC700"
+    },
+    {
+      "class": "text",
+      "id": "76A722EC-5096-4BED-929E-0DE8FDBE381C"
+    },
+    {
+      "class": "text",
+      "id": "8627A50D-4502-444C-8112-459840AB1843"
+    },
+    {
+      "class": "text",
+      "id": "5A80AF7C-D498-4CFA-836C-08D97EB6D089"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31A09C5E-0E19-482C-8A85-F99BA0E8CC98"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "357E80E0-ED2E-49E4-9CC8-69A6EBD96525"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "04B526F9-F8CF-4F25-8D55-B3DB19527DA3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7BBB1DBD-73EA-47BB-A170-88721C45556F"
+    },
+    {
+      "class": "text",
+      "id": "693E2E39-107E-4F00-8D07-B37CC16E3A75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B506913-BE18-43D2-AF85-0014374435EF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3344FA7-AC8E-44D4-80E2-8071838CD779"
+    }
+  ],
+  "name": "Radios",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

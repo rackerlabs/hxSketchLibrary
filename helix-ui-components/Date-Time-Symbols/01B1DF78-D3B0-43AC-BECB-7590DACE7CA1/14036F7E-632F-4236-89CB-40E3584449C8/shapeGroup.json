@@ -1,0 +1,102 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "14036F7E-632F-4236-89CB-40E3584449C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 14,
+    "width": 14,
+    "x": 235,
+    "y": 11
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E6DEBCE7-3DDF-4F49-A9A3-34FBB7F51DA7"
+    },
+    {
+      "class": "shapePath",
+      "id": "93100331-B49C-49A8-8BD4-C71A7CFED007"
+    },
+    {
+      "class": "shapePath",
+      "id": "7B027F90-A512-43F2-8FFB-8CDAB4A72436"
+    },
+    {
+      "class": "shapePath",
+      "id": "4E0DDE3E-3FB5-4DA2-B94B-736A9F4DE466"
+    },
+    {
+      "class": "shapePath",
+      "id": "4E664C8F-85E4-4174-A7C0-F94E19E8DAB0"
+    },
+    {
+      "class": "shapePath",
+      "id": "450B6BEB-5672-4EAE-8B7F-9790335A60D5"
+    }
+  ],
+  "name": "Shape Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4588235294117647,
+          "green": 0.4588235294117647,
+          "red": 0.4588235294117647
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "sharedObjectID": "2A8A91D6-716D-4617-90F9-AA62FC2A64C2",
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "windingRule": 0
+}

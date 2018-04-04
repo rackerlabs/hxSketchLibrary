@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "D7445B6A-B020-4C06-80B5-CBE4A14582AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9405061F-A9AD-4A86-9D6D-E97E0CEC8EA2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "510CE42F-B682-47F0-94F0-835A7121CD5D",
+    "height": 50,
+    "width": 50,
+    "x": 0,
+    "y": 200
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1268FC8D-DB25-4432-B7F8-1022647871D7"
+    },
+    {
+      "class": "text",
+      "id": "023E061C-D714-4FD6-BF09-42315E203035"
+    }
+  ],
+  "name": "Yellow 900",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48D6FF23-C139-476A-9E3C-4E7D14180CAE",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
