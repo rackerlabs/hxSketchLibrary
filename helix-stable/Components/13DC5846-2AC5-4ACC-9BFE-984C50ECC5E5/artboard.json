@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 700,
+    "height": 906,
     "width": 569,
     "x": 2884,
     "y": -399
@@ -103,6 +103,10 @@
       "id": "5745F76C-D984-47C1-80B3-2B2148B99ECF"
     },
     {
+      "class": "text",
+      "id": "FB55A784-36C8-4AE7-9FF7-FA8FBCA7A50C"
+    },
+    {
       "class": "symbolInstance",
       "id": "AB5ECD7F-69DD-41A4-B0F1-633BC70FF2DD"
     },
@@ -113,6 +117,10 @@
     {
       "class": "symbolInstance",
       "id": "91BF731D-A784-4F3F-A9AE-EB56CEA0A19A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2A2CC774-38E7-4B2D-A232-323DE33BC668"
     }
   ],
   "name": "Dropdowns",

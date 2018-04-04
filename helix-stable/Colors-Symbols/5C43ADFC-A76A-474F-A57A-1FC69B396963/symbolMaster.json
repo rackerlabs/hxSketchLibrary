@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 488,
+  "changeIdentifier": 490,
   "do_objectID": "5C43ADFC-A76A-474F-A57A-1FC69B396963",
   "exportOptions": {
     "_class": "exportOptions",
@@ -89,7 +89,7 @@
       "id": "5297AF47-5D74-42CB-A5F3-B83381200776"
     }
   ],
-  "name": "Colors / _Palette",
+  "name": "Style: Colors / _Palette",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 287,
+  "changeIdentifier": 288,
   "do_objectID": "7D409A16-E5C3-4E35-8672-40A14845CD1F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -49,7 +49,7 @@
       "id": "57784848-6B5E-4482-8C1F-7751CC58312D"
     }
   ],
-  "name": "Style: Typography / Header One (H1 - 48px)",
+  "name": "Style: Typography / Header 1 - 48px",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

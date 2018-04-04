@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2460,
+  "changeIdentifier": 3369,
   "do_objectID": "7A58DC13-4BEF-4F50-A241-2FFEB1028E61",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,10 +21,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 316,
+    "height": 351,
     "width": 720,
-    "x": -236,
-    "y": -196
+    "x": 665,
+    "y": -242
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -42,42 +42,42 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "088D088A-C51F-4627-AA30-420BF8039A00"
+      "id": "58A8D661-3450-4EAD-A247-15C6A0A2379A"
     },
     {
       "class": "symbolInstance",
-      "id": "52BFDD88-CBAA-435D-8C70-D2CCF9C985B9"
+      "id": "E426AFD6-F284-4126-80A8-5398BBA77C53"
     },
     {
       "class": "symbolInstance",
-      "id": "4A5D7746-97ED-432F-9E28-1A6A0E1C89C4"
+      "id": "B32AB141-5FCE-4E01-872A-1D612FE65B41"
     },
     {
       "class": "symbolInstance",
-      "id": "6508F2D8-42BE-4C8F-9A07-C77D241372ED"
+      "id": "2AF56CF7-2B3C-4523-93EF-3ADC5D7EB0E5"
     },
     {
       "class": "symbolInstance",
-      "id": "0B08DE4A-C7F4-46BA-B627-46D38D702547"
+      "id": "4E779BE1-88FC-4789-91F9-BC81BD756BDB"
     },
     {
       "class": "symbolInstance",
-      "id": "BE7E060A-3FE0-4150-B870-98B3F5A10CB0"
+      "id": "6BAD6266-722A-4DFD-83BD-1337A30A9167"
     },
     {
       "class": "symbolInstance",
-      "id": "5CFC59AB-1E6F-469C-BC25-61A0C066FB50"
+      "id": "D9AFBD3F-084E-42EA-B045-0A50CE825019"
     },
     {
       "class": "symbolInstance",
-      "id": "7DBD46C5-87F8-4A23-8716-FDE2714FE042"
+      "id": "735BEEA7-449F-4CE5-BD16-D3FCDC5A2B63"
     }
   ],
-  "name": "Tables: Mockup / Condensed / Full",
+  "name": "Tables: Templates / 4-col / Condensed / Example w/ controls",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
@@ -91,6 +91,12 @@
     "startDecorationType": 0
   },
   "symbolID": "19A9034A-9A5F-403F-A680-D6048374C379",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

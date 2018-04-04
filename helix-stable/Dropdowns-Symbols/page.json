@@ -50,6 +50,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "A7C098D1-8603-467A-8535-569169539CA5"
+    },
+    {
+      "class": "symbolMaster",
       "id": "0F5FE8E8-9AE1-4008-9E11-964ECBE16F08"
     },
     {
@@ -103,10 +107,6 @@
     {
       "class": "symbolMaster",
       "id": "423A40CE-F0AF-4481-8D37-A2A459C1FF62"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FB0D9E43-FB65-4CB1-8C31-6AE30084EA12"
     },
     {
       "class": "group",

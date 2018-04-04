@@ -1,0 +1,116 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "57FF0FA9-FBB9-456D-B5C0-AAC7C6406CE2",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 3817,
+  "do_objectID": "79EB5833-8970-4A03-9F27-1A0AB6527648",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6727591E-7B1B-4688-A348-AEE2988E5203",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B098C6D4-2995-465E-9C09-2A3CB126DFBB",
+    "height": 40,
+    "width": 720,
+    "x": 2385,
+    "y": 1176
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "137BC8C6-BD03-47BF-86D9-32B819E9A7A8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0A1AE7A9-9AE0-4432-81D7-1306F90098F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "44CE0606-CAF0-497F-9430-2FF6584BCEFF"
+    },
+    {
+      "class": "text",
+      "id": "92AFDC15-86C2-40A8-A9C3-FC9E417CD76B"
+    },
+    {
+      "class": "text",
+      "id": "EF296C48-5E78-4C07-9D38-8E14C30739EF"
+    },
+    {
+      "class": "text",
+      "id": "82D4B84E-D391-4EB8-9D6F-1A0EAF08EBAD"
+    },
+    {
+      "class": "text",
+      "id": "F95B2B7F-100D-46BE-A813-BBFE876F74C9"
+    },
+    {
+      "class": "text",
+      "id": "E31CB2AD-ED81-4D65-9383-FCB04E1D88D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A68D24D3-1027-477C-811C-95C3AFC145C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72886EA4-B5E7-477F-A9C7-F98BC0CD0D46"
+    }
+  ],
+  "name": "Tables: Row / 5-col / Condensed / Check + Cog",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5DC36DBD-8BC1-4CF6-B25D-6260B2A48B8B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "50C4B5F9-CC90-4BF6-86CF-01359C43DF4B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "00A058BC-A9C4-43CE-909B-EE4381665DE3",
+    "guides": [
+    ]
+  }
+}

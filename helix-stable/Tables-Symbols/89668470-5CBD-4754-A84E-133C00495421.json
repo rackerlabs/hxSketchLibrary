@@ -30,11 +30,11 @@
     {
       "_class": "overrideValue",
       "overrideName": "C098BAE9-CDD4-4E9A-BC57-EEBDA3A4211F_stringValue",
-      "value": "Default"
+      "value": "Default - 4-col"
     }
   ],
   "overrides": {
-    "C098BAE9-CDD4-4E9A-BC57-EEBDA3A4211F": "Default"
+    "C098BAE9-CDD4-4E9A-BC57-EEBDA3A4211F": "Default - 4-col"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 423,
+  "changeIdentifier": 581,
   "do_objectID": "4A1970F5-D6D4-4FD1-BF86-4C7FFC89E6B5",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,7 +21,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 51,
+    "height": 56,
     "width": 720,
     "x": 1551,
     "y": 144
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -73,7 +73,7 @@
       "id": "A918D09C-C565-465E-A811-E502E902BB8A"
     }
   ],
-  "name": "Tables: Row / Default / Checkbox",
+  "name": "Tables: Row / 4-col / Default / Checkbox",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
@@ -87,6 +87,12 @@
     "startDecorationType": 0
   },
   "symbolID": "A61BF1B2-2E28-4188-8670-1D1A71C4671D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

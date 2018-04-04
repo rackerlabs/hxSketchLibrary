@@ -23,7 +23,7 @@
     "constrainProportions": false,
     "height": 14,
     "width": 152,
-    "x": 355,
+    "x": 362,
     "y": 250
   },
   "glyphBounds": "{{0, 2}, {151, 12}}",
@@ -64,5 +64,12 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 1
+      }
+    }
+  }
 }
