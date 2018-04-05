@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "88FE397D-D3B8-441B-B716-F05D6A9AEA29",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 83,
+    "width": 350,
+    "x": 42,
+    "y": 571.0000000000001
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Notifications / Toast / w CTA",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7128EF2-2F6D-45B8-9FCA-5B8D9EA2AC2D",
+      "overrideName": "859B7ED4-5357-40DB-A3E2-075E7CBD7C7D_symbolID",
+      "value": "26F512D1-AB1E-4EEF-B919-43D02A1FA57D"
+    }
+  ],
+  "overrides": {
+    "859B7ED4-5357-40DB-A3E2-075E7CBD7C7D": {
+      "symbolID": "26F512D1-AB1E-4EEF-B919-43D02A1FA57D"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "30063452-9718-44C8-B602-72E01B9127A4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

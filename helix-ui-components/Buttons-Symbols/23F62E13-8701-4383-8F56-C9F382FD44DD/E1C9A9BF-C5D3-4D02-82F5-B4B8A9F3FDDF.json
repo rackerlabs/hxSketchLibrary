@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E1C9A9BF-C5D3-4D02-82F5-B4B8A9F3FDDF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E36F6181-3407-4E94-9AED-D7084ED0FE17",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2569CC7E-66EF-4EDB-A4F1-DB23FDC1F94C",
+    "height": 32,
+    "width": 124,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "_parts/Button/States/Press",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "592D54C5-A2A6-429E-BF15-8046DBB220C7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1F63D611-98B6-4609-8BB5-057DD93A6C0B",
+  "verticalSpacing": 0
+}

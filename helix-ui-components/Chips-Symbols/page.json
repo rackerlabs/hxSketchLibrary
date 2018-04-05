@@ -1,0 +1,110 @@
+{
+  "_class": "page",
+  "do_objectID": "21582C05-18E1-4099-91E5-DF539C5B0417",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -323,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "BF00270B-5B40-49A7-A359-49627BE80A3A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "247FD027-1CA1-4344-9370-4281BB2000EC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "92ABFDC3-CE61-47AA-9049-14A6297615B3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CC8D6145-B44B-400E-8A0F-63F05BF17179"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A50C3F0C-7E42-4CB3-A309-D537F8103B1C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "72C28446-C262-4340-80B4-2B7663B0A18C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BCD4D7FE-269C-495A-A583-3B53304CCFAA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FE39E633-CDC5-4F28-AEA0-4E172DCCFADA"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1347FD2F-AE3D-4B87-9541-E0440CEEB9E4"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D8789B29-C9FE-4413-B53C-B54EC1C6E9BD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CC6362CC-7C36-4DBE-A940-277C2ECBC1AE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7E07D621-8429-4D9B-AC17-22949F78202A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "580A71A4-9D80-4D0D-BBCD-E6DDD56D39AC"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2BACAA90-2452-4109-9490-BD917B7AE942"
+    }
+  ],
+  "name": "Chips-Symbols",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -218,
+    "guides": [
+    ]
+  }
+}

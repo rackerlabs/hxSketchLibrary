@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "344FF88F-EA88-459B-BF00-8CCDDB401AAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "174C1096-CD95-4F2D-8D75-2A0F1DFEC97D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "186C6BC8-35F8-439F-A3ED-9406F8F28C8D",
+    "height": 16,
+    "width": 16,
+    "x": 16,
+    "y": 24
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Checkbox",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9EAD87C3-3A20-4174-AC4F-77A5937BFD12",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "819A21ED-3ABD-40F8-9AFA-69F725E8B134",
+  "verticalSpacing": 0
+}

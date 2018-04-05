@@ -1,0 +1,108 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2113,
+  "do_objectID": "6C2E6AB6-B50C-426A-833D-18575A703FB9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 1200,
+    "x": 1054,
+    "y": -2181
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5CF16BBA-F8C8-47CD-9C0D-FD597F8C7C3B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "76DAE914-5A0E-4F86-B842-FE5C86713276"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "390E08F3-878A-4DCF-AE0C-B2C1AA70A1EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DFFA152B-CAD4-4D98-82C4-39FDEA286FBD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C97EBB8-29FD-49DF-8464-531D60E102B4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "25D2CA24-C10B-45EE-B5F4-C0D0D4DBAC11"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6BFF1DCA-8DC9-4874-9E10-7463DE926488"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FA32BBA9-E723-4D54-9745-6610D5AFAFDE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E3E588AF-9033-4B37-A690-BCDE050DC052"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4019BC32-CBD6-4BA9-A378-A95E5912D318"
+    }
+  ],
+  "name": "_parts / Grid / 8col",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "51969DD7-33B7-42BE-A258-D72FC8DAC335",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

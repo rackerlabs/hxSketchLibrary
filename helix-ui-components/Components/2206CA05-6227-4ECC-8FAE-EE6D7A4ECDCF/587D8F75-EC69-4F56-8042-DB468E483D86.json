@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "587D8F75-EC69-4F56-8042-DB468E483D86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 43,
+    "y": 205
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Chip / Info",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CFD69396-47EB-4216-986A-BC2430B08C2C",
+      "overrideName": "5E4085A3-0C99-4745-A4A5-6CBAFE3AFB77/6E13AE96-F11E-4D09-A7E7-81BEA1BEE5D5_symbolID",
+      "value": "BC06ACF7-6452-46AC-99EC-3E21DCA4FAFC"
+    }
+  ],
+  "overrides": {
+    "5E4085A3-0C99-4745-A4A5-6CBAFE3AFB77": {
+      "6E13AE96-F11E-4D09-A7E7-81BEA1BEE5D5": {
+        "symbolID": "BC06ACF7-6452-46AC-99EC-3E21DCA4FAFC"
+      }
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "33832A93-CF39-4A15-8627-7A23D8D21688",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

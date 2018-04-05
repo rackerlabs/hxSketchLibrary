@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "11A3FF61-5AB3-4452-B24F-19E8461969B4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC502BBB-7F44-4D39-B9E6-C85EC9BD7774",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A16FCF68-5043-4885-AA2C-22AFC492DC6F",
+    "height": 24,
+    "width": 220,
+    "x": 46,
+    "y": 1398
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Style: Typography / Header 4 - 16px Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "980741EE-2725-4EBE-BDE2-E9321B150A27",
+      "overrideName": "4750FCAE-5497-4C6B-A057-0E91293F71D8_stringValue",
+      "value": "Condensed Items"
+    }
+  ],
+  "overrides": {
+    "4750FCAE-5497-4C6B-A057-0E91293F71D8": "Condensed Items"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "465DD771-096E-42D4-B763-03AA6250B2AA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C529D3BA-3B22-4DDE-BA2F-C36F4DC8AC30",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

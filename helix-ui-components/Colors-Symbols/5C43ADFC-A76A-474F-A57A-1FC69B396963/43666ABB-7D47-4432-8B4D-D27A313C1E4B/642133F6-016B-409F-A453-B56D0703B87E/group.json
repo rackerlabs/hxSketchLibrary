@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "642133F6-016B-409F-A453-B56D0703B87E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4B972F93-6DFC-4F65-947D-DFF5901FE85E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FB88475C-A588-4387-80FB-E563BCE8D34B",
+    "height": 50,
+    "width": 50,
+    "x": 0,
+    "y": 450
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "BD60D9B9-3BB7-4190-88F0-13D208C2E4CF"
+    },
+    {
+      "class": "text",
+      "id": "AF3665F3-2DEF-4E5A-9383-9307FEAE3B5E"
+    }
+  ],
+  "name": "Blue 900",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97772ED6-08F9-43FA-8C10-4E6A9A4D0D6D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
