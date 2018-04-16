@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "0108DDC7-40F0-4DCF-ABF3-578A52379648",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C46B3B3-6551-4691-AC56-B15BBF3F244D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2BB0381D-CAEB-4771-BECA-69738EBFE01B",
+    "height": 16,
+    "width": 16,
+    "x": 106.5,
+    "y": 9
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons / angle/down",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4DE95F3D-159B-4E39-95A1-99C247C3F577_symbolID",
+      "value": "2679F45F-1E80-44AF-B769-0E88E0F34EE1"
+    }
+  ],
+  "overrides": {
+    "4DE95F3D-159B-4E39-95A1-99C247C3F577": {
+      "symbolID": "2679F45F-1E80-44AF-B769-0E88E0F34EE1"
+    }
+  },
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F0F18AA-9519-4CB7-8CF0-7D2A50EBB14A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "859A5924-5EC8-4829-9FCA-2A462D9B2F74",
+  "verticalSpacing": 0
+}

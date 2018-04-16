@@ -1,0 +1,82 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "13D4AA98-A955-4ADE-A0EE-9B5FD208D988",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 13518,
+  "do_objectID": "CD8F5479-C25D-462E-BDF5-2A77A87135E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C6AB4241-23E7-477C-8F71-F286C9325AA2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "211A54C7-7023-4DFA-A7E5-E9086FDF425E",
+    "height": 32,
+    "width": 136,
+    "x": -619,
+    "y": 278
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "37E1F223-F9D2-427C-B8B6-404C949B4011",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5A9ACDE8-F635-4DC0-9D65-DB4C0E559E60"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BB5CBE7-429A-4F7B-A7FC-0E663226F4F6"
+    }
+  ],
+  "name": "Split Dropdown / Button",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3ABBE6A9-CF0B-483D-9563-79C658908003",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "BBD5BFF5-57F1-45F0-BDF7-6B3636960CCA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C731B1B0-6D05-4C71-BC84-7434DB288FBF",
+    "guides": [
+    ]
+  }
+}
