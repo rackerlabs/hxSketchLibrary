@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 189,
+  "changeIdentifier": 230,
   "do_objectID": "42500EA9-E2E7-485C-86E6-C639F1528460",
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,7 +51,7 @@
   ],
   "name": "Style: Typography / Body - 16px",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

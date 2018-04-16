@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "do_objectID": "6C3D61ED-914B-470F-A40F-071D67927860",
     "height": 18,
-    "width": 73,
+    "width": 220,
     "x": 0,
     "y": 0
   },
@@ -37,7 +37,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Header Five",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -69,7 +69,7 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "do_objectID": "9CF0DF8E-7AA6-41E4-9E81-9720B7C1FD4B",
     "height": 21,
-    "width": 35,
+    "width": 220,
     "x": 0,
     "y": 0
   },
@@ -37,7 +37,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Label",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -68,7 +68,7 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

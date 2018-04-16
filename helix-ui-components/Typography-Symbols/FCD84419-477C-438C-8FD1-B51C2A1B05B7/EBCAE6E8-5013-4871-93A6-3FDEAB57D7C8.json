@@ -22,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 171,
+    "width": 300,
     "x": 0,
     "y": 0
   },
@@ -35,7 +35,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Header Two",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -64,7 +64,7 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
