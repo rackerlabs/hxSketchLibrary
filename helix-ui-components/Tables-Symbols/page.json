@@ -278,11 +278,39 @@
     },
     {
       "class": "symbolInstance",
+      "id": "7DB56AED-A7DA-4670-905D-57253D97F4C3"
+    },
+    {
+      "class": "symbolInstance",
       "id": "E437D9AC-2D6D-4D25-A836-63EFF8E75857"
     },
     {
       "class": "symbolInstance",
       "id": "D7E55150-44C0-43E7-9E5F-C7DFCCDE0E54"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C1B82A1F-A874-4698-8CE3-12C5ED32480E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A46C0245-B7EF-4E49-B66D-64C62E048D86"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C2FB20EC-22BF-4B3D-B531-62F926B2729D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A747A20E-87A8-4572-83E7-819C5C3229B8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3A788EB3-9EC1-4CDD-AC15-DCC1B4A626E1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D14713B0-9DFE-47C7-A7E4-813BD6C18131"
     }
   ],
   "name": "Tables-Symbols",
