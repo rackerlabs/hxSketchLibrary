@@ -1,0 +1,88 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E36E7CA9-7B36-4AA2-BCAF-D75C15891BE0",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 4676,
+  "do_objectID": "CFCD5923-AAEB-40F8-A200-54FED935F6CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "22D9B319-F25D-4E65-A713-A389897AD2FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9DF79DC9-FE7E-427E-AF0A-5D9E064BDB5C",
+    "height": 40,
+    "width": 40,
+    "x": 4001,
+    "y": 204
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D3231AE5-D420-4F1A-B6D2-F43F02A3421B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1B7EF77F-6591-4DCE-95C2-C78A9436FD60"
+    },
+    {
+      "class": "group",
+      "id": "C412A830-B54E-45F9-BA8A-AB752AEEED64"
+    }
+  ],
+  "name": "Tables: Components / Cell / Condensed / Cog",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7457E2A3-E51A-48A0-A63E-B8DFC8C935BC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "46AEADD5-6CB5-4042-8C8B-36368704E965",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "08FCA1DF-41C1-43A9-ADDC-685D9EBB618C",
+    "guides": [
+    ]
+  }
+}
