@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 71,
+    "height": 56,
     "width": 235,
     "x": 1165,
     "y": 3649
@@ -27,15 +27,8 @@
   "name": "Tables: Components / Cell / Default / Right-Align",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "31056671-D30D-4C96-B450-2D1639325916",
-      "overrideName": "1AAD6EA2-D573-489F-AF0E-A802204BC100_stringValue",
-      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    }
   ],
   "overrides": {
-    "1AAD6EA2-D573-489F-AF0E-A802204BC100": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
   },
   "resizingConstraint": 63,
   "resizingType": 0,

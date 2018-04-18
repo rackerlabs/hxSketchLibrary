@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4976,
+  "changeIdentifier": 5039,
   "do_objectID": "7C8241D5-7E9E-40CD-B9E1-B99595917EB4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,10 +27,10 @@
     "height": 56,
     "width": 48,
     "x": 4067,
-    "y": 204
+    "y": 339
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -57,7 +57,7 @@
       "id": "C5683E67-1013-492E-A0E0-2DA367714006"
     }
   ],
-  "name": "Tables: Components / Cell / Default / Cog",
+  "name": "Tables: Components / Cell / Default / Icon",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

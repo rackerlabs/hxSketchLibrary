@@ -310,6 +310,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "9263FD70-E949-4F53-9BBD-4C983CBE20DD"
+    },
+    {
+      "class": "symbolMaster",
       "id": "CFCD5923-AAEB-40F8-A200-54FED935F6CD"
     },
     {
@@ -319,6 +323,10 @@
     {
       "class": "symbolMaster",
       "id": "D14713B0-9DFE-47C7-A7E4-813BD6C18131"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DBE76830-200D-404E-8601-BC6A5EE09433"
     }
   ],
   "name": "Tables-Symbols",

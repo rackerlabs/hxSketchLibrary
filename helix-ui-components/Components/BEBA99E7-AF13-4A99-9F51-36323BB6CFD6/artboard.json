@@ -252,15 +252,23 @@
     },
     {
       "class": "symbolInstance",
-      "id": "BEF4F03B-61AF-4A4F-B870-7A1E1481411D"
-    },
-    {
-      "class": "symbolInstance",
       "id": "53001CD2-1F61-48BB-A6C6-ABA1E5E18144"
     },
     {
       "class": "symbolInstance",
       "id": "58ED7488-CD99-4C65-9E8D-0985CB000111"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9066E5F1-5420-414F-BB3F-7BE88F396B07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6C5DF15D-3218-4284-B689-6A922E75BC85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DBB23589-7030-4958-A611-9690C0524499"
     }
   ],
   "name": "Tables",

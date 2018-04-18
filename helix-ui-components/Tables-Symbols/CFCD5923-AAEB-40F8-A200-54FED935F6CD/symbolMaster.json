@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 4676,
+  "changeIdentifier": 4739,
   "do_objectID": "CFCD5923-AAEB-40F8-A200-54FED935F6CD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "height": 40,
     "width": 40,
     "x": 4001,
-    "y": 204
+    "y": 339
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -57,7 +57,7 @@
       "id": "C412A830-B54E-45F9-BA8A-AB752AEEED64"
     }
   ],
-  "name": "Tables: Components / Cell / Condensed / Cog",
+  "name": "Tables: Components / Cell / Condensed / Icon",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
