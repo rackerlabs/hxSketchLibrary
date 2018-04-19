@@ -24,7 +24,7 @@
     "constrainProportions": false,
     "do_objectID": "6BA94DDA-1706-4019-BCBE-FD63C7235832",
     "height": 16,
-    "width": 47,
+    "width": 220,
     "x": 0,
     "y": 0
   },
@@ -37,7 +37,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Subdued",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -68,7 +68,7 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

@@ -22,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 16,
-    "width": 51,
+    "width": 220,
     "x": 0,
     "y": 0
   },
@@ -35,7 +35,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Sub-Body",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -64,7 +64,7 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

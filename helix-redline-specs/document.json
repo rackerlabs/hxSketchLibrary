@@ -16,8 +16,6 @@
   },
   "colorSpace": 0,
   "do_objectID": "44638630-0dcd-11e8-a204-1fddaf2dc9f6",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignSymbols": [
     {
       "_class": "MSImmutableForeignSymbol",
@@ -63,6 +61,7 @@
         "includeInCloudUpload": true,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
+        "isFlowHome": false,
         "isLocked": false,
         "isVisible": true,
         "layerListExpandedType": 0,
@@ -120,6 +119,7 @@
                   "y": 0
                 },
                 "hasConvertedToNewRoundCorners": true,
+                "isClosed": true,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -174,6 +174,49 @@
                     }
                   ]
                 },
+                "pointRadiusBehaviour": 1,
+                "points": [
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 1}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 1}"
+                  }
+                ],
                 "resizingConstraint": 63,
                 "resizingType": 0,
                 "rotation": 0,
@@ -205,7 +248,6 @@
                     "elipseLength": 0,
                     "from": "{0.5, 0}",
                     "gradientType": 1,
-                    "shouldSmoothenOpacity": false,
                     "stops": [
                       {
                         "_class": "gradientStop",
@@ -313,6 +355,7 @@
         "includeInCloudUpload": true,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
+        "isFlowHome": false,
         "isLocked": false,
         "isVisible": true,
         "layerListExpandedType": 0,
@@ -370,6 +413,7 @@
                   "y": 0
                 },
                 "hasConvertedToNewRoundCorners": true,
+                "isClosed": true,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -424,6 +468,49 @@
                     }
                   ]
                 },
+                "pointRadiusBehaviour": 1,
+                "points": [
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 1}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 1}"
+                  }
+                ],
                 "resizingConstraint": 63,
                 "resizingType": 0,
                 "rotation": 0,
@@ -455,7 +542,6 @@
                     "elipseLength": 0,
                     "from": "{0.5, 0}",
                     "gradientType": 1,
-                    "shouldSmoothenOpacity": false,
                     "stops": [
                       {
                         "_class": "gradientStop",
@@ -566,6 +652,7 @@
         "includeInCloudUpload": true,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
+        "isFlowHome": false,
         "isLocked": false,
         "isVisible": true,
         "layerListExpandedType": 0,
@@ -623,6 +710,7 @@
                   "y": 0
                 },
                 "hasConvertedToNewRoundCorners": true,
+                "isClosed": true,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -677,6 +765,49 @@
                     }
                   ]
                 },
+                "pointRadiusBehaviour": 1,
+                "points": [
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 1}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 1}"
+                  }
+                ],
                 "resizingConstraint": 63,
                 "resizingType": 0,
                 "rotation": 0,
@@ -708,7 +839,6 @@
                     "elipseLength": 0,
                     "from": "{0.5, 0}",
                     "gradientType": 1,
-                    "shouldSmoothenOpacity": false,
                     "stops": [
                       {
                         "_class": "gradientStop",
@@ -816,6 +946,7 @@
         "includeInCloudUpload": true,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
+        "isFlowHome": false,
         "isLocked": false,
         "isVisible": true,
         "layerListExpandedType": 0,
@@ -873,6 +1004,7 @@
                   "y": 0
                 },
                 "hasConvertedToNewRoundCorners": true,
+                "isClosed": true,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -927,6 +1059,49 @@
                     }
                   ]
                 },
+                "pointRadiusBehaviour": 1,
+                "points": [
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 1}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 1}"
+                  }
+                ],
                 "resizingConstraint": 63,
                 "resizingType": 0,
                 "rotation": 0,
@@ -958,7 +1133,6 @@
                     "elipseLength": 0,
                     "from": "{0.5, 0}",
                     "gradientType": 1,
-                    "shouldSmoothenOpacity": false,
                     "stops": [
                       {
                         "_class": "gradientStop",
@@ -1069,6 +1243,7 @@
         "includeInCloudUpload": true,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
+        "isFlowHome": false,
         "isLocked": false,
         "isVisible": true,
         "layerListExpandedType": 0,
@@ -1126,6 +1301,7 @@
                   "y": 0
                 },
                 "hasConvertedToNewRoundCorners": true,
+                "isClosed": true,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -1180,6 +1356,49 @@
                     }
                   ]
                 },
+                "pointRadiusBehaviour": 1,
+                "points": [
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 1}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 1}"
+                  }
+                ],
                 "resizingConstraint": 63,
                 "resizingType": 0,
                 "rotation": 0,
@@ -1211,7 +1430,6 @@
                     "elipseLength": 0,
                     "from": "{0.5, 0}",
                     "gradientType": 1,
-                    "shouldSmoothenOpacity": false,
                     "stops": [
                       {
                         "_class": "gradientStop",
@@ -1319,6 +1537,7 @@
         "includeInCloudUpload": true,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
+        "isFlowHome": false,
         "isLocked": false,
         "isVisible": true,
         "layerListExpandedType": 0,
@@ -1376,6 +1595,7 @@
                   "y": 0
                 },
                 "hasConvertedToNewRoundCorners": true,
+                "isClosed": true,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -1430,6 +1650,49 @@
                     }
                   ]
                 },
+                "pointRadiusBehaviour": 1,
+                "points": [
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 1}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 1}"
+                  }
+                ],
                 "resizingConstraint": 63,
                 "resizingType": 0,
                 "rotation": 0,
@@ -1461,7 +1724,6 @@
                     "elipseLength": 0,
                     "from": "{0.5, 0}",
                     "gradientType": 1,
-                    "shouldSmoothenOpacity": false,
                     "stops": [
                       {
                         "_class": "gradientStop",
@@ -1572,6 +1834,7 @@
         "includeInCloudUpload": true,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
+        "isFlowHome": false,
         "isLocked": false,
         "isVisible": true,
         "layerListExpandedType": 0,
@@ -1629,6 +1892,7 @@
                   "y": 0
                 },
                 "hasConvertedToNewRoundCorners": true,
+                "isClosed": true,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -1683,6 +1947,49 @@
                     }
                   ]
                 },
+                "pointRadiusBehaviour": 1,
+                "points": [
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 1}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 1}"
+                  }
+                ],
                 "resizingConstraint": 63,
                 "resizingType": 0,
                 "rotation": 0,
@@ -1714,7 +2021,6 @@
                     "elipseLength": 0,
                     "from": "{0.5, 0}",
                     "gradientType": 1,
-                    "shouldSmoothenOpacity": false,
                     "stops": [
                       {
                         "_class": "gradientStop",
@@ -1822,6 +2128,7 @@
         "includeInCloudUpload": true,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
+        "isFlowHome": false,
         "isLocked": false,
         "isVisible": true,
         "layerListExpandedType": 0,
@@ -1879,6 +2186,7 @@
                   "y": 0
                 },
                 "hasConvertedToNewRoundCorners": true,
+                "isClosed": true,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -1933,6 +2241,49 @@
                     }
                   ]
                 },
+                "pointRadiusBehaviour": 1,
+                "points": [
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 0}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 0}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 0}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{1, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{1, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{1, 1}"
+                  },
+                  {
+                    "_class": "curvePoint",
+                    "cornerRadius": 0,
+                    "curveFrom": "{0, 1}",
+                    "curveMode": 1,
+                    "curveTo": "{0, 1}",
+                    "hasCurveFrom": false,
+                    "hasCurveTo": false,
+                    "point": "{0, 1}"
+                  }
+                ],
                 "resizingConstraint": 63,
                 "resizingType": 0,
                 "rotation": 0,
@@ -1964,7 +2315,6 @@
                     "elipseLength": 0,
                     "from": "{0.5, 0}",
                     "gradientType": 1,
-                    "shouldSmoothenOpacity": false,
                     "stops": [
                       {
                         "_class": "gradientStop",
@@ -2038,10 +2388,10 @@
     ]
   },
   "meta": {
-    "appVersion": "48.2",
-    "build": 47327,
-    "commit": "c871c6c3fa8a2bc8ee8592fd0f4db2b9a32687dc",
-    "version": 97
+    "appVersion": "49.3",
+    "build": 51167,
+    "commit": "2b45d75f77b3d86c8cfab3e1090bcc520c37ea74",
+    "version": 101
   },
   "pages": [
     "sticker sheet",

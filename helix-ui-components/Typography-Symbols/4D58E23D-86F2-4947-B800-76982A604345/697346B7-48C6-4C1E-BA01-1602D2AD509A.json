@@ -26,7 +26,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 5}, {131, 17}}",
+  "glyphBounds": "{{0, 5}, {130, 16}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -35,7 +35,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Link Text",
   "nameIsFixed": true,
-  "resizingConstraint": 47,
+  "resizingConstraint": 18,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -65,7 +65,7 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

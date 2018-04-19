@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3545,
+    "height": 4201,
     "width": 1701,
     "x": -224,
     "y": 2522
@@ -77,6 +77,10 @@
     {
       "class": "symbolInstance",
       "id": "3CD2D8B9-97AC-4F11-94BB-FDF7095E7272"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2299FAC2-DA3C-426C-997F-880FF3E177DA"
     },
     {
       "class": "symbolInstance",
@@ -225,6 +229,46 @@
     {
       "class": "symbolInstance",
       "id": "F8F24DD1-CE93-4FCB-AA55-E70A2DA44D1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49AE15C3-ADA4-402C-9A3D-93BE6A0E9909"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD540B7E-DF00-4EF0-9056-F256F6B21991"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F06E9C78-1E5F-4902-BC06-D71472EA0179"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FE690A9D-8566-45D9-A4B6-CA6B8DBEAAB9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "94F7E9DA-3774-40C9-8197-F61697E28DF7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "53001CD2-1F61-48BB-A6C6-ABA1E5E18144"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58ED7488-CD99-4C65-9E8D-0985CB000111"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9066E5F1-5420-414F-BB3F-7BE88F396B07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6C5DF15D-3218-4284-B689-6A922E75BC85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DBB23589-7030-4958-A611-9690C0524499"
     }
   ],
   "name": "Tables",
