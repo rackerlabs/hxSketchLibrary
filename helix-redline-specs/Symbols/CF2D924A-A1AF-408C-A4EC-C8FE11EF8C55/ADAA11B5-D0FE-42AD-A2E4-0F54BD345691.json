@@ -24,8 +24,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "line-end / circle",
-  "nameIsFixed": false,
+  "name": "start",
+  "nameIsFixed": true,
   "originalObjectID": "ADAA11B5-D0FE-42AD-A2E4-0F54BD345691",
   "overrideValues": [
   ],
@@ -33,7 +33,7 @@
   },
   "resizingConstraint": 33,
   "resizingType": 1,
-  "rotation": 0,
+  "rotation": -270,
   "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
@@ -42,7 +42,7 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "72515AF1-2F45-478C-B373-014FFF58A451",
+  "symbolID": "27B81DD3-EFA5-4D24-86E0-D1CB9779E8EE",
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
