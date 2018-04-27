@@ -1,0 +1,124 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 0.11328125,
+    "blue": 0.8313725490196079,
+    "do_objectID": "D67DE2F7-BBED-48FF-A0EF-9F7A3F2B5090",
+    "green": 0.7254901960784309,
+    "red": 0.08627450980392155
+  },
+  "do_objectID": "CD10B75A-7999-478A-83F8-98E900E247F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0BB1D356-45F3-4284-980A-489561956CB8",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A807685-D4A6-4200-947E-9060200A2830",
+    "height": 480,
+    "width": 600,
+    "x": -150,
+    "y": -91
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -17,
+    "do_objectID": "E158FBF1-DC78-4892-9D2E-5EB5784AB004",
+    "guides": [
+      177,
+      231
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0756A723-BCF8-4CC9-84D0-418B26C533E6"
+    },
+    {
+      "class": "group",
+      "id": "6E2361B9-7FDC-4EF9-A6C4-799906B0C126"
+    },
+    {
+      "class": "group",
+      "id": "6A1E8AD9-F2C7-40A6-98E1-253A8B339F42"
+    },
+    {
+      "class": "group",
+      "id": "AF950E3C-CE24-483C-9EB0-ED6585A347FB"
+    },
+    {
+      "class": "group",
+      "id": "47788298-7DD9-4F74-96C2-531C7B6D402D"
+    },
+    {
+      "class": "group",
+      "id": "1605F98F-8142-4FD8-B4EB-B0938430F11D"
+    }
+  ],
+  "name": "Redline Library thumbnail",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "85A19827-97EA-47BD-8DED-719A2B35581D",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "05145F08-742F-4148-A39D-D64C0C644C67",
+    "guides": [
+    ]
+  }
+}
