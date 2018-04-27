@@ -24,8 +24,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "line-end / circle",
-  "nameIsFixed": false,
+  "name": "start",
+  "nameIsFixed": true,
   "originalObjectID": "61EF75A0-3FFA-4C00-B700-A8B5E2CD4979",
   "overrideValues": [
   ],
@@ -42,6 +42,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "72515AF1-2F45-478C-B373-014FFF58A451",
+  "symbolID": "27B81DD3-EFA5-4D24-86E0-D1CB9779E8EE",
   "verticalSpacing": 0
 }

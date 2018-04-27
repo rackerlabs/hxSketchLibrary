@@ -25,10 +25,10 @@
     "do_objectID": "AF86389E-FC02-422D-BE79-F5B266525715",
     "height": 32,
     "width": 191,
-    "x": 90,
-    "y": 1432
+    "x": 89,
+    "y": 1384
   },
-  "glyphBounds": "{{0, 2}, {190, 29}}",
+  "glyphBounds": "{{1, 2}, {190, 29}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,5 +68,5 @@
       "verticalAlignment": 0
     }
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

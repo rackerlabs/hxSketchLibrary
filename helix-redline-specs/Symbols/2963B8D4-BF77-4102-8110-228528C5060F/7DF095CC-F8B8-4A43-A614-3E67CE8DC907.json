@@ -24,8 +24,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "line-end / arrow",
-  "nameIsFixed": false,
+  "name": "end",
+  "nameIsFixed": true,
   "originalObjectID": "7DF095CC-F8B8-4A43-A614-3E67CE8DC907",
   "overrideValues": [
   ],
