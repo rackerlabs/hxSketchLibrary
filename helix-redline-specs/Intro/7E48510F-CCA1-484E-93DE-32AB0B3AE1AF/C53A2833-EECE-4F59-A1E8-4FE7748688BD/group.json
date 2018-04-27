@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "C53A2833-EECE-4F59-A1E8-4FE7748688BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "32430812-65F9-43BB-8584-D0D4EB82B1FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "969D6247-5373-4FF5-BDC2-62BB89FC50C1",
+    "height": 188,
+    "width": 166,
+    "x": 214,
+    "y": 122
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CF5520B1-898D-44D4-9509-F3A28E34A17F"
+    }
+  ],
+  "name": "Helix_Logo_Homepage",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C74BECDD-B720-4ED0-95AB-2A3705031267",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
