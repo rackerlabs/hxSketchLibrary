@@ -1,0 +1,82 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "83E552A7-534B-4B3C-8F2F-0607962A86AC",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 522,
+  "do_objectID": "F0B6AD6F-A531-4EAB-B0B0-18783E9A6914",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "29BB2E26-D85A-4F66-A336-350B79BCDBE5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FAD0315F-4CD2-447A-BE16-5607BE466A16",
+    "height": 8,
+    "width": 167,
+    "x": 333,
+    "y": 205
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4671181F-A84A-4BE8-8030-AFD68DE2C7A4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E7A7F203-9AE0-43C1-933C-1F8404C20706"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8B7BE30F-BD7F-4DFA-8B78-23B65222D26A"
+    }
+  ],
+  "name": "_parts / Processing / 50%",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7EEF4AE9-6EE4-404E-99D7-9BB5FF450999",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CEED4C62-6207-44DD-B5DD-3BBB31D152AA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8319BF07-5886-4C67-883C-238F58C5B583",
+    "guides": [
+    ]
+  }
+}
