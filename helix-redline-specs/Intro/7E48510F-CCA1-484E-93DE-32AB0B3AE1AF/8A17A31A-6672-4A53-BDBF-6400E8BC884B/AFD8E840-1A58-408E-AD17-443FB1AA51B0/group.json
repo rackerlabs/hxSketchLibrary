@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "AFD8E840-1A58-408E-AD17-443FB1AA51B0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5956CF4-B127-4B93-89A7-BB3E9A79A190",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "77390684-D6D1-4AD5-BE05-18F2D0561B30",
+    "height": 165,
+    "width": 30,
+    "x": 67.5,
+    "y": -67.49999999999994
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2F9F49F8-388A-41FF-9434-A73C98743CDA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6FAC8DE3-815E-4471-94D3-E06789297804"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D3C45AAA-2F30-4635-9C1E-A5ADD43ABCA3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FC35EB94-1763-46BE-A7A2-63B806405A5B"
+    }
+  ],
+  "name": "redlines/measurement/vertical",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 270,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D4C5D46-6F3B-444F-B28E-FC0F5026CF39",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
