@@ -16,7 +16,7 @@
     "height": 7,
     "width": 7,
     "x": 93,
-    "y": 45
+    "y": 46
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,8 +24,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "line-end / arrow",
-  "nameIsFixed": false,
+  "name": "end",
+  "nameIsFixed": true,
   "originalObjectID": "7DF095CC-F8B8-4A43-A614-3E67CE8DC907",
   "overrideValues": [
   ],
