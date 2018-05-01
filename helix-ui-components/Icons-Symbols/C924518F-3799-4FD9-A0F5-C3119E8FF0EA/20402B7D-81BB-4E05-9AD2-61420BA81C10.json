@@ -26,8 +26,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Colors / Gray / Gray 1000",
-  "nameIsFixed": false,
+  "name": "Icon Color",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "overrides": {

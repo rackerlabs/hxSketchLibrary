@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 3217,
+  "changeIdentifier": 3221,
   "do_objectID": "48882F4B-D510-41C9-B66D-51F038EAD0CA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,12 +42,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "slice",
-      "id": "047361FA-1A54-4DB1-8ED1-EB34F0A8A3B3"
-    },
     {
       "class": "shapeGroup",
       "id": "F1EE7D21-B0AD-4967-BE70-E435C3F2011F"
@@ -57,7 +53,7 @@
       "id": "69CCDF31-5163-4376-80BC-A65111115F49"
     }
   ],
-  "name": "Style: Icons / monitoring",
+  "name": "Style: Icons/monitoring",
   "nameIsFixed": true,
   "originalObjectID": "0CA88E2C-893D-4473-A46F-FB2BBC99089A",
   "resizesContent": false,

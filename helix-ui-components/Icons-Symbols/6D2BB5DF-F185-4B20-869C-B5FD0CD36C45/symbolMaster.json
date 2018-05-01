@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2764,
+  "changeIdentifier": 2768,
   "do_objectID": "6D2BB5DF-F185-4B20-869C-B5FD0CD36C45",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -298
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,12 +42,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "slice",
-      "id": "5E128AC1-9ECD-41E8-B0EB-38BC1DCEAF4C"
-    },
     {
       "class": "shapeGroup",
       "id": "755F07AD-FDB6-47A5-8E99-F8DFFC0C9827"
@@ -57,7 +53,7 @@
       "id": "023C689F-C666-48B5-B3E2-0A1BB1349712"
     }
   ],
-  "name": "Style: Icons / external-link",
+  "name": "Style: Icons/external-link",
   "nameIsFixed": true,
   "originalObjectID": "0CA88E2C-893D-4473-A46F-FB2BBC99089A",
   "resizesContent": false,

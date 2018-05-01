@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1162,
+  "changeIdentifier": 1166,
   "do_objectID": "7DB35362-546F-4FA2-80DB-0DD45A98EE0C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": -554
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,12 +42,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "slice",
-      "id": "E41A17A8-2EA7-4958-98F5-8BB10D18A71B"
-    },
     {
       "class": "shapeGroup",
       "id": "EB90C15E-ECD1-44C5-92F5-19E94BC2DBC6"
@@ -57,7 +53,7 @@
       "id": "6EA84291-7330-4E8F-B375-ECB582E7724A"
     }
   ],
-  "name": "Style: Icons / calendar",
+  "name": "Style: Icons/calendar",
   "nameIsFixed": true,
   "originalObjectID": "27FDE8B6-6FBF-4A8A-8AB1-E1873117F726",
   "resizesContent": false,

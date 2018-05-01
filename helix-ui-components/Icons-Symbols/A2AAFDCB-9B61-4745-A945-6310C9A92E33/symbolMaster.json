@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 97,
+  "changeIdentifier": 101,
   "do_objectID": "A2AAFDCB-9B61-4745-A945-6310C9A92E33",
   "exportOptions": {
     "_class": "exportOptions",
@@ -27,7 +27,7 @@
     "y": 54
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -42,12 +42,8 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "slice",
-      "id": "169A0468-792E-463B-915B-F65C7A8246D7"
-    },
     {
       "class": "shapeGroup",
       "id": "F7084E23-2554-4C4A-BB0F-DAA6D85C2F54"
@@ -57,7 +53,7 @@
       "id": "EB32F83C-5690-4DCB-90A8-1CF66AE44F09"
     }
   ],
-  "name": "Style: Icons / payment",
+  "name": "Style: Icons/payment",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
