@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "78CB3CDD-C066-4B4B-A367-EE10759F70C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "11D56AC3-98EC-4809-806A-643BC521915A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D8980B17-E5C9-4201-852A-D1EE02895526",
+    "height": 106,
+    "width": 75,
+    "x": 45.87719298245611,
+    "y": 41.92307692307699
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "961FF6C3-366D-4B7D-B3F7-9CD76DF1128A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C2022BED-6B56-40D4-BD8F-E100FDDE475D"
+    }
+  ],
+  "name": "g31",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "942393DD-39D9-4D1D-B335-0D8AD1512465",
+      "opacity": 0.92000002
+    },
+    "do_objectID": "07E8B257-5B0D-4F3F-9BEA-7DC97F4E3836",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
