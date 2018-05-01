@@ -2,7 +2,10 @@
 .AppleDouble
 .LSOverride
 
-# Icon must end with two 
+# Don't track Sketch binary
+*.sketch
+
+# Icon must end with two
 Icon
 
 
