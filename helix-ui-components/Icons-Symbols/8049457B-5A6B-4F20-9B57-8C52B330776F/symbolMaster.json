@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 371,
+  "changeIdentifier": 382,
   "do_objectID": "8049457B-5A6B-4F20-9B57-8C52B330776F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 134,
-    "y": -138
+    "x": 0,
+    "y": 468
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,18 +42,18 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "2CBF1520-40E0-4623-AB50-B4F66C31139D"
+      "id": "10A95887-88C8-425A-BA2E-848C362BA528"
     },
     {
       "class": "symbolInstance",
       "id": "4CC2CC35-3294-4137-A800-BA054B95CE96"
     }
   ],
-  "name": "Style: Icons/input/url",
+  "name": "Style: Icons/globe",
   "nameIsFixed": true,
   "originalObjectID": "C0248ECA-96F3-42E0-87B4-E37E1D673B1B",
   "resizesContent": false,

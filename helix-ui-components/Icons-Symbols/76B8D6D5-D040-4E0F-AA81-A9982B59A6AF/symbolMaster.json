@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9347,
+  "changeIdentifier": 9349,
   "do_objectID": "76B8D6D5-D040-4E0F-AA81-A9982B59A6AF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 110,
-    "y": -106
+    "x": 336,
+    "y": 36
   },
   "grid": {
     "_class": "simpleGrid",
@@ -48,7 +48,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
