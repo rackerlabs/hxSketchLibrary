@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 252,
+  "changeIdentifier": 258,
   "do_objectID": "C38CA38B-AC33-49FE-8BF2-BA986B7A3FB7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 86,
-    "y": 118
+    "x": 0,
+    "y": 720
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,10 +45,6 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "slice",
-      "id": "742C9549-504C-4A40-9699-0696D2269B4A"
-    },
-    {
       "class": "shapeGroup",
       "id": "6BABECF9-D2E3-4C6C-B022-41D2C8F60F7F"
     },
@@ -57,7 +53,7 @@
       "id": "D8F7D259-01A4-44DE-8987-FD9CFF5FA8D3"
     }
   ],
-  "name": "Style: Icons / phone",
+  "name": "Style: Icons/phone",
   "nameIsFixed": true,
   "originalObjectID": "CC6B3001-B1B9-4BB7-A08E-DD668FBB9615",
   "resizesContent": false,

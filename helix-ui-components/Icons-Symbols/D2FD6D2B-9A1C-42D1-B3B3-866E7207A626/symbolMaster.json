@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 464,
+  "changeIdentifier": 470,
   "do_objectID": "D2FD6D2B-9A1C-42D1-B3B3-866E7207A626",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 254,
-    "y": -74
+    "x": 336,
+    "y": 396
   },
   "grid": {
     "_class": "simpleGrid",
@@ -33,7 +33,7 @@
     "thickGridTimes": 4
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,10 +51,6 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "slice",
-      "id": "5EF5FF9D-6BDF-4EED-A077-2799DC6CA70D"
-    },
-    {
       "class": "shapeGroup",
       "id": "23F57F8B-A4BE-472D-A6FD-0348E50AB444"
     },
@@ -63,7 +59,7 @@
       "id": "6E1FC832-80B4-46AF-A728-729F15D5A824"
     }
   ],
-  "name": "Style: Icons / kbd/space",
+  "name": "Style: Icons/kbd/space",
   "nameIsFixed": true,
   "originalObjectID": "99889BCB-6D5E-4470-B584-D6761B57A887",
   "resizesContent": false,

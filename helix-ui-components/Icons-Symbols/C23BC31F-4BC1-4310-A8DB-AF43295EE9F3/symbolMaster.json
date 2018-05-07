@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9230,
+  "changeIdentifier": 9236,
   "do_objectID": "C23BC31F-4BC1-4310-A8DB-AF43295EE9F3",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 86,
-    "y": -74
+    "x": 336,
+    "y": 144
   },
   "grid": {
     "_class": "simpleGrid",
@@ -33,7 +33,7 @@
     "thickGridTimes": 4
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,10 +51,6 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "slice",
-      "id": "F90DDF92-4E39-4BAB-9E54-09674445BA1B"
-    },
-    {
       "class": "shapeGroup",
       "id": "B8DE93C0-B123-40E7-8C86-CB510FA0DC7A"
     },
@@ -63,7 +59,7 @@
       "id": "0C52494A-413A-4D8D-A76E-A7CD3E44D0AD"
     }
   ],
-  "name": "Style: Icons / kbd/capslock",
+  "name": "Style: Icons/kbd/capslock",
   "nameIsFixed": true,
   "originalObjectID": "941C68B5-C3AD-48BD-AB5B-C3924AF22F70",
   "resizesContent": false,

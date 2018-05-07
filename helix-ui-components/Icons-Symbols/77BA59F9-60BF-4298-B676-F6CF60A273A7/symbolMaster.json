@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 208,
+  "changeIdentifier": 223,
   "do_objectID": "77BA59F9-60BF-4298-B676-F6CF60A273A7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 86,
-    "y": 374
+    "x": 528,
+    "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,19 +45,15 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "slice",
-      "id": "6FC0A9F9-B37E-48BD-B86C-EB218C5EEE0B"
-    },
-    {
       "class": "shapeGroup",
-      "id": "1FE8A33D-B5DA-41AC-8513-27B6413D07CB"
+      "id": "F05B15C1-9F6A-48F5-AFE1-FD826D44EFCB"
     },
     {
       "class": "symbolInstance",
       "id": "98BD28F7-5197-4E2E-90DB-2AEC0C0F1A63"
     }
   ],
-  "name": "Style: Icons / technical-change",
+  "name": "Style: Icons/server/config",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2783,
+  "changeIdentifier": 2796,
   "do_objectID": "8E985D9D-D6E3-44B3-8962-03D076DCF503",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 86,
-    "y": 438
+    "x": 0,
+    "y": 936
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,19 +45,15 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "slice",
-      "id": "5CBF1684-7451-4CF1-91C0-31EE3007385D"
-    },
-    {
       "class": "shapeGroup",
-      "id": "3F0952D9-120F-4946-9985-EA2343C5858D"
+      "id": "078845D5-1E43-4DFC-A042-A84482A72575"
     },
     {
       "class": "symbolInstance",
       "id": "05B16B7B-E923-41AA-ABA2-011B23432438"
     }
   ],
-  "name": "Style: Icons / ticketing",
+  "name": "Style: Icons/ticketing",
   "nameIsFixed": true,
   "originalObjectID": "0CA88E2C-893D-4473-A46F-FB2BBC99089A",
   "resizesContent": false,

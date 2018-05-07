@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 472,
+  "changeIdentifier": 478,
   "do_objectID": "CB89BC78-0A7B-4A8F-85C9-C9448D249E9F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 86,
-    "y": 470
+    "x": 624,
+    "y": 0
   },
   "grid": {
     "_class": "simpleGrid",
@@ -33,7 +33,7 @@
     "thickGridTimes": 8
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,10 +51,6 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "slice",
-      "id": "E287A3DA-DAEA-4D81-9E57-4FE52BF93EC0"
-    },
-    {
       "class": "shapeGroup",
       "id": "CEAC29A3-63AD-41AE-B008-5C6FFA6F974B"
     },
@@ -63,7 +59,7 @@
       "id": "1518DE41-931C-469C-8748-FCB3A6E8A4C7"
     }
   ],
-  "name": "Style: Icons / times/circle",
+  "name": "Style: Icons/times/circle",
   "nameIsFixed": true,
   "originalObjectID": "642F5FF8-BA8E-4A72-AFC9-41130D00E235",
   "resizesContent": false,

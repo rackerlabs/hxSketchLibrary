@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 772,
+  "changeIdentifier": 785,
   "do_objectID": "B285C4E9-3AD3-4EB2-9DC0-0CE603C1D747",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 106,
-    "y": 278
+    "x": 576,
+    "y": 36
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,19 +45,15 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "slice",
-      "id": "A8DD005A-42E3-4BAD-AC77-07FDBC632B58"
-    },
-    {
       "class": "shapeGroup",
-      "id": "ED4923AE-59A4-4FD2-88E1-7DD4F9F35201"
+      "id": "D22D92DE-9365-4D44-A7DC-661CA577EA25"
     },
     {
       "class": "symbolInstance",
       "id": "D9B275CB-10CE-4E29-BB41-F58807ED9639"
     }
   ],
-  "name": "Style: Icons / sort/sortable",
+  "name": "Style: Icons/sort/sortable",
   "nameIsFixed": true,
   "originalObjectID": "4D83DFDD-CD50-469C-9BB2-EE6BAD961F07",
   "resizesContent": false,

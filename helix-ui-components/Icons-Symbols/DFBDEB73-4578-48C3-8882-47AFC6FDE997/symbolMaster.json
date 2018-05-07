@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 319,
+  "changeIdentifier": 339,
   "do_objectID": "DFBDEB73-4578-48C3-8882-47AFC6FDE997",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 110,
-    "y": -138
+    "x": 288,
+    "y": 36
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,10 +45,6 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "slice",
-      "id": "C678EC1D-4EA9-4321-B279-C87604C5150D"
-    },
-    {
       "class": "shapeGroup",
       "id": "ABECF665-CCBA-4679-964C-CB85FE1BBB91"
     },
@@ -57,7 +53,7 @@
       "id": "231CD1B5-1A55-4E7B-B0F3-BD71378477A5"
     }
   ],
-  "name": "Style: Icons / input/time",
+  "name": "Style: Icons/input/time",
   "nameIsFixed": true,
   "originalObjectID": "595D863D-E473-40F3-ABF5-C09C245834CE",
   "resizesContent": false,

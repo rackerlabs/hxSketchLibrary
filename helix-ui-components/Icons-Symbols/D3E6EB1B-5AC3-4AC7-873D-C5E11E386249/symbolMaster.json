@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 2802,
+  "changeIdentifier": 2813,
   "do_objectID": "D3E6EB1B-5AC3-4AC7-873D-C5E11E386249",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 86,
-    "y": -682
+    "x": 0,
+    "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,19 +45,15 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "slice",
-      "id": "2835F483-2B56-4810-B28A-BE063EC02C5A"
-    },
-    {
       "class": "shapeGroup",
-      "id": "8A7EF287-6A63-4657-812E-42A61DB6B86C"
+      "id": "E47F8F90-08EA-4E2A-890D-3D4081176F7F"
     },
     {
       "class": "symbolInstance",
       "id": "C9CC1A44-9E84-409D-AE28-C9F02A64CC00"
     }
   ],
-  "name": "Style: Icons / account",
+  "name": "Style: Icons/account",
   "nameIsFixed": true,
   "originalObjectID": "0CA88E2C-893D-4473-A46F-FB2BBC99089A",
   "resizesContent": false,

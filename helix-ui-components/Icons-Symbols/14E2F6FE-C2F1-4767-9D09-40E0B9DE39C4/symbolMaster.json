@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 336,
+  "changeIdentifier": 350,
   "do_objectID": "14E2F6FE-C2F1-4767-9D09-40E0B9DE39C4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,11 +23,11 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 110,
-    "y": -362
+    "x": 144,
+    "y": 72
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -45,19 +45,15 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "slice",
-      "id": "C9933FC1-07CC-4F99-ADB4-062D3C8975A5"
-    },
-    {
       "class": "shapeGroup",
-      "id": "FBE756DE-83AE-46E5-948A-FEBB3EBE7A36"
+      "id": "678DE507-5296-49BC-A151-233872224C81"
     },
     {
       "class": "symbolInstance",
       "id": "B564BB2C-EDCF-4E61-A12D-4D3CB6531DF6"
     }
   ],
-  "name": "Style: Icons / exclamation/triangle",
+  "name": "Style: Icons/exclamation/triangle",
   "nameIsFixed": true,
   "originalObjectID": "51764C35-05F9-41B7-ACC7-5A73C467D94C",
   "resizesContent": false,

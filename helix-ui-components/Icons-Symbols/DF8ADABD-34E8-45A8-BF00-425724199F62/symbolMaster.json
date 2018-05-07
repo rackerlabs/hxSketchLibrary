@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 9948,
+  "changeIdentifier": 9962,
   "do_objectID": "DF8ADABD-34E8-45A8-BF00-425724199F62",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 86,
-    "y": 150
+    "x": 0,
+    "y": 756
   },
   "grid": {
     "_class": "simpleGrid",
@@ -33,7 +33,7 @@
     "thickGridTimes": 4
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,19 +51,15 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "slice",
-      "id": "4D58B88A-A7FD-47C3-9BBF-CB22864E8DA7"
-    },
-    {
       "class": "shapeGroup",
-      "id": "207C5551-7597-4E06-BF41-01F563B93684"
+      "id": "6255D1A2-4102-4AD6-ADE7-762493BB31D4"
     },
     {
       "class": "symbolInstance",
       "id": "EE63F604-CFA1-4A04-BF72-DF9141C00C9F"
     }
   ],
-  "name": "Style: Icons / plus",
+  "name": "Style: Icons/plus",
   "nameIsFixed": true,
   "originalObjectID": "A8C84016-3017-4B0C-9558-A6244D59DACF",
   "resizesContent": false,

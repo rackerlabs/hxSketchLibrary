@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 135,
+  "changeIdentifier": 149,
   "do_objectID": "D96D2EEF-67BF-4E36-B608-68DB500CD84D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,8 +23,8 @@
     "constrainProportions": false,
     "height": 16,
     "width": 16,
-    "x": 86,
-    "y": -330
+    "x": 0,
+    "y": 288
   },
   "grid": {
     "_class": "simpleGrid",
@@ -33,7 +33,7 @@
     "thickGridTimes": 8
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -51,19 +51,15 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "slice",
-      "id": "804F7B77-FA9A-4E25-9479-A44A2EC3EE0C"
-    },
-    {
       "class": "shapeGroup",
-      "id": "F43D0FA6-B8C5-4D4C-AD86-9982ED364D25"
+      "id": "4A0E94F9-2382-413E-A9C7-19A94B60E8B7"
     },
     {
       "class": "symbolInstance",
       "id": "7756FC44-1C51-427F-8D59-7CFCC9E33D92"
     }
   ],
-  "name": "Style: Icons / export",
+  "name": "Style: Icons/export",
   "nameIsFixed": true,
   "originalObjectID": "064506BE-C5ED-4F77-A7A0-4C60A63C921B",
   "resizesContent": false,
