@@ -44,17 +44,6 @@
       "value": "7FC1687D-C1B5-41E0-8495-2DD17F649329"
     }
   ],
-  "overrides": {
-    "C2CDC604-66DD-4E41-94E4-6433E94A1369": {
-      "symbolID": "7FC1687D-C1B5-41E0-8495-2DD17F649329"
-    },
-    "DBF1EE2F-5524-48A2-B2C6-6D282FB342DF": {
-      "E7261172-4451-45B7-B5B4-EA7B787ADE56": {
-        "E94972C7-4627-45D4-8C9E-1282C1B33933": "Save Template"
-      },
-      "symbolID": "7FC1687D-C1B5-41E0-8495-2DD17F649329"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

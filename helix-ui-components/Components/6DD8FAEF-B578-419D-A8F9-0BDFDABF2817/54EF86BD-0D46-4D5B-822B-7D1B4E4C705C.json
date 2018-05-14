@@ -40,14 +40,6 @@
       "value": "LAST"
     }
   ],
-  "overrides": {
-    "3E2F0E0F-BE29-4816-A841-F7EB98821C1E": {
-      "B663ABC5-26DA-4AF2-A734-29949ABFD2A8": {
-        "BBDF2D6F-F00B-4E27-9C3B-6CCF433F95C3": "LAST"
-      },
-      "symbolID": "01D645CB-3CBE-460E-AF82-B4BF358BF1EE"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

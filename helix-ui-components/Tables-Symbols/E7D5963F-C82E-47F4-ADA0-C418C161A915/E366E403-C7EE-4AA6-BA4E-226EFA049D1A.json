@@ -35,11 +35,6 @@
       "value": "8A33095F-ADF3-4B59-A10C-DF05F83B87DE"
     }
   ],
-  "overrides": {
-    "F59FC87B-338D-4249-B197-80720493482F": {
-      "symbolID": "8A33095F-ADF3-4B59-A10C-DF05F83B87DE"
-    }
-  },
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,

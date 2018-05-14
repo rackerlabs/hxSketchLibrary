@@ -46,17 +46,6 @@
       "value": "D0B7EE4B-FFE8-48EA-B709-FC63931FC6A5"
     }
   ],
-  "overrides": {
-    "09ABE367-E62A-41A2-8E0B-FB1EDE114532": {
-      "symbolID": "D0B7EE4B-FFE8-48EA-B709-FC63931FC6A5"
-    },
-    "4BA1905E-128D-4AF6-B968-3C8A89277843": {
-      "921738BF-D314-48A8-8487-9C6F42A960AC": {
-        "symbolID": "E9877080-42A0-4529-BD8B-65BD948630B4"
-      },
-      "symbolID": "D0B7EE4B-FFE8-48EA-B709-FC63931FC6A5"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

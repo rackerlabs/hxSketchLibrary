@@ -36,11 +36,6 @@
       "value": "2679F45F-1E80-44AF-B769-0E88E0F34EE1"
     }
   ],
-  "overrides": {
-    "07246D77-11BF-4B85-8573-9C002356353D": {
-      "symbolID": "2679F45F-1E80-44AF-B769-0E88E0F34EE1"
-    }
-  },
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,

@@ -34,13 +34,6 @@
       "value": "BC06ACF7-6452-46AC-99EC-3E21DCA4FAFC"
     }
   ],
-  "overrides": {
-    "5E4085A3-0C99-4745-A4A5-6CBAFE3AFB77": {
-      "6E13AE96-F11E-4D09-A7E7-81BEA1BEE5D5": {
-        "symbolID": "BC06ACF7-6452-46AC-99EC-3E21DCA4FAFC"
-      }
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

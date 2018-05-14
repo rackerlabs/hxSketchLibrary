@@ -64,28 +64,6 @@
       "value": "Lorem Ipsum"
     }
   ],
-  "overrides": {
-    "9C2FE385-380F-4F2D-ADF3-B6391D2AC8D5": {
-      "4A4D83CE-9F26-4BAF-967A-9CDB212DE1A0": {
-        "6C20E492-0A37-4567-ABDA-53882AECEFE1": {
-          "169C867D-F86B-4AE7-A354-0F1FAD425185": "Lorem Ipsum",
-          "symbolID": "DA57B83E-5128-44C1-ABE0-4487D47EE3F1"
-        }
-      },
-      "4E345B1A-B93D-4C3C-90F4-F141723750D9": "Servers",
-      "A634D0D9-2E4C-40A1-9357-9C9DFCD9F6E4": {
-        "6C20E492-0A37-4567-ABDA-53882AECEFE1": {
-          "3663746B-0534-4E79-B149-0CCF272DBCBD": "Lorem Ipsum"
-        }
-      },
-      "D23E3B39-7923-448F-BB87-3F3ED5AC9F5D": {
-        "6C20E492-0A37-4567-ABDA-53882AECEFE1": {
-          "3663746B-0534-4E79-B149-0CCF272DBCBD": "Lorem Ipsum"
-        }
-      }
-    },
-    "A78086CE-352A-4C7D-A9D4-474A27ED8D55": "Cloud Server"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -34,13 +34,6 @@
       "value": "FIRST"
     }
   ],
-  "overrides": {
-    "3E2F0E0F-BE29-4816-A841-F7EB98821C1E": {
-      "3487CFDF-4A86-4D04-964C-65B026AE19FC": {
-        "91B9A136-09D3-4F87-BE3C-FAD2229C8159": "FIRST"
-      }
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

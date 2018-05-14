@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 1656,
+  "changeIdentifier": 1898,
   "do_objectID": "57185C24-AD91-432A-B1EF-761058247E71",
   "exportOptions": {
     "_class": "exportOptions",
@@ -42,7 +42,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -61,8 +61,8 @@
       "id": "5E9239C5-7B2B-40AC-89CB-D334A4E662E8"
     },
     {
-      "class": "shapeGroup",
-      "id": "BB547E4E-2884-417C-8762-D1E9D7CBA9A7"
+      "class": "symbolInstance",
+      "id": "DDDD6F8E-A940-452C-95EC-2E3BA27473C8"
     }
   ],
   "name": "Content Areas: Modals / Modal",

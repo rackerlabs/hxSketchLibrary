@@ -40,12 +40,6 @@
       "value": ""
     }
   ],
-  "overrides": {
-    "04BFF7B0-F89E-4B65-8939-F07C73C4525F": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tristique lacinia nibh. Nam a sem vitae mi pretium venenatis vitae et velit. Vestibulum vel elementum libero. Cras vehicula rhoncus nibh vitae cursus.",
-    "F05D87AC-9899-4E3B-A3FB-7223455AB025": {
-      "symbolID": ""
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

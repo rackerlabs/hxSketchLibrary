@@ -40,14 +40,6 @@
       "value": "user@domain.com"
     }
   ],
-  "overrides": {
-    "1A87CB8B-B5B7-443D-A45E-C6623605B56F": {
-      "A9F6F4EF-8FDD-4233-BA28-692940463598": "user@domain.com"
-    },
-    "57E167C0-A2CE-4032-B647-5C6972C4DF20": {
-      "F77511A4-5446-4F1D-AF0D-1BDC2E5E5F0C": "Email"
-    }
-  },
   "resizingConstraint": 26,
   "resizingType": 0,
   "rotation": 0,

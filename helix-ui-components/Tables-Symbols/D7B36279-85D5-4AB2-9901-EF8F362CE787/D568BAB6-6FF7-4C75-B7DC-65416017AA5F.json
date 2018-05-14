@@ -40,16 +40,6 @@
       "value": ""
     }
   ],
-  "overrides": {
-    "149C46B7-AD2A-4275-98F8-B2EBF8D65E7A": {
-      "symbolID": ""
-    },
-    "C2CDC604-66DD-4E41-94E4-6433E94A1369": {
-      "19A721D0-341B-43EA-BAE2-0FB5F4AB0236": {
-        "0BCFBCFD-4126-4314-BBFB-A7FA84A0DA05": "Create Server"
-      }
-    }
-  },
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,

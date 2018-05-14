@@ -34,11 +34,6 @@
       "value": "1"
     }
   ],
-  "overrides": {
-    "CDE82347-EAE8-4894-ACEA-53B122527310": {
-      "92962C57-C7AB-4DF3-89E0-1CD478FE25C7": "1"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

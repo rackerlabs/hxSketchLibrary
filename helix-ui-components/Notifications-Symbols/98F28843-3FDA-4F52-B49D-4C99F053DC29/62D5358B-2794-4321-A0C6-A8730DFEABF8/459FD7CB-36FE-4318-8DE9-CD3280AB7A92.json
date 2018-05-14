@@ -33,11 +33,6 @@
       "value": "7324EC65-788A-40B6-9B48-2A5C6887A0B4"
     }
   ],
-  "overrides": {
-    "F4C99CE4-3BE5-48F4-84C9-C02901FDB01C": {
-      "symbolID": "7324EC65-788A-40B6-9B48-2A5C6887A0B4"
-    }
-  },
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,
