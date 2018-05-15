@@ -46,17 +46,6 @@
       "value": ""
     }
   ],
-  "overrides": {
-    "149C46B7-AD2A-4275-98F8-B2EBF8D65E7A": {
-      "symbolID": ""
-    },
-    "C2CDC604-66DD-4E41-94E4-6433E94A1369": {
-      "2946E6E5-CD6A-4D0B-9372-D6AF54C9F3F8": {
-        "6EF27220-6918-4A9D-9BCC-E168C9DC4F0E": "Create Deployment"
-      },
-      "symbolID": "7FC1687D-C1B5-41E0-8495-2DD17F649329"
-    }
-  },
   "resizingConstraint": 9,
   "resizingType": 0,
   "rotation": 0,

@@ -28,33 +28,6 @@
   "layerListExpandedType": 0,
   "name": "Path",
   "nameIsFixed": false,
-  "path": {
-    "_class": "path",
-    "isClosed": false,
-    "pointRadiusBehaviour": 1,
-    "points": [
-      {
-        "_class": "curvePoint",
-        "cornerRadius": 0,
-        "curveFrom": "{0.0012106537530266344, 0.033333333333331439}",
-        "curveMode": 1,
-        "curveTo": "{0.0012106537530266344, 0.033333333333331439}",
-        "hasCurveFrom": false,
-        "hasCurveTo": false,
-        "point": "{0, 0.50000000000000089}"
-      },
-      {
-        "_class": "curvePoint",
-        "cornerRadius": 0,
-        "curveFrom": "{0.0024213075060532689, 0.49999999999999728}",
-        "curveMode": 1,
-        "curveTo": "{0.0024213075060532689, 0.49999999999999728}",
-        "hasCurveFrom": false,
-        "hasCurveTo": false,
-        "point": "{1, 0.49999999999999906}"
-      }
-    ]
-  },
   "pointRadiusBehaviour": 1,
   "points": [
     {

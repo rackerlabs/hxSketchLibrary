@@ -33,13 +33,6 @@
       "value": "Create Server"
     }
   ],
-  "overrides": {
-    "DBF1EE2F-5524-48A2-B2C6-6D282FB342DF": {
-      "66ADDA34-A5EF-425A-8973-F7E530755CA5": {
-        "65F9750C-891A-4D35-96C9-F8029785A951": "Create Server"
-      }
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

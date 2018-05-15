@@ -46,15 +46,6 @@
       "value": ""
     }
   ],
-  "overrides": {
-    "0B2AA51B-F765-4E08-AFC6-C12F61DF6293": {
-      "D0A85E15-2389-4E3F-885E-B347B8FBFDF0": "Hovered Tab",
-      "symbolID": "E33C6295-7549-447C-AD13-6A8A56023384"
-    },
-    "8E71D949-B732-46F2-A66B-646E5BD17EEB": {
-      "symbolID": ""
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -33,11 +33,6 @@
       "value": "FE12C12F-233B-49F2-AC1F-EE0E896EFCF5"
     }
   ],
-  "overrides": {
-    "9D225353-BDD0-4C67-BD15-DF3CD9D2DF37": {
-      "symbolID": "FE12C12F-233B-49F2-AC1F-EE0E896EFCF5"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

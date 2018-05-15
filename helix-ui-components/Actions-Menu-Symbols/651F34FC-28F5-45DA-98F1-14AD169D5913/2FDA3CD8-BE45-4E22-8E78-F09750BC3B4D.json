@@ -34,9 +34,6 @@
       "value": "Action 2"
     }
   ],
-  "overrides": {
-    "DD4B1F12-284C-4262-95ED-F93D6197E053": "Action 2"
-  },
   "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,

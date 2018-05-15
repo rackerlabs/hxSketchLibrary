@@ -34,11 +34,6 @@
       "value": "Value goes here; 8px vertical space"
     }
   ],
-  "overrides": {
-    "1A87CB8B-B5B7-443D-A45E-C6623605B56F": {
-      "A9F6F4EF-8FDD-4233-BA28-692940463598": "Value goes here; 8px vertical space"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

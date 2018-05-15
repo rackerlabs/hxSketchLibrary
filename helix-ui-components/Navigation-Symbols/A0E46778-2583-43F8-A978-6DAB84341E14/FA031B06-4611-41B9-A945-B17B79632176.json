@@ -38,14 +38,6 @@
       "value": "D35066A7-D63B-4401-826B-A184B64858C6"
     }
   ],
-  "overrides": {
-    "02251151-F0E1-443E-89A9-F08457562312": {
-      "symbolID": ""
-    },
-    "1E6EEA0B-E909-4BB3-A38C-52831A330546": {
-      "symbolID": "D35066A7-D63B-4401-826B-A184B64858C6"
-    }
-  },
   "resizingConstraint": 26,
   "resizingType": 0,
   "rotation": 0,

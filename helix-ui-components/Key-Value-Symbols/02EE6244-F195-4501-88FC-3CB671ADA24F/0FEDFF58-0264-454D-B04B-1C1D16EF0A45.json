@@ -34,9 +34,6 @@
       "value": "Dual line value goes here; Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     }
   ],
-  "overrides": {
-    "A9F6F4EF-8FDD-4233-BA28-692940463598": "Dual line value goes here; Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

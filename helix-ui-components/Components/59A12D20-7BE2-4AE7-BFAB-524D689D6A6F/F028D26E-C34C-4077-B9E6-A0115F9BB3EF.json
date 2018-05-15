@@ -33,11 +33,6 @@
       "value": "83DEA197-424A-45C6-8284-8693C950CA1F"
     }
   ],
-  "overrides": {
-    "26E8F626-636F-455F-9220-750C3297FE3B": {
-      "symbolID": "83DEA197-424A-45C6-8284-8693C950CA1F"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

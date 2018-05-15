@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 228,
-    "width": 520,
-    "x": -2,
+    "width": 518,
+    "x": 0,
     "y": 0
   },
   "horizontalSpacing": 0,
@@ -28,8 +28,6 @@
   "nameIsFixed": true,
   "overrideValues": [
   ],
-  "overrides": {
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -1,10 +1,68 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGmptYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QKQcIERIYJSYnKCk0Nz1BRU1OT1BRVVllZmdoaWprbG1vcHyIiYqLjpKWVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoAmgAOAKF8QPEltYWdlIGNyZWRpdCB0byB0aGUgd29uZGVyZnVsIGZvbGtzIGF0IGh0dHBzOi8vc2tldGNoYXBwLmNvbdITDBQXWk5TLm9iamVjdHOiFRaABIAggCXTGRMMGh8kV05TLmtleXOkGxwdHoAFgAaAB4AIpCAhIiOACYANgBWAH4AeXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1iorLC0MLi8wMTAzMVpOU1RhYlN0b3BzW05TVGV4dExpc3RzXxAPTlNNaW5MaW5lSGVpZ2h0XE5TVGV4dEJsb2Nrc18QD05TTWF4TGluZUhlaWdodIAAgAojQDUAAAAAAACACoAM0hMMNTaggAvSODk6O1okY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiOjxYTlNPYmplY3TSODk+P18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloz5APF8QEE5TUGFyYWdyYXBoU3R5bGXSDEJDRF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMZEwxGSUyiR0iAD4AQokpLgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABcUm9ib3RvLUxpZ2h00jg5UlNfEBNOU011dGFibGVEaWN0aW9uYXJ5o1JUPFxOU0RpY3Rpb25hcnnSODlWV18QEE5TRm9udERlc2NyaXB0b3KiWDxfEBBOU0ZvbnREZXNjcmlwdG9y0xkTDFpfJKRbXF1egBaAF4AYgBmkYGFiY4AagBuAHIAdgB5TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP9hYWFhile0jP/AAAAAAAAAjP9hYWFhile0jP9hYWFhile3SODlUbqJUPCMAAAAAAAAAANMZEwxxdiSkGxwdHoAFgAaAB4AIpCAheSOACYANgCGAH4Ae0xkTDH2CJKRbXF1egBaAF4AYgBmkg2GFhoAigBuAI4AkgB4jP6oaGhoaGiYjP+o6Ojo6OjojP90dHR0dHR3SODmMjV5OU011dGFibGVBcnJheaOMOjzSjwyQkVdOUy5kYXRhRCcAFQGAJ9I4OZOUXU5TTXV0YWJsZURhdGGjk5U8Vk5TRGF0YdI4OZeYXxASTlNBdHRyaWJ1dGVkU3RyaW5nopk8XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0ZydVHJvb3SAAQAIABEAGgAjAC0AMgA3AGMAaQByAHsAjQCaAKEAowClAKcAqQDoAO0A+AD7AP0A/wEBAQgBEAEVARcBGQEbAR0BIgEkASYBKAEqASwBPwFhAY4BlQGiAa0BuQHLAdgB6gHsAe4B9wH5AfsCAAIBAgMCCAITAhwCJAInAjACNQJPAlMCZgJrAogCigKMApMClgKYApoCnQKfAqECowK5As8C2ALlAuoDAAMEAxEDFgMpAywDPwNGA0sDTQNPA1EDUwNYA1oDXANeA2ADYgNmA2wDcQN3A4ADiQOSA5sDoAOjA6wDswO4A7oDvAO+A8ADxQPHA8kDywPNA88D1gPbA90D3wPhA+MD6APqA+wD7gPwA/ID+wQEBA0EEgQhBCUEKgQyBDcEOQQ+BEwEUARXBFwEcQR0BIkEmwSeBKMAAAAAAAACAQAAAAAAAACeAAAAAAAAAAAAAAAAAAAEpQ=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3803921569,
+            "green": 0.3803921569,
+            "red": 0.3803921569
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Light",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21
+          }
+        },
+        "length": 39,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.8196078431372549,
+            "green": 0.4549019607843137,
+            "red": 0.05098039215686283
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Light",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21
+          }
+        },
+        "length": 21,
+        "location": 39
+      }
+    ],
+    "string": "Image credit to the wonderful folks at https://sketchapp.com"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "42D36AB6-3FA8-4B6A-8A87-0BAE701C34AB",
@@ -55,11 +113,19 @@
           "red": 0.3803921569
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFxSb2JvdG8tTGlnaHTSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA4ADlAPAA+QEPARMBIAEpAS4BQQFEAVcBaQFsAXEAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABcw=="
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Light",
+            "size": 14
+          }
         },
         "kerning": 0,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBQYHlUkbnVsbNYJCgsMDQ4PEBEQExFaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NWJGNsYXNzXxAPTlNNYXhMaW5lSGVpZ2h0gACAAiNANQAAAAAAAIACgATSFQ0WF1pOUy5vYmplY3RzoIAD0hkaGxxaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ohsdWE5TT2JqZWN00hkaHyBfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMfIR1fEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SQlVHJvb3SAAQAIABEAGgAjAC0AMgA3AD0AQwBQAFsAZwB5AIYAjQCfAKEAowCsAK4AsAC1AMAAwQDDAMgA0wDcAOQA5wDwAPUBDwETASYBOAE7AUAAAAAAAAACAQAAAAAAAAAmAAAAAAAAAAAAAAAAAAABQg=="
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 21,
+          "minimumLineHeight": 21
         }
       },
       "verticalAlignment": 0

@@ -34,11 +34,6 @@
       "value": "Dual line value goes here; 8px vertical space between each k:v pair."
     }
   ],
-  "overrides": {
-    "0FEDFF58-0264-454D-B04B-1C1D16EF0A45": {
-      "A9F6F4EF-8FDD-4233-BA28-692940463598": "Dual line value goes here; 8px vertical space between each k:v pair."
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

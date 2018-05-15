@@ -34,13 +34,6 @@
       "value": "3B074A55-C7DB-47AA-9410-CDE4F8BF13FE"
     }
   ],
-  "overrides": {
-    "0B3A58A7-0492-46AD-B3A4-4DA55D82B518": {
-      "4EA24F0A-1EE2-44B5-9A71-369642E9FEBC": {
-        "symbolID": "3B074A55-C7DB-47AA-9410-CDE4F8BF13FE"
-      }
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

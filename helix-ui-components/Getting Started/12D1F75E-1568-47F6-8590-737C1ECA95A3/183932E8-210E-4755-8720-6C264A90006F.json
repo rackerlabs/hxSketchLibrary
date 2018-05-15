@@ -1,10 +1,352 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "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"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 23,
+            "minimumLineHeight": 23,
+            "tabStops": [
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 28,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 56,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 84,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 112,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 140,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 168,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 196,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 224,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 252,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 280,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 308,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 336,
+                "options": {
+                }
+              }
+            ]
+          }
+        },
+        "length": 71,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "LucidaGrande",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 23,
+            "minimumLineHeight": 23,
+            "tabStops": [
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 28,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 56,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 84,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 112,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 140,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 168,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 196,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 224,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 252,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 280,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 308,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 336,
+                "options": {
+                }
+              }
+            ]
+          }
+        },
+        "length": 5,
+        "location": 71
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2,
+            "green": 0.2,
+            "red": 0.2
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 16
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 23,
+            "minimumLineHeight": 23,
+            "tabStops": [
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 28,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 56,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 84,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 112,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 140,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 168,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 196,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 224,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 252,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 280,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 308,
+                "options": {
+                }
+              },
+              {
+                "_class": "textTab",
+                "alignment": 0,
+                "location": 336,
+                "options": {
+                }
+              }
+            ]
+          }
+        },
+        "length": 79,
+        "location": 76
+      }
+    ],
+    "string": "Clone the hxSketchLibrary repository, File > Clone Repository (shift + ⌘ + o). Enter the repo url into the URL tab and select a location to store the repo."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "183932E8-210E-4755-8720-6C264A90006F",
@@ -55,10 +397,104 @@
           "red": 0.2
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF5Sb2JvdG8tUmVndWxhctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDiAOcA8gD7AREBFQEiASsBMAFDAUYBWQFrAW4BcwAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF1"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 16
+          }
         },
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGWVpYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QEwcIFCQoLjE0Nzo9QENGSUxPUlVVJG51bGzWCQoLDA0ODxAREBMRWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzViRjbGFzc18QD05TTWF4TGluZUhlaWdodIACgBEjQDcAAAAAAACAEYAS0hUNFiNaTlMub2JqZWN0c6wXGBkaGxwdHh8gISKAA4AFgAaAB4AIgAmACoALgAyADYAOgA+AENINJSYnWk5TTG9jYXRpb26ABCNAPAAAAAAAANIpKissWiRjbGFzc25hbWVYJGNsYXNzZXNZTlNUZXh0VGFioistWE5TT2JqZWN00g0lJjCABCNATAAAAAAAANINJSYzgAQjQFUAAAAAAADSDSUmNoAEI0BcAAAAAAAA0g0lJjmABCNAYYAAAAAAANINJSY8gAQjQGUAAAAAAADSDSUmP4AEI0BogAAAAAAA0g0lJkKABCNAbAAAAAAAANINJSZFgAQjQG+AAAAAAADSDSUmSIAEI0BxgAAAAAAA0g0lJkuABCNAc0AAAAAAANINJSZOgAQjQHUAAAAAAADSKSpQUVdOU0FycmF5olAt0hUNUyOggBDSKSpWV18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1ZYLV8QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRW1xUcm9vdIABAAgAEQAaACMALQAyADcATQBTAGAAawB3AIkAlgCdAK8AsQCzALwAvgDAAMUA0ADdAN8A4QDjAOUA5wDpAOsA7QDvAPEA8wD1APcA/AEHAQkBEgEXASIBKwE1ATgBQQFGAUgBUQFWAVgBYQFmAWgBcQF2AXgBgQGGAYgBkQGWAZgBoQGmAagBsQG2AbgBwQHGAcgB0QHWAdgB4QHmAegB8QH2Af4CAQIGAgcCCQIOAigCLAI/AlECVAJZAAAAAAAAAgEAAAAAAAAAXQAAAAAAAAAAAAAAAAAAAls="
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 23,
+          "minimumLineHeight": 23,
+          "tabStops": [
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 28,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 56,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 84,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 112,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 140,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 168,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 196,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 224,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 252,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 280,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 308,
+              "options": {
+              }
+            },
+            {
+              "_class": "textTab",
+              "alignment": 0,
+              "location": 336,
+              "options": {
+              }
+            }
+          ]
         }
       },
       "verticalAlignment": 0

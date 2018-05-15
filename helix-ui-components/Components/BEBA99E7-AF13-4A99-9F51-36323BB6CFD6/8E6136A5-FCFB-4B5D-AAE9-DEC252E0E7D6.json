@@ -34,9 +34,6 @@
       "value": "3-col"
     }
   ],
-  "overrides": {
-    "C098BAE9-CDD4-4E9A-BC57-EEBDA3A4211F": "3-col"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
