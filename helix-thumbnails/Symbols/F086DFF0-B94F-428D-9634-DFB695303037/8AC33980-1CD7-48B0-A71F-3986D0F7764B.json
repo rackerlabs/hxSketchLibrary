@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8AC33980-1CD7-48B0-A71F-3986D0F7764B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F35721D-BA65-4683-964A-A1686BA43804",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "914E8543-6CD4-43F5-86C7-5D1BAB41043F",
+    "height": 1,
+    "width": 119,
+    "x": 0,
+    "y": 87
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "z-junk-drawer / application / section-divider copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D9C0028-596F-44FC-8B1F-C061DF7D79F9",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9222E098-7907-43EE-BE65-C0D305A534F1",
+  "verticalSpacing": 0
+}
