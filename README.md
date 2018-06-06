@@ -18,12 +18,12 @@ We use [Kactus](https://github.com/kactus-io/kactus), which serves as an interfa
 1. [Download Kactus](https://kactus.io/) and launch the application.
 2. Sign into GitHub within the Kactus UI.
 3. Configure your GIT user in Kactus.
-4. Clone this repository
-5. Select the library file you want and click "Regenerate Sketch File"
+4. Clone this repository.
+5. Select the library file you want and click "Regenerate Sketch File".
 
 ### B. Add the library to Sketch
 1. Open Sketch’s Preferences (`Command+Comma`), and navigate to the Libraries tab.
-2. Click the "Add Library" button, navigate to this file and click "open"
+2. Click the "Add Library" button, navigate to this file, and click "open".
 3. Profit. You can now add Helix symbols to your mockup using the insert menu in Sketch.
 
 ### C. Get the library updates
