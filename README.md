@@ -1,8 +1,8 @@
 # hxSketchLibrary
 
-This repo contains various libraries for use within [Sketch](https://www.sketchapp.com/) to design mockups using components in the [Helix Design System ](github.com/rackerlabs/helix-ui). 
+This repo contains libraries for use within [Sketch](https://www.sketchapp.com/) to design mockups using components in the [Helix Design System ](github.com/rackerlabs/helix-ui). 
 
-There are no `.sketch` files stored in this repository. Sketch files are essentially just a set of JSON files, and that is how they are stored in this repo.
+There are no `.sketch` files in this repository. Sketch files are essentially just a set of JSON files, and that is how they are stored in this repo.
 
 We use [Kactus](https://github.com/kactus-io/kactus), which serves as an interface between Sketch and Github.  Kactus provides the most common GIT actions and handles the conversion of Sketch files into, and out of, JSON, making storage on GitHub easier.
 
