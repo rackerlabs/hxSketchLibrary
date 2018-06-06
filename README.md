@@ -1,6 +1,6 @@
 # hxSketchLibrary
 
-This repo contains libraries for use within [Sketch](https://www.sketchapp.com/) to design mockups using components in the [Helix Design System ](github.com/rackerlabs/helix-ui). 
+This repo contains libraries for use within [Sketch](https://www.sketchapp.com/) to design mockups using components in the [Helix Design System ](https://github.com/rackerlabs/helix-ui). 
 
 There are no `.sketch` files in this repository. Sketch files are essentially just a set of JSON files, and that is how they are stored in this repo.
 
