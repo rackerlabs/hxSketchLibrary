@@ -6,11 +6,11 @@ There are no `.sketch` files in this repository. Sketch files are essentially ju
 
 We use [Kactus](https://github.com/kactus-io/kactus), which serves as an interface between Sketch and Github.  Kactus provides the most common GIT actions and handles the conversion of Sketch files into, and out of, JSON, making storage on GitHub easier.
 
-## Repo Contents
+## Repo Contents (in JSON form)
 
-- **helix-ui-components.sketch** - Robust ui-component symbols for creating mockups in Helix.
-- **helix-redline-specs.sketch** - Symbols for use in creating redline documentation for any Helix design.
-- **helix-thumbnails.sketch** - Handy thumbnail symbols for the most common page types in Helix.
+- **helix-ui-components** - Robust ui-component symbols for creating mockups in Helix.
+- **helix-redline-specs** - Symbols for use in creating redline documentation for any Helix design.
+- **helix-thumbnails** - Handy thumbnail symbols for the most common page types in Helix.
 
 ## Setting up the library
 
