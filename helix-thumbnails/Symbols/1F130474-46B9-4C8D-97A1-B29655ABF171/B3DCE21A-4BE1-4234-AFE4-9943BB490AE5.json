@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B3DCE21A-4BE1-4234-AFE4-9943BB490AE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CA53F696-12C5-47DD-91B8-79023F0E6726",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "633DF3BF-551B-4527-A909-84069F2ECB08",
+    "height": 7,
+    "width": 111,
+    "x": 4,
+    "y": 152
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "tables / drilldown-row copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9479811-70CF-4CC4-ACEA-AE262EF4DD30",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "ED1EF338-6EE4-4F67-AEA2-71CAF0388D98",
+  "verticalSpacing": 0
+}

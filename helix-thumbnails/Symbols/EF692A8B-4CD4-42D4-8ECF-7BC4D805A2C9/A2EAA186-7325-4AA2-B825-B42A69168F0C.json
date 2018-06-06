@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A2EAA186-7325-4AA2-B825-B42A69168F0C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5AB5977-1CCE-4567-ADC1-3E84D325AFA8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B5584F2-A48A-4E8F-94A1-98C0AB47FBFC",
+    "height": 7,
+    "width": 24,
+    "x": 83,
+    "y": 48
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms / text-field / with-label copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C37174C8-9CC9-4FE1-8481-1FEA87D71F3E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5305209B-CD43-4008-B293-0D2F2D0EFB30",
+  "verticalSpacing": 0
+}

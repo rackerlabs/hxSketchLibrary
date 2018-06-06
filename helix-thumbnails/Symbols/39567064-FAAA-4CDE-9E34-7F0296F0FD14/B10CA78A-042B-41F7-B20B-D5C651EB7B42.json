@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B10CA78A-042B-41F7-B20B-D5C651EB7B42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "88DBA594-699E-427E-AB43-79F5E3A4F231",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "43CA1E99-AA10-4E6D-91FF-5E423F02CB01",
+    "height": 4,
+    "width": 12,
+    "x": 64,
+    "y": 91
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "forms / button / secondary copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42E28CE3-5232-4649-B111-777C9EBC96C2",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2F4CA3FE-88D7-4EE3-ABA3-ABB25CDE8E45",
+  "verticalSpacing": 0
+}
