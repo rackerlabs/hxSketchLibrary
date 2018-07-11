@@ -1,10 +1,38 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIi8yODxASElKS0xQVGBhYmNkZWZnaGprVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxBrVXNlIHRoZSBkYXNoZWQgYm94IGluZGljYXRvciB0byBzaG93IHRoZSBkaW1lbnNpb25zIG9mIGVsZW1lbnRzIHRoYXQgYXJlIGJvcmRlcmxlc3MgYW5kIGhhdmUgbm8gYmFja2dyb3VuZC7TERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAyAFIAegB1fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7XCiMkJSYnKCkqKystLi5aTlNUYWJTdG9wc1tOU1RleHRMaXN0c1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0gAuAAIAJgAkQASNAOAAAAAAAANISCjAxoIAK0jM0NTZaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojU3WE5TT2JqZWN00jM0OTpfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM5OzdfEBBOU1BhcmFncmFwaFN0eWxl0go9Pj9fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKQURHokJDgA6AD6JFRoAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AwAAAAAAAAXlJvYm90by1SZWd1bGFy0jM0TU5fEBNOU011dGFibGVEaWN0aW9uYXJ5o01PN1xOU0RpY3Rpb25hcnnSMzRRUl8QEE5TRm9udERlc2NyaXB0b3KiUzdfEBBOU0ZvbnREZXNjcmlwdG9y0xESClVaHaRWV1hZgBWAFoAXgBikW1xdXoAZgBqAG4AcgB1TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP9CQkJCQkJAjP/AAAAAAAAAjP9CQkJCQkJAjP9CQkJCQkJDSMzRPaaJPNxAA0jM0bG1fEBJOU0F0dHJpYnV0ZWRTdHJpbmeibjdfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRcXJUcm9vdIABAAgAEQAaACMALQAyADcAWgBgAGcAcAB3AIQAhgCIAIoA+AD/AQcBEgEXARkBGwEdAR8BJAEmASgBKgEsAS4BQQFjAZABlwGmAbEBvQHKAewB/gIQAhICFAIWAhgCGgIjAigCKQIrAjACOwJEAkwCTwJYAl0CdwJ7Ao4CkwKwArICtAK7Ar4CwALCAsUCxwLJAssC4QL3AwADDwMUAyoDLgM7A0ADUwNWA2kDcAN1A3cDeQN7A30DggOEA4YDiAOKA4wDkAOWA5sDoQOqA7MDvAPFA8oDzQPPA9QD6QPsBAEEEwQWBBsAAAAAAAACAQAAAAAAAABzAAAAAAAAAAAAAAAAAAAEHQ=="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2588235294117647,
+            "green": 0.2588235294117647,
+            "red": 0.2588235294117647
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 107,
+        "location": 0
+      }
+    ],
+    "string": "Use the dashed box indicator to show the dimensions of elements that are borderless and have no background."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "80954572-D12B-4239-9CA5-54B9A614E356",

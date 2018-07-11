@@ -1,10 +1,38 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "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"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2588235294117647,
+            "green": 0.2588235294117647,
+            "red": 0.2588235294117647
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 181,
+        "location": 0
+      }
+    ],
+    "string": "Use reference tags to label elements that have already been spec’d out in another document.  Remember, you don’t need to spec something out that has already been done.  Use the tag!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E0DCC2ED-3E1D-4647-A217-627EAD50AAC7",

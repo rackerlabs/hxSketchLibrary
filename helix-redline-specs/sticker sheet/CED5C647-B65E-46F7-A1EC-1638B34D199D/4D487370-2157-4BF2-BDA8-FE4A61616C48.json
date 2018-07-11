@@ -1,10 +1,38 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIi8yODxASElKS0xQVGBhYmNkZWZnaGprVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxC6VXNlIGxpbmVzIHRvIHBvaW50IGF0IHRoaW5ncy4gIER1aCEgIFVzdWFsbHksIHlvdSB3aWxsIHdyaXRlIG91dCBzcGVjcyBmb3IgYm9yZGVycywgZm9udHMgYW5kIHN1Y2ggdXNpbmcgdGhlIExhYmVsLCBhbmQgdGhlbiB1c2UgYSBsaW5lIHRvIHBvaW50IGZyb20gdGhlIGxhYmVsIHRvIHRoZSB0aGluZyBpdCBkZXNjcmliZXMu0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAHoAdXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1wojJCUmJygpKisrLS4uWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNcTlNUZXh0QmxvY2tzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIALgACACYAJEAEjQDgAAAAAAADSEgowMaCACtIzNDU2WiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaI1N1hOU09iamVjdNIzNDk6XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjOTs3XxAQTlNQYXJhZ3JhcGhTdHlsZdIKPT4/XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAE4AN0xESCkFER6JCQ4AOgA+iRUaAEIARgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF5Sb2JvdG8tUmVndWxhctIzNE1OXxATTlNNdXRhYmxlRGljdGlvbmFyeaNNTzdcTlNEaWN0aW9uYXJ50jM0UVJfEBBOU0ZvbnREZXNjcmlwdG9yolM3XxAQTlNGb250RGVzY3JpcHRvctMREgpVWh2kVldYWYAVgBaAF4AYpFtcXV6AGYAagBuAHIAdU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/QkJCQkJCQIz/wAAAAAAAAIz/QkJCQkJCQIz/QkJCQkJCQ0jM0T2miTzcQANIzNGxtXxASTlNBdHRyaWJ1dGVkU3RyaW5nom43XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XFyVHJvb3SAAQAIABEAGgAjAC0AMgA3AFoAYABnAHAAdwCEAIYAiACKAUcBTgFWAWEBZgFoAWoBbAFuAXMBdQF3AXkBewF9AZABsgHfAeYB9QIAAgwCGQI7Ak0CXwJhAmMCZQJnAmkCcgJ3AngCegJ/AooCkwKbAp4CpwKsAsYCygLdAuIC/wMBAwMDCgMNAw8DEQMUAxYDGAMaAzADRgNPA14DYwN5A30DigOPA6IDpQO4A78DxAPGA8gDygPMA9ED0wPVA9cD2QPbA98D5QPqA/AD+QQCBAsEFAQZBBwEHgQjBDgEOwRQBGIEZQRqAAAAAAAAAgEAAAAAAAAAcwAAAAAAAAAAAAAAAAAABGw="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2588235294117647,
+            "green": 0.2588235294117647,
+            "red": 0.2588235294117647
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 186,
+        "location": 0
+      }
+    ],
+    "string": "Use lines to point at things.  Duh!  Usually, you will write out specs for borders, fonts and such using the Label, and then use a line to point from the label to the thing it describes."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "4D487370-2157-4BF2-BDA8-FE4A61616C48",

@@ -34,9 +34,6 @@
       "value": "Primary Button"
     }
   ],
-  "overrides": {
-    "1C2BA5E3-CB2E-4097-BC58-E6E0BEAE1829": "Primary Button"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
