@@ -9,36 +9,35 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4784313725,
-            "green": 0.2509803922,
-            "red": 0.9254901961
+            "blue": 0.2588235294117647,
+            "green": 0.2588235294117647,
+            "red": 0.2588235294117647
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Roboto-Regular",
-              "size": 12
+              "name": "Roboto-Thin",
+              "size": 80
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 16,
-            "minimumLineHeight": 16
+            "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 7,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "#123456"
+    "string": "Labels"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "AAC39B43-1110-4495-A365-AEE018517BE5",
+  "do_objectID": "82756341-EDEF-4D48-9937-9A73B1C16E3A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "EC0BBCDE-9E46-46B9-A419-85E43C7F01A5",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,53 +48,53 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
-    "width": 48,
-    "x": 0,
-    "y": 0
+    "do_objectID": "F522CA33-A384-459C-8C5F-E067FF60F03C",
+    "height": 94,
+    "width": 224,
+    "x": 1649,
+    "y": -149
   },
-  "glyphBounds": "{{0, 3}, {48, 10}}",
+  "glyphBounds": "{{7, 14}, {212, 61}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "redline-label",
-  "nameIsFixed": true,
-  "originalObjectID": "AAC39B43-1110-4495-A365-AEE018517BE5",
-  "resizingConstraint": 2,
+  "name": "Labels",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "EE3644CF-BA46-4316-9944-C8545E952DFF",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "EC514590-0D0A-42BB-8966-88DBC0952579",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4784313725,
-          "green": 0.2509803922,
-          "red": 0.9254901961
+          "blue": 0.2588235294117647,
+          "green": 0.2588235294117647,
+          "red": 0.2588235294117647
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Roboto-Regular",
-            "size": 12
+            "name": "Roboto-Thin",
+            "size": 80
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 16,
-          "minimumLineHeight": 16
+          "allowsDefaultTighteningForTruncation": 0
         }
       },
       "verticalAlignment": 0
