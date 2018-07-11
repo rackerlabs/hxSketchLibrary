@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 64,
+  "changeIdentifier": 66,
   "do_objectID": "84971579-6534-4405-95C0-DAB26880DB2B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -30,7 +30,7 @@
     "y": 145
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -57,8 +57,8 @@
       "id": "DD7EC013-A542-434C-AB25-F69C3C7F2030"
     }
   ],
-  "name": "Redline label spacers",
-  "nameIsFixed": false,
+  "name": "image-label-spacers",
+  "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
