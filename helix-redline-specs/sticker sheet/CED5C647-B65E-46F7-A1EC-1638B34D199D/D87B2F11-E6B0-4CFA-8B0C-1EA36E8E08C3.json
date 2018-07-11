@@ -1,10 +1,38 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGZWZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHgcIDxAeHyAhIisyNj4/QEFCRkpWV1hZWltcXV5gYVUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgB2AA18QGlN0eWxlIFNwZWNpZmljYXRpb24gSW1hZ2Vz0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAKgBKAHIAbXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVWTlNLZXJu1SMKJCUmJygpKilaTlNUYWJTdG9wc18QD05TTWluTGluZUhlaWdodF8QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHSAAIAJI0BCAAAAAAAAEAHSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjLjAxXxAQTlNQYXJhZ3JhcGhTdHlsZVhOU09iamVjdNIKMzQ1XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEYAL0xESCjc6PaI4OYAMgA2iOzyADoAPgBBfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAOAAAAAAAAF5Sb2JvdG8tUmVndWxhctIsLUNEXxATTlNNdXRhYmxlRGljdGlvbmFyeaNDRTFcTlNEaWN0aW9uYXJ50iwtR0hfEBBOU0ZvbnREZXNjcmlwdG9yokkxXxAQTlNGb250RGVzY3JpcHRvctMREgpLUB2kTE1OT4ATgBSAFYAWpFFSU1SAF4AYgBmAGoAbU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/QkJCQkJCQIz/wAAAAAAAAIz/QkJCQkJCQIz/QkJCQkJCQ0iwtRV+iRTEQANIsLWJjXxASTlNBdHRyaWJ1dGVkU3RyaW5nomQxXxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0WdoVHJvb3SAAQAIABEAGgAjAC0AMgA3AFgAXgBlAG4AdQCCAIQAhgCIAKUArAC0AL8AxADGAMgAygDMANEA0wDVANcA2QDbAO4BEAE9AUQBTwFaAWwBjgGgAaIBpAGtAa8BtAG/AcgB4gHmAfkCAgIHAiQCJgIoAi8CMgI0AjYCOQI7Aj0CPwJVAmsCdAKDAogCngKiAq8CtALHAsoC3QLkAukC6wLtAu8C8QL2AvgC+gL8Av4DAAMEAwoDDwMVAx4DJwMwAzkDPgNBA0MDSANdA2ADdQOHA4oDjwAAAAAAAAIBAAAAAAAAAGkAAAAAAAAAAAAAAAAAAAOR"
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2588235294117647,
+            "green": 0.2588235294117647,
+            "red": 0.2588235294117647
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 24
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 36,
+            "minimumLineHeight": 36
+          }
+        },
+        "length": 26,
+        "location": 0
+      }
+    ],
+    "string": "Style Specification Images"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D87B2F11-E6B0-4CFA-8B0C-1EA36E8E08C3",

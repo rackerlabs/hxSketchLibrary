@@ -36,9 +36,6 @@
       "value": "Tertiary Button"
     }
   ],
-  "overrides": {
-    "1C2BA5E3-CB2E-4097-BC58-E6E0BEAE1829": "Tertiary Button"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

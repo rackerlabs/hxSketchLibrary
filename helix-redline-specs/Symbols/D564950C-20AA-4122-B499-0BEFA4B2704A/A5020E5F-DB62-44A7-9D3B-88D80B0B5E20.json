@@ -34,11 +34,6 @@
       "value": "E3F7752B-35C2-4FFE-996E-4EDAF2D1E9F1"
     }
   ],
-  "overrides": {
-    "D091892F-1E78-418C-88FE-CB05263472D0": {
-      "symbolID": "E3F7752B-35C2-4FFE-996E-4EDAF2D1E9F1"
-    }
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -1,10 +1,66 @@
 {
   "_class": "text",
   "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": "YnBsaXN0MDDUAQIDBAUGsbJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QMQcIERIYJSYnKCk2OT9DR09QUVJTV1tnaGlqa2xtbm9xcn5/gIWIkJGSk5+goaKlqa1VJG51bGzUCQoLDA0ODxBYTlNTdHJpbmdfEA9OU0F0dHJpYnV0ZUluZm9cTlNBdHRyaWJ1dGVzViRjbGFzc4ACgC6AA4AwXxDdQ29tcG9zaXRpb24gSW1hZ2VzIGRlc2NyaWJlIHRoZSBnZW5lcmFsLCBzdHJ1Y3R1cmFsIHBhcnRzIG9mIGEgY29tcG9uZW50LiBGb3IgZXhhbXBsZSBhIGNvbXBvbmVudCBtYXkgaGF2ZSBhIGNvbnRhaW5lciwgYSBoZWFkZXIsIGEgY29udGVudCBhcmVhLCBhbmQgYSBmb290ZXIuCgpVc2UgdGhlIGNpcmNsZS1lbmQgbGluZSBmb3IgaW5kaWNhdGluZyBjb21wb3NpdGlvbiBlbGVtZW50cy7SEwwUF1pOUy5vYmplY3RzohUWgASAIIAt0xkTDBofJFdOUy5rZXlzpBscHR6ABYAGgAeACKQgISIjgAmADYAVgB+AHl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtcMKissLS4vMDEyMjQ1NVpOU1RhYlN0b3BzW05TVGV4dExpc3RzXE5TVGV4dEJsb2Nrc18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHSADIAAgAqAChABI0A4AAAAAAAA0hMMNziggAvSOjs8PVokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiPD5YTlNPYmplY3TSOjtAQV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0BCPl8QEE5TUGFyYWdyYXBoU3R5bGXSDERFRl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMZEwxIS06iSUqAD4AQokxNgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDAAAAAAAABeUm9ib3RvLVJlZ3VsYXLSOjtUVV8QE05TTXV0YWJsZURpY3Rpb25hcnmjVFY+XE5TRGljdGlvbmFyedI6O1hZXxAQTlNGb250RGVzY3JpcHRvcqJaPl8QEE5TRm9udERlc2NyaXB0b3LTGRMMXGEkpF1eX2CAFoAXgBiAGaRiY2RlgBqAG4AcgB2AHlNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/0JCQkJCQkCM/8AAAAAAAACM/0JCQkJCQkCM/0JCQkJCQkNI6O1ZwolY+EADTGRMMc3gkpBt1dh6ABYAhgCKACKR5ensjgCOAJIApgB+AHl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGXXDCorLC0uLzAxMjI0NTWADIAAgAqACtIMREWHgBSAJdMZEwyJjE6iiouAJoAnokyOgBGAKIATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGVbUm9ib3RvLUJvbGTTGRMMlJkkpF1eX2CAFoAXgBiAGaSaY5ydgCqAG4ArgCyAHiM/0JCQkJCQkCM/0JCQkJCQkCM/0JCQkJCQkNI6O6OkXk5TTXV0YWJsZUFycmF5o6M8PtKmDKeoV05TLmRhdGFFoQEAPAGAL9I6O6qrXU5TTXV0YWJsZURhdGGjqqw+Vk5TRGF0YdI6O66vXxASTlNBdHRyaWJ1dGVkU3RyaW5norA+XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0bO0VHJvb3SAAQAIABEAGgAjAC0AMgA3AGsAcQB6AIMAlQCiAKkAqwCtAK8AsQGRAZYBoQGkAaYBqAGqAbEBuQG+AcABwgHEAcYBywHNAc8B0QHTAdUB6AIKAjcCPgJNAlgCZAJxApMCpQK3ArkCuwK9Ar8CwQLKAs8C0ALSAtcC4gLrAvMC9gL/AwQDHgMiAzUDOgNXA1kDWwNiA2UDZwNpA2wDbgNwA3IDiAOeA6cDtgO7A9ED1QPiA+cD+gP9BBAEFwQcBB4EIAQiBCQEKQQrBC0ELwQxBDMENwQ9BEIESARRBFoEYwRsBHEEdAR2BH0EggSEBIYEiASKBI8EkQSTBJUElwSZBLsE6AT3BPkE+wT9BP8FBAUGBQgFDwUSBRQFFgUZBRsFHQUfBTUFSwVXBV4FYwVlBWcFaQVrBXAFcgV0BXYFeAV6BYMFjAWVBZoFqQWtBbIFugXABcIFxwXVBdkF4AXlBfoF/QYSBiQGJwYsAAAAAAAAAgEAAAAAAAAAtQAAAAAAAAAAAAAAAAAABi4="
-    }
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2588235294117647,
+            "green": 0.2588235294117647,
+            "red": 0.2588235294117647
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 161,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2588235294117647,
+            "green": 0.2588235294117647,
+            "red": 0.2588235294117647
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Bold",
+              "size": 16
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
+        },
+        "length": 60,
+        "location": 161
+      }
+    ],
+    "string": "Composition Images describe the general, structural parts of a component. For example a component may have a container, a header, a content area, and a footer.\n\nUse the circle-end line for indicating composition elements."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "27590D30-D3B4-4B31-B67C-E626F7457539",
@@ -52,18 +108,26 @@
       "_class": "textStyle",
       "do_objectID": "ECD34CD9-6DD7-4414-8117-8F527915E7C9",
       "encodedAttributes": {
-        "MSAttributedStringColorDictionaryAttribute": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
           "alpha": 1,
           "blue": 0.2588235294117647,
           "green": 0.2588235294117647,
           "red": 0.2588235294117647
         },
         "MSAttributedStringFontAttribute": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF5Sb2JvdG8tUmVndWxhctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDiAOcA8gD7AREBFQEiASsBMAFDAUYBWQFrAW4BcwAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF1"
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 16
+          }
         },
         "kerning": 0,
         "paragraphStyle": {
-          "_archive": "YnBsaXN0MDDUAQIDBAUGJCVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBYaIFUkbnVsbNcJCgsMDQ4PEBESEhQVFVYkY2xhc3NaTlNUYWJTdG9wc1tOU1RleHRMaXN0c1xOU1RleHRCbG9ja3NfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0gASAAIACgAIQASNAOAAAAAAAANIXCRgZWk5TLm9iamVjdHOggAPSGxwdHlokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiHR9YTlNPYmplY3TSGxwhIl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloyEjH18QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRJidUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAFIAWQBkAHAAfQCfALEAwwDFAMcAyQDLAM0A1gDbAOYA5wDpAO4A+QECAQoBDQEWARsBNQE5AUwBXgFhAWYAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAABaA=="
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         }
       },
       "verticalAlignment": 0
