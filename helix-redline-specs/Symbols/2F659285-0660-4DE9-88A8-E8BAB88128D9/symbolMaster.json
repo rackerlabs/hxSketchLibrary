@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 407,
+  "changeIdentifier": 566,
   "do_objectID": "2F659285-0660-4DE9-88A8-E8BAB88128D9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
+    "height": 16,
     "width": 48,
-    "x": 1017,
-    "y": 100
+    "x": 1649,
+    "y": 108
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,7 +49,7 @@
       "id": "AAC39B43-1110-4495-A365-AEE018517BE5"
     }
   ],
-  "name": "redlines/label",
+  "name": "labels/redline-text",
   "nameIsFixed": true,
   "originalObjectID": "2F659285-0660-4DE9-88A8-E8BAB88128D9",
   "resizesContent": true,
