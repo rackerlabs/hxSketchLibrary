@@ -8,7 +8,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 295,
+  "changeIdentifier": 364,
   "do_objectID": "FC4758AD-DAF9-4339-8521-9E60EE2836D0",
   "exportOptions": {
     "_class": "exportOptions",
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -57,7 +57,7 @@
       "id": "BE49D38C-14BF-45FF-BD0E-66DB36ABED37"
     }
   ],
-  "name": "image-label",
+  "name": "labels/image-label",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,
