@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 855,
+  "changeIdentifier": 1030,
   "do_objectID": "18186B6B-68A5-4FAB-A8BF-33A980D115E2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -24,11 +24,11 @@
     "constrainProportions": false,
     "height": 19,
     "width": 116,
-    "x": 1011,
-    "y": 48
+    "x": 1210,
+    "y": 80
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -55,7 +55,7 @@
       "id": "1C2BA5E3-CB2E-4097-BC58-E6E0BEAE1829"
     }
   ],
-  "name": "redlines/reference tag",
+  "name": "labels/reference-tag",
   "nameIsFixed": true,
   "originalObjectID": "18186B6B-68A5-4FAB-A8BF-33A980D115E2",
   "resizesContent": false,

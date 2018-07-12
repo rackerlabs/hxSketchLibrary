@@ -17,13 +17,15 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Roboto-Thin",
-              "size": 80
+              "size": 48
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 48,
+            "minimumLineHeight": 48
           }
         },
         "length": 8,
@@ -34,10 +36,11 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "D3B6346C-0E0F-452C-B25E-22E9CE1DFF0C",
+  "do_objectID": "35139DD4-D06B-4D4C-8E60-8C701856ACA5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "2AD283FC-5E4E-461E-8114-76E239A5ADDB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -48,12 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 94,
-    "width": 294,
+    "do_objectID": "2661AA63-C659-486B-9C56-523DFB592E17",
+    "height": 48,
+    "width": 176,
     "x": 639,
-    "y": -170
+    "y": -121
   },
-  "glyphBounds": "{{7, 14}, {282, 61}}",
+  "glyphBounds": "{{4, 4}, {170, 37}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -69,11 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "51199F63-A444-4896-9962-984A528232A8",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "05A16319-42B1-40C7-96FC-08E5D05C2C87",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -86,13 +92,15 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Roboto-Thin",
-            "size": 80
+            "size": 48
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 48,
+          "minimumLineHeight": 48
         }
       },
       "verticalAlignment": 0

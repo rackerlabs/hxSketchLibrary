@@ -22,17 +22,17 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 2,
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 16,
             "minimumLineHeight": 16
           }
         },
-        "length": 7,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "#123456"
+    "string": "key: value"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
-    "width": 48,
+    "height": 16,
+    "width": 52,
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {48, 10}}",
+  "glyphBounds": "{{0, 3}, {52, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -66,7 +66,7 @@
   "name": "redline-label",
   "nameIsFixed": true,
   "originalObjectID": "AAC39B43-1110-4495-A365-AEE018517BE5",
-  "resizingConstraint": 18,
+  "resizingConstraint": 2,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -94,15 +94,15 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 2,
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 16,
           "minimumLineHeight": 16
         }
       },
-      "verticalAlignment": 1
+      "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 0
 }

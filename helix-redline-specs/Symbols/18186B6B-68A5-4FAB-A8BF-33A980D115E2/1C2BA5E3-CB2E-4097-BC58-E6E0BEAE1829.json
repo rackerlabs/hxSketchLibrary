@@ -28,11 +28,11 @@
             "minimumLineHeight": 16
           }
         },
-        "length": 7,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "#123456"
+    "string": "Reference Tag"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -55,7 +55,7 @@
     "x": 0,
     "y": 0
   },
-  "glyphBounds": "{{34, 3}, {48, 10}}",
+  "glyphBounds": "{{20, 2}, {76, 13}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
