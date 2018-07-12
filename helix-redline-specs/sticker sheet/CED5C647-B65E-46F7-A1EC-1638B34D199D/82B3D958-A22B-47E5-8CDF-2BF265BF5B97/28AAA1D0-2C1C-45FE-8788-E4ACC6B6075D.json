@@ -35,6 +35,7 @@
     "string": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "28AAA1D0-2C1C-45FE-8788-E4ACC6B6075D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 97
   },
   "glyphBounds": "{{0, 4}, {339, 137}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -72,10 +74,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "978F73FE-2392-482A-AAA0-3A22CE3BA8D8",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "275E78B2-9C85-437E-B84E-1CD4C7F0223E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "A9E05EE7-1EC3-4ED5-B731-59B6E5EDF528",
@@ -103,7 +105,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

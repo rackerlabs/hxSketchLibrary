@@ -34,6 +34,7 @@
     "string": "mouse states"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "EBD6724A-57B1-4C17-86C4-9992AFD75393",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +57,7 @@
     "y": 3272
   },
   "glyphBounds": "{{1, 7}, {119, 15}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,9 +73,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "1FBD8DA8-B8B6-4EB6-8908-23C7D337D2B7",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "1629FF84-1A06-498B-B712-68A1615BEAEC",
@@ -100,7 +102,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

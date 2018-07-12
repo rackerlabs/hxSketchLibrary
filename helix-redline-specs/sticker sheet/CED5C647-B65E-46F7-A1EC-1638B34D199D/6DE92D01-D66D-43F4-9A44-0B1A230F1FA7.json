@@ -35,6 +35,7 @@
     "string": "Spacing Specification Example"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "6DE92D01-D66D-43F4-9A44-0B1A230F1FA7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 2479
   },
   "glyphBounds": "{{0, 4}, {221, 17}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -88,10 +90,10 @@
       }
     ],
     "do_objectID": "C56FA350-7353-4747-8C85-332472169115",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "3998630A-ADB1-48B7-B914-A5D696A3A59A",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "0952B3B3-27DD-4037-BF18-DC917F8F2395",
@@ -119,7 +121,8 @@
         }
       },
       "verticalAlignment": 1
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

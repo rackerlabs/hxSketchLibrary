@@ -35,6 +35,7 @@
     "string": "Helix Thumbnails"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "9B765550-80EC-44F6-9CCD-4CCC98037C87",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +56,7 @@
     "y": 32
   },
   "glyphBounds": "{{4, 16}, {351, 37}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -86,10 +88,10 @@
       }
     ],
     "do_objectID": "D32DA2BB-D87F-4222-9FB8-88F0982C7DEB",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "B1067914-11DA-4677-B794-BF846E9308F9",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -116,7 +118,8 @@
         }
       },
       "verticalAlignment": 1
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

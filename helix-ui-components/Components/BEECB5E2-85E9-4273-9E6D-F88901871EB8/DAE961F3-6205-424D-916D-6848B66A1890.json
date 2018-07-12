@@ -32,6 +32,7 @@
     "string": "Stepper - Closed Step"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "DAE961F3-6205-424D-916D-6848B66A1890",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,6 +55,7 @@
     "y": 591
   },
   "glyphBounds": "{{0, 2}, {114, 12}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,9 +71,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "8F0CDAD3-2CBE-4632-8B80-EF9BFF84CBBD",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "4043C5F2-3867-4FBF-A851-D446688B3993",
@@ -96,7 +98,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

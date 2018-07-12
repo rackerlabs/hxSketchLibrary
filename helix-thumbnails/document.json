@@ -31,6 +31,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 425,
         "do_objectID": "58C125E3-DAA9-47BB-A638-2976890752AF",
         "exportOptions": {
@@ -61,6 +62,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -70,6 +72,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "5770612F-46BB-4BD6-9FC5-B0DA1B041D3B",
             "exportOptions": {
@@ -91,6 +94,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -122,6 +126,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -186,7 +191,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -242,7 +247,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -256,9 +262,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "7F08008F-72BC-4307-94E8-0B0CC3736AAA",
         "userInfo": {
@@ -284,6 +291,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 425,
         "do_objectID": "58C125E3-DAA9-47BB-A638-2976890752AF",
         "exportOptions": {
@@ -314,6 +322,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -323,6 +332,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "5770612F-46BB-4BD6-9FC5-B0DA1B041D3B",
             "exportOptions": {
@@ -344,6 +354,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -375,6 +386,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -439,7 +451,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -495,7 +507,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -509,9 +522,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "1BAB46BD-53F2-4115-9AE5-2EFAD2A8F17A",
         "userInfo": {
@@ -540,6 +554,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 809,
         "do_objectID": "ED8CA9BF-739D-49BF-9595-2B073FF50A2E",
         "exportOptions": {
@@ -570,6 +585,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -579,6 +595,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "99DC3F0E-E56C-4836-90A3-8B3B710E60B5",
             "exportOptions": {
@@ -600,6 +617,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -631,6 +649,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -695,7 +714,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -715,7 +734,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "userInfo": {
               "com.animaapp.stc-sketch-plugin": {
@@ -750,9 +770,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "9A2193C7-094F-4A3F-AF22-2E0CBA1E7BB5",
         "userInfo": {
@@ -778,6 +799,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 809,
         "do_objectID": "ED8CA9BF-739D-49BF-9595-2B073FF50A2E",
         "exportOptions": {
@@ -808,6 +830,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -817,6 +840,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "99DC3F0E-E56C-4836-90A3-8B3B710E60B5",
             "exportOptions": {
@@ -838,6 +862,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -869,6 +894,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -933,7 +959,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -953,7 +979,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "userInfo": {
               "com.animaapp.stc-sketch-plugin": {
@@ -988,9 +1015,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "FBD2D4D7-4930-4D4C-ADD1-A164E4282245",
         "userInfo": {
@@ -1019,6 +1047,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 561,
         "do_objectID": "C28A8820-5CA0-4573-90CD-FB28732288E3",
         "exportOptions": {
@@ -1049,6 +1078,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -1058,6 +1088,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "B634A723-4CF5-45BF-8ABE-8D48E1B94E77",
             "exportOptions": {
@@ -1079,6 +1110,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -1110,6 +1142,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -1174,7 +1207,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -1230,7 +1263,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -1244,9 +1278,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "023CA3C2-0FBF-46F7-A2B5-D398529BC702",
         "userInfo": {
@@ -1272,6 +1307,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 561,
         "do_objectID": "C28A8820-5CA0-4573-90CD-FB28732288E3",
         "exportOptions": {
@@ -1302,6 +1338,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -1311,6 +1348,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "B634A723-4CF5-45BF-8ABE-8D48E1B94E77",
             "exportOptions": {
@@ -1332,6 +1370,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -1363,6 +1402,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -1427,7 +1467,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -1483,7 +1523,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -1497,9 +1538,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "B0FD560A-1B22-4AD7-84DA-3C721467672E",
         "userInfo": {
@@ -1528,6 +1570,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 713,
         "do_objectID": "23C6236F-347A-4E61-827E-F9F03E2E593E",
         "exportOptions": {
@@ -1558,6 +1601,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -1567,6 +1611,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "A5F1A965-C08A-41F5-AC70-B7BF6732AF00",
             "exportOptions": {
@@ -1588,6 +1633,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -1619,6 +1665,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -1683,7 +1730,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -1739,7 +1786,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "userInfo": {
               "com.animaapp.stc-sketch-plugin": {
@@ -1774,9 +1822,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "8A33095F-ADF3-4B59-A10C-DF05F83B87DE",
         "userInfo": {
@@ -1802,6 +1851,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 713,
         "do_objectID": "23C6236F-347A-4E61-827E-F9F03E2E593E",
         "exportOptions": {
@@ -1832,6 +1882,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -1841,6 +1892,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "A5F1A965-C08A-41F5-AC70-B7BF6732AF00",
             "exportOptions": {
@@ -1862,6 +1914,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -1893,6 +1946,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -1957,7 +2011,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -2013,7 +2067,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "userInfo": {
               "com.animaapp.stc-sketch-plugin": {
@@ -2048,9 +2103,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "98FF8B3C-C2C8-4BA2-843B-1AEB1DFE6671",
         "userInfo": {
@@ -2079,6 +2135,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 599,
         "do_objectID": "4F50D4B6-C24E-431B-BCEB-5F10E9DF9D59",
         "exportOptions": {
@@ -2109,6 +2166,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -2118,6 +2176,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "59B8B606-A5AA-4E1A-B202-CE5EFE99007B",
             "exportOptions": {
@@ -2139,6 +2198,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -2170,6 +2230,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -2234,7 +2295,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -2254,7 +2315,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -2268,9 +2330,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "292671B8-BFD5-4692-AFC4-FE20A6A82724",
         "userInfo": {
@@ -2296,6 +2359,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 599,
         "do_objectID": "4F50D4B6-C24E-431B-BCEB-5F10E9DF9D59",
         "exportOptions": {
@@ -2326,6 +2390,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -2335,6 +2400,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "59B8B606-A5AA-4E1A-B202-CE5EFE99007B",
             "exportOptions": {
@@ -2356,6 +2422,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -2387,6 +2454,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -2451,7 +2519,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -2471,7 +2539,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -2485,9 +2554,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "3E9FBB28-BEAA-49A8-8464-15C0549C4D9D",
         "userInfo": {
@@ -2516,6 +2586,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 329,
         "do_objectID": "8DEAF018-8BD1-446C-A36D-E6D965FF2636",
         "exportOptions": {
@@ -2546,6 +2617,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -2555,6 +2627,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "E4C72545-85F0-43F0-A2F4-F1DD30056822",
             "exportOptions": {
@@ -2576,6 +2649,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -2607,6 +2681,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -2671,7 +2746,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -2727,7 +2802,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "userInfo": {
               "com.animaapp.stc-sketch-plugin": {
@@ -2762,9 +2838,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "2679F45F-1E80-44AF-B769-0E88E0F34EE1",
         "userInfo": {
@@ -2790,6 +2867,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 329,
         "do_objectID": "8DEAF018-8BD1-446C-A36D-E6D965FF2636",
         "exportOptions": {
@@ -2820,6 +2898,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -2829,6 +2908,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "E4C72545-85F0-43F0-A2F4-F1DD30056822",
             "exportOptions": {
@@ -2850,6 +2930,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -2881,6 +2962,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -2945,7 +3027,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -3001,7 +3083,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "userInfo": {
               "com.animaapp.stc-sketch-plugin": {
@@ -3036,9 +3119,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "8CD24568-4E60-43AF-9B51-F5437EAA86EF",
         "userInfo": {
@@ -3067,6 +3151,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 435,
         "do_objectID": "F65612C9-2E6E-4E14-A276-E2EA9962FEC0",
         "exportOptions": {
@@ -3097,6 +3182,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -3106,6 +3192,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "6DB05485-5AFB-4A9E-8B23-1360508C6F45",
             "exportOptions": {
@@ -3127,6 +3214,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -3158,6 +3246,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -3222,7 +3311,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -3278,7 +3367,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -3292,9 +3382,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "EE8F4C06-6301-4340-AE63-16ECC268AD74",
         "userInfo": {
@@ -3320,6 +3411,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 435,
         "do_objectID": "F65612C9-2E6E-4E14-A276-E2EA9962FEC0",
         "exportOptions": {
@@ -3350,6 +3442,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -3359,6 +3452,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "6DB05485-5AFB-4A9E-8B23-1360508C6F45",
             "exportOptions": {
@@ -3380,6 +3474,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -3411,6 +3506,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -3475,7 +3571,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -3531,7 +3627,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -3545,9 +3642,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "252A0A78-C6A7-41A6-9EC2-55527C253B66",
         "userInfo": {
@@ -3576,6 +3674,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 574,
         "do_objectID": "995F5C93-8C94-43B7-8921-8091B40954E5",
         "exportOptions": {
@@ -3606,6 +3705,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -3615,6 +3715,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "368991B5-BB0D-4E32-883B-6F1364AC8DFD",
             "exportOptions": {
@@ -3636,6 +3737,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -3667,6 +3769,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -3731,7 +3834,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -3787,7 +3890,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -3801,9 +3905,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "2AB2838C-4542-4356-9236-24B265CFE23B",
         "userInfo": {
@@ -3829,6 +3934,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 574,
         "do_objectID": "995F5C93-8C94-43B7-8921-8091B40954E5",
         "exportOptions": {
@@ -3859,6 +3965,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -3868,6 +3975,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "368991B5-BB0D-4E32-883B-6F1364AC8DFD",
             "exportOptions": {
@@ -3889,6 +3997,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -3920,6 +4029,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -3984,7 +4094,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -4040,7 +4150,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -4054,9 +4165,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "6D1A9AC3-3BD6-47FA-8B4C-AD3C2587BD41",
         "userInfo": {
@@ -4085,6 +4197,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 859,
         "do_objectID": "50D58942-B32D-476D-A865-E92E217E9D6D",
         "exportOptions": {
@@ -4115,6 +4228,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -4124,6 +4238,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "234D6F18-B26E-4099-A810-2AE648FA1AE5",
             "exportOptions": {
@@ -4145,6 +4260,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -4174,6 +4290,7 @@
                   "y": 0
                 },
                 "isClosed": false,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -4235,7 +4352,7 @@
                   "thickness": 1
                 }
               ],
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -4255,12 +4372,14 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           },
           {
             "_class": "symbolInstance",
+            "booleanOperation": 0,
             "do_objectID": "2A45B77A-DE22-4C3C-91F9-F5095CA78E2B",
             "exportOptions": {
               "_class": "exportOptions",
@@ -4280,6 +4399,7 @@
               "y": 46
             },
             "horizontalSpacing": 0,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -4297,15 +4417,17 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "symbolID": "96843202-F1BE-4A3B-B404-E8AC48C79BB0",
             "verticalSpacing": 0
           },
           {
             "_class": "symbolInstance",
+            "booleanOperation": 0,
             "do_objectID": "4664D1EE-D53D-4C47-AF10-700B98C5C8BC",
             "exportOptions": {
               "_class": "exportOptions",
@@ -4325,6 +4447,7 @@
               "y": 0
             },
             "horizontalSpacing": 0,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -4342,9 +4465,10 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "symbolID": "27B81DD3-EFA5-4D24-86E0-D1CB9779E8EE",
             "verticalSpacing": 0
@@ -4360,9 +4484,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "9C42F074-578B-4DC5-91DD-69A793F740B6",
         "verticalRulerData": {
@@ -4382,6 +4507,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 861,
         "do_objectID": "50D58942-B32D-476D-A865-E92E217E9D6D",
         "exportOptions": {
@@ -4412,6 +4538,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -4421,6 +4548,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "234D6F18-B26E-4099-A810-2AE648FA1AE5",
             "exportOptions": {
@@ -4442,6 +4570,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -4471,6 +4600,7 @@
                   "y": 0
                 },
                 "isClosed": false,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -4532,7 +4662,7 @@
                   "thickness": 1
                 }
               ],
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -4552,12 +4682,14 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           },
           {
             "_class": "symbolInstance",
+            "booleanOperation": 0,
             "do_objectID": "2A45B77A-DE22-4C3C-91F9-F5095CA78E2B",
             "exportOptions": {
               "_class": "exportOptions",
@@ -4577,6 +4709,7 @@
               "y": 46
             },
             "horizontalSpacing": 0,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -4594,15 +4727,17 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "symbolID": "383CF6B5-22D8-4921-8B6B-C5A078891C0E",
             "verticalSpacing": 0
           },
           {
             "_class": "symbolInstance",
+            "booleanOperation": 0,
             "do_objectID": "4664D1EE-D53D-4C47-AF10-700B98C5C8BC",
             "exportOptions": {
               "_class": "exportOptions",
@@ -4622,6 +4757,7 @@
               "y": 0
             },
             "horizontalSpacing": 0,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -4639,9 +4775,10 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "symbolID": "5B7EBF87-279F-46DF-A6EC-DDFA73A3226A",
             "verticalSpacing": 0
@@ -4657,9 +4794,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "2B2D6B94-B090-4975-A9C1-56F76F9434D6",
         "verticalRulerData": {
@@ -4683,6 +4821,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 98,
         "do_objectID": "4537EBDA-B295-405F-A4F2-F64C424C840C",
         "exportOptions": {
@@ -4716,6 +4855,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -4725,6 +4865,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "0A6E24A7-D3A9-4237-8D88-D31275356F23",
             "exportOptions": {
@@ -4746,6 +4887,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -4777,6 +4919,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -4857,7 +5000,7 @@
                   "thickness": 1
                 }
               ],
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -4877,7 +5020,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -4893,9 +5037,10 @@
         "style": {
           "_class": "style",
           "do_objectID": "EBE7220D-FC58-4C70-A5FD-C1CFEECDBEFD",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "27B81DD3-EFA5-4D24-86E0-D1CB9779E8EE",
         "verticalRulerData": {
@@ -4917,6 +5062,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 98,
         "do_objectID": "4537EBDA-B295-405F-A4F2-F64C424C840C",
         "exportOptions": {
@@ -4950,6 +5096,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -4959,6 +5106,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "0A6E24A7-D3A9-4237-8D88-D31275356F23",
             "exportOptions": {
@@ -4980,6 +5128,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -5011,6 +5160,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -5091,7 +5241,7 @@
                   "thickness": 1
                 }
               ],
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -5111,7 +5261,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -5127,9 +5278,10 @@
         "style": {
           "_class": "style",
           "do_objectID": "EBE7220D-FC58-4C70-A5FD-C1CFEECDBEFD",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "5B7EBF87-279F-46DF-A6EC-DDFA73A3226A",
         "verticalRulerData": {
@@ -5153,6 +5305,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 86,
         "do_objectID": "CD97908F-BCE6-43FE-B65F-5B981C0F898D",
         "exportOptions": {
@@ -5183,6 +5336,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -5192,6 +5346,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "8FE506EC-E785-42C7-9E66-EECBE7C29DC1",
             "exportOptions": {
@@ -5213,6 +5368,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -5242,6 +5398,7 @@
                   "y": 0
                 },
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -5313,7 +5470,7 @@
                   "thickness": 1
                 }
               ],
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -5333,7 +5490,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -5348,9 +5506,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "96843202-F1BE-4A3B-B404-E8AC48C79BB0",
         "verticalRulerData": {
@@ -5370,6 +5529,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 86,
         "do_objectID": "CD97908F-BCE6-43FE-B65F-5B981C0F898D",
         "exportOptions": {
@@ -5400,6 +5560,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -5409,6 +5570,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "8FE506EC-E785-42C7-9E66-EECBE7C29DC1",
             "exportOptions": {
@@ -5430,6 +5592,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -5459,6 +5622,7 @@
                   "y": 0
                 },
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -5530,7 +5694,7 @@
                   "thickness": 1
                 }
               ],
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -5550,7 +5714,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -5565,9 +5730,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "383CF6B5-22D8-4921-8B6B-C5A078891C0E",
         "verticalRulerData": {
@@ -5590,6 +5756,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 3646,
         "do_objectID": "798D5722-266D-4F4D-9811-89AA624B45B2",
         "exportOptions": {
@@ -5620,6 +5787,7 @@
         "includeBackgroundColorInExport": false,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -5629,6 +5797,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "CBC79BEB-E9BC-42BD-93DE-8887A56A8275",
             "exportOptions": {
@@ -5650,6 +5819,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": true,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -5679,6 +5849,7 @@
                   "y": 9.625
                 },
                 "isClosed": false,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -5817,6 +5988,7 @@
                   "y": 0
                 },
                 "isClosed": false,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -5911,7 +6083,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -5931,7 +6103,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "userInfo": {
               "com.animaapp.stc-sketch-plugin": {
@@ -5943,6 +6116,7 @@
           },
           {
             "_class": "symbolInstance",
+            "booleanOperation": 0,
             "do_objectID": "A6437336-BE46-45D1-8129-F35893A59F2B",
             "exportOptions": {
               "_class": "exportOptions",
@@ -5962,6 +6136,7 @@
               "y": 0
             },
             "horizontalSpacing": 0,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -5978,9 +6153,10 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "symbolID": "9A2193C7-094F-4A3F-AF22-2E0CBA1E7BB5",
             "verticalSpacing": 0
@@ -6004,7 +6180,7 @@
             "radius": 5,
             "type": 0
           },
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "fills": [
             {
               "_class": "fill",
@@ -6024,7 +6200,8 @@
             }
           ],
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "174F8A99-F028-4712-B474-A6A854365926",
         "userInfo": {
@@ -6050,6 +6227,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 3647,
         "do_objectID": "798D5722-266D-4F4D-9811-89AA624B45B2",
         "exportOptions": {
@@ -6080,6 +6258,7 @@
         "includeBackgroundColorInExport": false,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -6089,6 +6268,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "CBC79BEB-E9BC-42BD-93DE-8887A56A8275",
             "exportOptions": {
@@ -6110,6 +6290,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": true,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -6139,6 +6320,7 @@
                   "y": 9.625
                 },
                 "isClosed": false,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -6277,6 +6459,7 @@
                   "y": 0
                 },
                 "isClosed": false,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -6371,7 +6554,7 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -6391,7 +6574,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "userInfo": {
               "com.animaapp.stc-sketch-plugin": {
@@ -6403,6 +6587,7 @@
           },
           {
             "_class": "symbolInstance",
+            "booleanOperation": 0,
             "do_objectID": "A6437336-BE46-45D1-8129-F35893A59F2B",
             "exportOptions": {
               "_class": "exportOptions",
@@ -6422,6 +6607,7 @@
               "y": 0
             },
             "horizontalSpacing": 0,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -6438,9 +6624,10 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "symbolID": "FBD2D4D7-4930-4D4C-ADD1-A164E4282245",
             "verticalSpacing": 0
@@ -6464,7 +6651,7 @@
             "radius": 5,
             "type": 0
           },
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "fills": [
             {
               "_class": "fill",
@@ -6484,7 +6671,8 @@
             }
           ],
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "7D157617-44F1-4599-8992-F267B019495A",
         "userInfo": {
@@ -6513,6 +6701,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 131,
         "do_objectID": "E4E3FF69-B5FB-4C98-9D33-DE8566AB6885",
         "exportOptions": {
@@ -6543,6 +6732,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -6552,6 +6742,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "DC1F605F-28F8-4577-A9BB-A60EA2C956F4",
             "exportOptions": {
@@ -6573,6 +6764,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -6602,6 +6794,7 @@
                   "y": 0
                 },
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -6683,7 +6876,7 @@
                   "thickness": 1
                 }
               ],
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -6703,7 +6896,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -6718,9 +6912,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "72515AF1-2F45-478C-B373-014FFF58A451",
         "verticalRulerData": {
@@ -6740,6 +6935,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 131,
         "do_objectID": "E4E3FF69-B5FB-4C98-9D33-DE8566AB6885",
         "exportOptions": {
@@ -6770,6 +6966,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -6779,6 +6976,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "DC1F605F-28F8-4577-A9BB-A60EA2C956F4",
             "exportOptions": {
@@ -6800,6 +6998,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -6829,6 +7028,7 @@
                   "y": 0
                 },
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -6910,7 +7110,7 @@
                   "thickness": 1
                 }
               ],
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -6930,7 +7130,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -6945,9 +7146,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "8C7FD5AC-9425-444D-925A-AB27397AAA27",
         "verticalRulerData": {
@@ -6970,6 +7172,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 1002,
         "do_objectID": "DF3C15B2-7ACD-4E51-84BC-AB4147667E8F",
         "exportOptions": {
@@ -7000,6 +7203,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -7009,6 +7213,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "0ABB86FC-2304-4381-AB8B-92E845141410",
             "exportOptions": {
@@ -7032,6 +7237,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -7061,6 +7267,7 @@
                   "y": 1.4210854715202e-14
                 },
                 "isClosed": false,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -7193,7 +7400,7 @@
                 }
               ],
               "do_objectID": "89F9CE34-EAD9-486E-AE15-1D2174536847",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -7213,12 +7420,14 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           },
           {
             "_class": "symbolInstance",
+            "booleanOperation": 0,
             "do_objectID": "11440582-26B2-45A2-9011-BAA6B2969940",
             "exportOptions": {
               "_class": "exportOptions",
@@ -7240,6 +7449,7 @@
               "y": 0
             },
             "horizontalSpacing": 0,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -7258,15 +7468,17 @@
             "style": {
               "_class": "style",
               "do_objectID": "69092D60-7838-4A51-AA32-EE0427CCC1A8",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "symbolID": "96843202-F1BE-4A3B-B404-E8AC48C79BB0",
             "verticalSpacing": 0
           },
           {
             "_class": "symbolInstance",
+            "booleanOperation": 0,
             "do_objectID": "DFC91E36-B8A4-44DB-B637-72C8912D0982",
             "exportOptions": {
               "_class": "exportOptions",
@@ -7288,6 +7500,7 @@
               "y": 93
             },
             "horizontalSpacing": 0,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": true,
             "isLocked": false,
@@ -7306,15 +7519,17 @@
             "style": {
               "_class": "style",
               "do_objectID": "32DF2C81-3BED-4B47-AC66-8581155895E9",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "symbolID": "96843202-F1BE-4A3B-B404-E8AC48C79BB0",
             "verticalSpacing": 0
           },
           {
             "_class": "symbolInstance",
+            "booleanOperation": 0,
             "do_objectID": "66606449-C179-4CDF-9B5B-B92EBA13FC38",
             "exportOptions": {
               "_class": "exportOptions",
@@ -7334,6 +7549,7 @@
               "y": 47
             },
             "horizontalSpacing": 0,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -7350,9 +7566,10 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "symbolID": "27B81DD3-EFA5-4D24-86E0-D1CB9779E8EE",
             "verticalSpacing": 0
@@ -7367,9 +7584,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "E96F602D-BBE0-456D-B277-3C11A5E72907",
         "verticalRulerData": {
@@ -7389,6 +7607,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 1005,
         "do_objectID": "DF3C15B2-7ACD-4E51-84BC-AB4147667E8F",
         "exportOptions": {
@@ -7419,6 +7638,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -7428,6 +7648,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "0ABB86FC-2304-4381-AB8B-92E845141410",
             "exportOptions": {
@@ -7451,6 +7672,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -7480,6 +7702,7 @@
                   "y": 1.4210854715202e-14
                 },
                 "isClosed": false,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -7612,7 +7835,7 @@
                 }
               ],
               "do_objectID": "89F9CE34-EAD9-486E-AE15-1D2174536847",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -7632,12 +7855,14 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           },
           {
             "_class": "symbolInstance",
+            "booleanOperation": 0,
             "do_objectID": "11440582-26B2-45A2-9011-BAA6B2969940",
             "exportOptions": {
               "_class": "exportOptions",
@@ -7659,6 +7884,7 @@
               "y": 0
             },
             "horizontalSpacing": 0,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -7677,15 +7903,17 @@
             "style": {
               "_class": "style",
               "do_objectID": "69092D60-7838-4A51-AA32-EE0427CCC1A8",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "symbolID": "383CF6B5-22D8-4921-8B6B-C5A078891C0E",
             "verticalSpacing": 0
           },
           {
             "_class": "symbolInstance",
+            "booleanOperation": 0,
             "do_objectID": "DFC91E36-B8A4-44DB-B637-72C8912D0982",
             "exportOptions": {
               "_class": "exportOptions",
@@ -7707,6 +7935,7 @@
               "y": 93
             },
             "horizontalSpacing": 0,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": true,
             "isLocked": false,
@@ -7725,15 +7954,17 @@
             "style": {
               "_class": "style",
               "do_objectID": "32DF2C81-3BED-4B47-AC66-8581155895E9",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "symbolID": "383CF6B5-22D8-4921-8B6B-C5A078891C0E",
             "verticalSpacing": 0
           },
           {
             "_class": "symbolInstance",
+            "booleanOperation": 0,
             "do_objectID": "66606449-C179-4CDF-9B5B-B92EBA13FC38",
             "exportOptions": {
               "_class": "exportOptions",
@@ -7753,6 +7984,7 @@
               "y": 47
             },
             "horizontalSpacing": 0,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -7769,9 +8001,10 @@
             "shouldBreakMaskChain": false,
             "style": {
               "_class": "style",
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "symbolID": "5B7EBF87-279F-46DF-A6EC-DDFA73A3226A",
             "verticalSpacing": 0
@@ -7786,9 +8019,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "912215E9-5B5D-4815-BDBC-FCA6ED46650A",
         "verticalRulerData": {
@@ -7811,6 +8045,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 1719,
         "do_objectID": "88206688-F842-4777-9FDA-9D5170C17E90",
         "exportOptions": {
@@ -7841,6 +8076,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -7850,6 +8086,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "14296531-C05A-4E7C-ACD8-CCB73ECCC15E",
             "exportOptions": {
@@ -7871,6 +8108,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -7902,6 +8140,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -7992,7 +8231,7 @@
                   "thickness": 1
                 }
               ],
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -8012,7 +8251,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -8026,9 +8266,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "DB369529-4C67-4612-8567-3634B8A00593",
         "verticalRulerData": {
@@ -8048,6 +8289,7 @@
           "green": 1,
           "red": 1
         },
+        "booleanOperation": 0,
         "changeIdentifier": 1719,
         "do_objectID": "88206688-F842-4777-9FDA-9D5170C17E90",
         "exportOptions": {
@@ -8078,6 +8320,7 @@
         "includeBackgroundColorInExport": true,
         "includeBackgroundColorInInstance": false,
         "includeInCloudUpload": true,
+        "isFixedToViewport": false,
         "isFlippedHorizontal": false,
         "isFlippedVertical": false,
         "isFlowHome": false,
@@ -8087,6 +8330,7 @@
         "layers": [
           {
             "_class": "shapeGroup",
+            "booleanOperation": 0,
             "clippingMaskMode": 0,
             "do_objectID": "14296531-C05A-4E7C-ACD8-CCB73ECCC15E",
             "exportOptions": {
@@ -8108,6 +8352,7 @@
             },
             "hasClickThrough": false,
             "hasClippingMask": false,
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -8139,6 +8384,7 @@
                 },
                 "hasConvertedToNewRoundCorners": true,
                 "isClosed": true,
+                "isFixedToViewport": false,
                 "isFlippedHorizontal": false,
                 "isFlippedVertical": false,
                 "isLocked": false,
@@ -8229,7 +8475,7 @@
                   "thickness": 1
                 }
               ],
-              "endDecorationType": 0,
+              "endMarkerType": 0,
               "fills": [
                 {
                   "_class": "fill",
@@ -8249,7 +8495,8 @@
                 }
               ],
               "miterLimit": 10,
-              "startDecorationType": 0
+              "startMarkerType": 0,
+              "windingRule": 1
             },
             "windingRule": 1
           }
@@ -8263,9 +8510,10 @@
         "shouldBreakMaskChain": true,
         "style": {
           "_class": "style",
-          "endDecorationType": 0,
+          "endMarkerType": 0,
           "miterLimit": 10,
-          "startDecorationType": 0
+          "startMarkerType": 0,
+          "windingRule": 1
         },
         "symbolID": "0AFFBED0-DB77-4E50-8373-13FB204AA832",
         "verticalRulerData": {
@@ -8285,9 +8533,9 @@
     ]
   },
   "meta": {
-    "appVersion": "50.2",
-    "build": 55047,
-    "version": 103
+    "appVersion": "51",
+    "build": 57462,
+    "version": 105
   },
   "pages": [
     "Page 1",

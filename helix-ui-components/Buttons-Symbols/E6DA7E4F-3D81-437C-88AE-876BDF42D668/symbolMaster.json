@@ -8,6 +8,7 @@
     "green": 1,
     "red": 1
   },
+  "booleanOperation": 0,
   "changeIdentifier": 1690,
   "do_objectID": "E6DA7E4F-3D81-437C-88AE-876BDF42D668",
   "exportOptions": {
@@ -41,6 +42,7 @@
   "includeBackgroundColorInExport": true,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isFlowHome": false,
@@ -67,9 +69,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "99946767-6825-4D11-818A-F3FCB541123C",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0
+    "startMarkerType": 0,
+    "windingRule": 1
   },
   "symbolID": "06BB86EA-9909-4C1D-B14B-93D6011FA10F",
   "verticalRulerData": {

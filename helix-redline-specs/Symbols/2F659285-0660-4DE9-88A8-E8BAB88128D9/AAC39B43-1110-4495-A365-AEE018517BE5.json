@@ -35,6 +35,7 @@
     "string": "#123456"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "AAC39B43-1110-4495-A365-AEE018517BE5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +56,7 @@
     "y": 0
   },
   "glyphBounds": "{{0, 3}, {48, 10}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -70,9 +72,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -99,7 +101,8 @@
         }
       },
       "verticalAlignment": 1
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2
 }

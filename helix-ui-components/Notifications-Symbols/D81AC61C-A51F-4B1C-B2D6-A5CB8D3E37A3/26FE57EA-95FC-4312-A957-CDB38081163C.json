@@ -63,6 +63,7 @@
     "string": "BOLD: Alert message goes here "
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "26FE57EA-95FC-4312-A957-CDB38081163C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -83,6 +84,7 @@
     "y": 16
   },
   "glyphBounds": "{{1, 4}, {221, 16}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -97,9 +99,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -126,7 +128,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

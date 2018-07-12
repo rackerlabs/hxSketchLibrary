@@ -35,6 +35,7 @@
     "string": "Use measurement indicators when the thing you’re designing has an explicit width or height, or both.  These always go on the right or bottom sides, never the top or left."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "3969BDE3-897A-4DBD-9B2D-E15D664CBE45",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +56,7 @@
     "y": 525
   },
   "glyphBounds": "{{0, 5}, {273, 112}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

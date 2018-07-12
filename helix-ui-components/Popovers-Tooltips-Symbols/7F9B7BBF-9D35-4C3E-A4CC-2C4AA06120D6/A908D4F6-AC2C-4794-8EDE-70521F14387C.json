@@ -34,6 +34,7 @@
     "string": "HP DL 385 G2 Hypervisor"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "A908D4F6-AC2C-4794-8EDE-70521F14387C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +57,7 @@
     "y": 22
   },
   "glyphBounds": "{{1, 4}, {158, 14}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,9 +73,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "08229766-85B2-469D-9026-B21D4D674B4A",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "F7D0ECEE-A57C-4C0C-BA83-DDC3DE355B59",
@@ -100,7 +102,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {

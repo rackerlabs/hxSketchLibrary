@@ -35,6 +35,7 @@
     "string": "Measurement"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "E9010DCD-3F3A-4B68-8EE2-37E21DED9927",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +56,7 @@
     "y": 481
   },
   "glyphBounds": "{{1, 8}, {147, 19}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

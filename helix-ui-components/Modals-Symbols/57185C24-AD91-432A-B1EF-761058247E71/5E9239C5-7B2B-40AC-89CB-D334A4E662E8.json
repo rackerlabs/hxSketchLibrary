@@ -36,6 +36,7 @@
     "string": "Modal Title"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "5E9239C5-7B2B-40AC-89CB-D334A4E662E8",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -56,6 +57,7 @@
     "y": 20
   },
   "glyphBounds": "{{1, 8}, {118, 19}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,10 +73,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "DF9B4D49-A0C1-424C-B687-2BC16F43439C",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "D3C29EA6-C39D-40C6-9C70-0E6D16F78F20",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -102,7 +104,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

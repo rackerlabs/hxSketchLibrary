@@ -63,6 +63,7 @@
     "string": "#hexhex (Color 000)\ncolor: #fafafa (Gray 25)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "92C53C73-CB48-4812-9668-674592427ACC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -85,6 +86,7 @@
     "y": 3119
   },
   "glyphBounds": "{{0, 4}, {165, 41}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -100,9 +102,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "351AE4DE-28CD-428D-8AF8-CB37E3C97986",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "09F43933-960B-401A-9329-3811D584C7A7",
@@ -130,7 +132,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

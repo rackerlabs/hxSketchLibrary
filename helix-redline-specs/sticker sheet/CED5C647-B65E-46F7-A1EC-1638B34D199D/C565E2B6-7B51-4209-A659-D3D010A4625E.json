@@ -35,6 +35,7 @@
     "string": "Use square inset spacing to indicate the amount of inset spacing on all sides of a container."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "C565E2B6-7B51-4209-A659-D3D010A4625E",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +56,7 @@
     "y": 221
   },
   "glyphBounds": "{{0, 5}, {342, 40}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

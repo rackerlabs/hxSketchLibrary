@@ -37,6 +37,7 @@
     "string": "Use the thumbnail library for mocking up high-level user flows, or system flows.  This library can be used in conjunction with the redline specs library, to get the red arrows and labels shown in the example.\nMost of the major page types are available in this library, and are shown below. Additionally, there are several tiny components that can be dropped into an empty application frame, so you can craft your own view.\nPRO-TIP:  These screens can easily be copied and pasted into a Mural whiteboard!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "66644CA8-43E4-49B6-A72C-9051D035062D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 104
   },
   "glyphBounds": "{{0, 4}, {646, 193}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -72,10 +74,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "E163ED84-C6A2-40C0-9783-E39FE0D6FD64",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "708DEB7D-DF63-49FC-B0B6-C9D93D1D313B",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -104,7 +106,8 @@
         "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

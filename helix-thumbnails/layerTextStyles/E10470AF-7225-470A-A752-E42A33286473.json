@@ -20,10 +20,10 @@
         "thickness": 1
       }
     ],
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "E10470AF-7225-470A-A752-E42A33286473",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -51,6 +51,7 @@
         }
       },
       "verticalAlignment": 1
-    }
+    },
+    "windingRule": 1
   }
 }

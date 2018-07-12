@@ -35,6 +35,7 @@
     "string": "Label"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "D26AB1A8-52B8-47A1-A693-C3C64A312364",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 1467
   },
   "glyphBounds": "{{0, 3}, {29, 10}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -73,9 +75,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "FC9F88BA-4C22-4904-9219-7A479DBC621A",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "05AB41DB-87C1-40A6-9D12-5FEF41AB9ECC",
@@ -103,7 +105,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0
 }

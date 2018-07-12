@@ -63,6 +63,7 @@
     "string": "animation: X.Xs easing-type\nanimation: 0.5s ease-in"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "38BC73ED-68AC-4CCA-988F-737496083B0F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -85,6 +86,7 @@
     "y": 3224
   },
   "glyphBounds": "{{0, 5}, {190, 37}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -100,9 +102,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "27AA1EA6-1BD7-44B9-ABE5-32E0F28E0E03",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "FCD36AB7-74DE-4492-BB45-5927FA611070",
@@ -130,7 +132,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

@@ -32,6 +32,7 @@
     "string": "Tooltip - Multiline"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "2E3BD789-462C-4C9B-B99F-54FEC153F946",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -54,6 +55,7 @@
     "y": 158
   },
   "glyphBounds": "{{0, 2}, {92, 12}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -69,9 +71,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "2AADC240-4FF3-4165-A2E8-5AC4248790F9",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "1ADBB77D-9EF2-4F5E-A260-22C193290181",
@@ -96,7 +98,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

@@ -33,6 +33,7 @@
     "string": "Modal message. Describe exactly what will happen as a result of the action tied to this modal. Be descriptive, yet brief.Lorem ipsum dolor sit amet, consectetur adipiscing elit."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "45CE3F65-7D7A-4159-BD5B-E7D3631DA902",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -53,6 +54,7 @@
     "y": 76
   },
   "glyphBounds": "{{0, 4}, {468, 65}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -68,10 +70,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "2CA4FBC7-1A2E-43AA-86E1-6256D2D1F047",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -96,7 +98,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1,
   "userInfo": {
