@@ -8,8 +8,8 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3655,
-  "do_objectID": "5C610732-FB46-44AE-99AE-941A6717467C",
+  "changeIdentifier": 514,
+  "do_objectID": "897ADAF2-8715-4DCA-9DEA-E9B5D9C61870",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +22,16 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 431,
-    "width": 720,
-    "x": -235,
-    "y": -242
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 1008
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 1,
+    "isEnabled": false,
+    "thickGridTimes": 8
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -35,7 +41,7 @@
     "guides": [
     ]
   },
-  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInExport": false,
   "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
@@ -44,67 +50,63 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "AE35014D-2A78-4873-A1E8-0F5CF05505BD"
+      "class": "shapeGroup",
+      "id": "DE809D2B-7AFF-4E45-8974-D8D38CA5E3F3"
     },
     {
       "class": "symbolInstance",
-      "id": "29BF85B9-0F14-42A0-A1A4-F8F1EB65DD0E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6A07A44E-2D08-45E2-9001-17FE0A11F96F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "74DD6F2F-95D3-4625-9932-5C8900361657"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9B8610DA-A663-4DE0-A6C9-DAC6E900B3BF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BF36EDA8-092E-4529-B6CA-4981AABA6894"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "6908BDC3-2AEC-4EC8-A65D-CE6A02556580"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "12770A01-74BD-48BF-8F06-EBB732673291"
+      "id": "C5B294EF-B056-4201-95A9-0607503A8098"
     }
   ],
-  "name": "Tables: Templates / 4-col / Default / Example w/ controls",
+  "name": "Style: Icons/undo",
   "nameIsFixed": true,
-  "resizesContent": true,
+  "originalObjectID": "642F5FF8-BA8E-4A72-AFC9-41130D00E235",
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
     "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "44374BDD-9406-48DD-A274-B37842F66B97",
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  },
+  "symbolID": "9AAECE47-6766-4C25-8E97-A211E760BB11",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      431
     ]
   }
 }

@@ -44,6 +44,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "897ADAF2-8715-4DCA-9DEA-E9B5D9C61870"
+    },
+    {
+      "class": "symbolMaster",
       "id": "BD28EAC9-1A34-467A-B9A0-2382B5044C90"
     },
     {
@@ -93,6 +97,10 @@
     {
       "class": "symbolMaster",
       "id": "9225F4AE-9794-45EC-8B66-063DC6903B41"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "49B6FE64-EF2F-4FE8-82F1-C46C58E4015B"
     },
     {
       "class": "symbolMaster",
@@ -365,12 +373,14 @@
       "displayTitles": 0,
       "gPad": "32",
       "gatherSymbols": 0,
+      "globalSettings": 0,
       "groupDepth": 1,
       "maxPer": "",
       "removeSymbols": 0,
       "renameSymbols": 0,
       "reverseOrder": 1,
       "sortDirection": 0,
+      "styleName": "Symbol Organizer/Group Title",
       "xPad": "20",
       "yPad": "20"
     }
