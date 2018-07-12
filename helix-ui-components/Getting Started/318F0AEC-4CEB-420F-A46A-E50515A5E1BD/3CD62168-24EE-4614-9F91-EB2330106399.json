@@ -91,6 +91,7 @@
     "string": "Clone the hxSketchLibrary repository, File > Clone Repository (shift + ⌘ + o). Enter the repo url into the URL tab and select a location to store the repo."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "3CD62168-24EE-4614-9F91-EB2330106399",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -111,6 +112,7 @@
     "y": 213
   },
   "glyphBounds": "{{0, 5}, {544, 40}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -125,9 +127,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -154,7 +156,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }
