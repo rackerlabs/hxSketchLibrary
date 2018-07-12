@@ -70,6 +70,7 @@
     "string": "Show  10  20  50"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "020E5805-8299-42EE-8938-EFF3A892BF7A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -90,6 +91,7 @@
     "y": 7
   },
   "glyphBounds": "{{0, 2}, {102, 12}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": true,
@@ -112,9 +114,9 @@
       "radius": 7.2,
       "type": 0
     },
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -134,7 +136,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

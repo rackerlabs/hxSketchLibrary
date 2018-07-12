@@ -35,6 +35,7 @@
     "string": "Stack Spacing"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "150B16C3-C53B-4CA9-BEF8-D32E7A10BD5F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +56,7 @@
     "y": 177
   },
   "glyphBounds": "{{0, 8}, {151, 23}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

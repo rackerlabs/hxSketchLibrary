@@ -63,6 +63,7 @@
     "string": "Composition Images describe the general, structural parts of a component. For example a component may have a container, a header, a content area, and a footer.\n\nUse the circle-end line for indicating composition elements."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "27590D30-D3B4-4B31-B67C-E626F7457539",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -85,6 +86,7 @@
     "y": 1186
   },
   "glyphBounds": "{{0, 4}, {445, 113}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -100,10 +102,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "DFED2139-5547-49BC-8894-916A2A35C586",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "275E78B2-9C85-437E-B84E-1CD4C7F0223E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "ECD34CD9-6DD7-4414-8117-8F527915E7C9",
@@ -131,7 +133,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

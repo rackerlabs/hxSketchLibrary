@@ -20,10 +20,10 @@
         "thickness": 1
       }
     ],
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "EF2CE1C5-3220-4CAF-9697-16D7C0D6B19E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -51,6 +51,7 @@
         }
       },
       "verticalAlignment": 1
-    }
+    },
+    "windingRule": 1
   }
 }

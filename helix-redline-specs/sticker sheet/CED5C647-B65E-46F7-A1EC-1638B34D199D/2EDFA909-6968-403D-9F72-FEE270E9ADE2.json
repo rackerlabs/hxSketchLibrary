@@ -63,6 +63,7 @@
     "string": "key: value\ntext-transform: uppercase"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "2EDFA909-6968-403D-9F72-FEE270E9ADE2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -85,6 +86,7 @@
     "y": 3017
   },
   "glyphBounds": "{{0, 5}, {184, 40}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -100,9 +102,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "270C306E-0619-4C66-B550-CD593763FC90",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "ED099770-CFDC-4727-BEE3-573500343C72",
@@ -130,7 +132,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

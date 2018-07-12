@@ -119,6 +119,7 @@
     "string": "Style specification images call out the specific attributes of a given components, often representing CSS values.\n\nRedline specifications must be to the right of the image, with the text being left justified, as shown here.\n\nDo not add redline specifications for elements that have already been spec’d in their own file.  Use the pill shaped Reference Tag to show that an element is a separate component.\n\nUse the arrow-ended redlines for indicating style for elements."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "9E3C6F0D-8A17-442E-B318-8D9F6F085758",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -141,6 +142,7 @@
     "y": 1725
   },
   "glyphBounds": "{{0, 4}, {452, 257}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -156,10 +158,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "D494C472-02B4-47F1-A5C5-AF6A3F4E8D6F",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "275E78B2-9C85-437E-B84E-1CD4C7F0223E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "2945EB32-1CBA-4C3B-9BF6-9DDFD496F484",
@@ -187,7 +189,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

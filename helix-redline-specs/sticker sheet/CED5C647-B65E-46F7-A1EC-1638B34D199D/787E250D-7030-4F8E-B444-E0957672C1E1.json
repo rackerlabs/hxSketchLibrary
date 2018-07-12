@@ -63,6 +63,7 @@
     "string": "x-axis: X y-axis: X blur: X spread: X\nshadow: X 1px, Y 0px, blur 4px, spread 2px"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "787E250D-7030-4F8E-B444-E0957672C1E1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -85,6 +86,7 @@
     "y": 3332
   },
   "glyphBounds": "{{-1, 5}, {301, 40}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -100,9 +102,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "4C985A53-5BC7-46CF-9190-1B7AA12F3531",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "4CCF9DF8-4215-4E9A-BF01-DB1A1C7FFF89",
@@ -130,7 +132,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 0,
   "userInfo": {

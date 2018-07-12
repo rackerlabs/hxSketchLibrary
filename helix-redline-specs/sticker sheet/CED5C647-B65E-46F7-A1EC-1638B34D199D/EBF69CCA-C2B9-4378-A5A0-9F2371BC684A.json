@@ -119,6 +119,7 @@
     "string": "Spacing specifications must follow the standards outlined in the Spacing System article.  These images should show inset spacing for containers, and spacing between elements within the component.\n\nDo not show spacing outside of the component, unless it is in relation to another element inside a larger component.\n\nUse spacing and dimensions indicators for spacing images."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "EBF69CCA-C2B9-4378-A5A0-9F2371BC684A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -141,6 +142,7 @@
     "y": 2451
   },
   "glyphBounds": "{{0, 4}, {435, 209}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -156,10 +158,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "479B6C1C-D5F9-4543-AD84-635710CD49F7",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "275E78B2-9C85-437E-B84E-1CD4C7F0223E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "2A2582A7-4DFF-446B-8B2A-C88B3E3B0BD6",
@@ -187,7 +189,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

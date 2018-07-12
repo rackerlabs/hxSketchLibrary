@@ -35,6 +35,7 @@
     "string": "Redline Symbols"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "1494F22F-ABA8-40BC-95A2-39B5F4D1070B",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -55,6 +56,7 @@
     "y": 100
   },
   "glyphBounds": "{{2, 11}, {229, 31}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,

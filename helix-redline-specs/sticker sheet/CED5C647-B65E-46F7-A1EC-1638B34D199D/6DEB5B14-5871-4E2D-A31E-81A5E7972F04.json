@@ -35,6 +35,7 @@
     "string": "When detailing different style attributes, follow the syntax conventions shown to the right."
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "6DEB5B14-5871-4E2D-A31E-81A5E7972F04",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 2998
   },
   "glyphBounds": "{{0, 4}, {407, 41}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -72,10 +74,10 @@
   "style": {
     "_class": "style",
     "do_objectID": "1F6EB8E6-64FF-40F8-A83E-1489DE4A02C4",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "275E78B2-9C85-437E-B84E-1CD4C7F0223E",
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "18BC95D1-9AD7-436D-8012-9A6BCC74FC91",
@@ -103,7 +105,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }
