@@ -35,6 +35,7 @@
     "string": "Gray\n975\n#212121"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "83012E6C-B6ED-4CB8-B58F-C380251834D4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -57,6 +58,7 @@
     "y": 0
   },
   "glyphBounds": "{{5, 1}, {38, 32}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": true,
@@ -72,9 +74,9 @@
   "style": {
     "_class": "style",
     "do_objectID": "8BC0C576-0925-4AAD-9266-6F4EFA622FAA",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "do_objectID": "F5F4DE9D-1F1F-49D0-A332-ABAA8414A1EA",
@@ -102,7 +104,8 @@
         }
       },
       "verticalAlignment": 1
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 2
 }

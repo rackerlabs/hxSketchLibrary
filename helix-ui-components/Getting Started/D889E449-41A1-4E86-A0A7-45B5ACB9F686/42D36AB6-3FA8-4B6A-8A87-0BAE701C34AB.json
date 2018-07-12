@@ -65,6 +65,7 @@
     "string": "Image credit to the wonderful folks at https://sketchapp.com"
   },
   "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
   "do_objectID": "42D36AB6-3FA8-4B6A-8A87-0BAE701C34AB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -85,6 +86,7 @@
     "y": 627
   },
   "glyphBounds": "{{1, 4}, {370, 14}}",
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -99,9 +101,9 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "endDecorationType": 0,
+    "endMarkerType": 0,
     "miterLimit": 10,
-    "startDecorationType": 0,
+    "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
@@ -129,7 +131,8 @@
         }
       },
       "verticalAlignment": 0
-    }
+    },
+    "windingRule": 1
   },
   "textBehaviour": 1
 }

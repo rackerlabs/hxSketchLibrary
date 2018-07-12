@@ -23,6 +23,7 @@
     "y": 0.2725919491957711
   },
   "isClosed": true,
+  "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
