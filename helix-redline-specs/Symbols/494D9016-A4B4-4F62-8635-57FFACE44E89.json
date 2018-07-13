@@ -28,18 +28,19 @@
             "minimumLineHeight": 48
           }
         },
-        "length": 7,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Spacing"
+    "string": "Labels"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "B123FEAC-5677-4810-B03D-16FBC43BAD2F",
+  "do_objectID": "494D9016-A4B4-4F62-8635-57FFACE44E89",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "2E1BBFD4-AB15-4EA5-ABF4-7392B7BE80DA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "917993A5-F0A3-4183-8832-A78DB2E811D8",
     "height": 48,
-    "width": 167,
-    "x": 2468,
-    "y": -310
+    "width": 135,
+    "x": 1210,
+    "y": -81
   },
-  "glyphBounds": "{{2, 5}, {161, 46}}",
+  "glyphBounds": "{{4, 4}, {128, 37}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Spacing",
+  "name": "Labels",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -71,11 +73,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "61156007-ECC4-4085-876E-570D8AB63717",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "BDCC6684-5314-4349-A44E-E5946186CF50",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
