@@ -1,8 +1,8 @@
 {
   "_class": "shapeGroup",
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "DE809D2B-7AFF-4E45-8974-D8D38CA5E3F3",
+  "do_objectID": "694D1E3C-3E48-488C-8F8D-F266F3B669E8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14.00058380857495,
-    "width": 14.99841231625396,
-    "x": 0.001587683746035574,
-    "y": 0.998209328913978
+    "height": 12,
+    "width": 3,
+    "x": 6.5,
+    "y": 2
   },
   "hasClickThrough": false,
   "hasClippingMask": true,
@@ -31,7 +31,11 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "F4FE0575-EFE7-4ED3-ADD9-A0D16FAFD1F1"
+      "id": "B7787A0A-1DA8-40E6-9F46-24C9CF4DBEBF"
+    },
+    {
+      "class": "shapePath",
+      "id": "E82DF930-B2DA-4579-BBF4-3980B1BB9AE2"
     }
   ],
   "name": "Mask",
@@ -42,6 +46,14 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 13.33333333333333,
+      "type": 0
+    },
     "endMarkerType": 0,
     "fills": [
       {
@@ -63,7 +75,7 @@
     ],
     "miterLimit": 10,
     "startMarkerType": 0,
-    "windingRule": 0
+    "windingRule": 1
   },
-  "windingRule": 0
+  "windingRule": 1
 }

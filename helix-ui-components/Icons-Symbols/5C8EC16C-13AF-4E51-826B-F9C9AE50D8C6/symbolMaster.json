@@ -8,8 +8,8 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 351,
-  "do_objectID": "14E2F6FE-C2F1-4767-9D09-40E0B9DE39C4",
+  "changeIdentifier": 344,
+  "do_objectID": "5C8EC16C-13AF-4E51-826B-F9C9AE50D8C6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -25,7 +25,7 @@
     "height": 16,
     "width": 16,
     "x": 144,
-    "y": 108
+    "y": 72
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -48,16 +48,16 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "678DE507-5296-49BC-A151-233872224C81"
+      "id": "694D1E3C-3E48-488C-8F8D-F266F3B669E8"
     },
     {
       "class": "symbolInstance",
-      "id": "B564BB2C-EDCF-4E61-A12D-4D3CB6531DF6"
+      "id": "5930A5EA-C422-4121-8FAE-60D904B43CC2"
     }
   ],
-  "name": "Style: Icons/exclamation/triangle",
+  "name": "Style: Icons/exclamation/plain",
   "nameIsFixed": true,
-  "originalObjectID": "51764C35-05F9-41B7-ACC7-5A73C467D94C",
+  "originalObjectID": "EA77E531-FB0C-4B12-A97F-C7DFF8048217",
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -96,7 +96,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "6C1DBFF1-CC20-4DAB-8458-4096598D4A5A",
+  "symbolID": "287AEEA9-FCF8-484B-9355-AFCBFA74B64E",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
