@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 37,
+    "height": 36,
     "width": 240,
     "x": 0,
     "y": 0
@@ -30,7 +30,7 @@
   "nameIsFixed": true,
   "overrideValues": [
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

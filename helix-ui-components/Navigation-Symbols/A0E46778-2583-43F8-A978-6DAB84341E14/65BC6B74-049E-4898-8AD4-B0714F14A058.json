@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 37,
+    "height": 36,
     "width": 240,
     "x": 0,
-    "y": 130.041015625
+    "y": 126
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Item 3",
+  "name": "3",
   "nameIsFixed": true,
   "overrideValues": [
     {
@@ -38,6 +38,30 @@
       "_class": "overrideValue",
       "overrideName": "80756372-0295-4F0C-ADBC-EA7962FCD8CC/1356C34F-1203-4614-A69E-C6C5FBE5999A_symbolID",
       "value": "2679F45F-1E80-44AF-B769-0E88E0F34EE1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FEAF607B-B953-49C6-93BB-E27D742DC512",
+      "overrideName": "F3808695-D488-4758-B4E8-B1D2220B58DF_symbolID",
+      "value": "D04FE5D6-475A-4D6C-B82F-FF95452E14FE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E7A8E199-A56D-425B-8D8E-AE6B7D506573",
+      "overrideName": "F3808695-D488-4758-B4E8-B1D2220B58DF/1356C34F-1203-4614-A69E-C6C5FBE5999A_symbolID",
+      "value": "B24B1E15-C6EF-4196-B0C4-0950AAC9D862"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF8CDEA2-0B5D-45BD-A0E0-AF30031458D7",
+      "overrideName": "5325BD3A-EEB2-4FDF-A209-B344E42ACAF7_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "96C8882E-CED5-48E3-A39F-5204DDCCE7D9",
+      "overrideName": "F6C529F3-2D56-4665-96D7-B2EAE3E6E395_stringValue",
+      "value": "Primary Item Three"
     }
   ],
   "resizingConstraint": 26,

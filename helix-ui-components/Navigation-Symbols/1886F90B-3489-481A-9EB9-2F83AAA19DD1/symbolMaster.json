@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1690,
+  "changeIdentifier": 1947,
   "do_objectID": "1886F90B-3489-481A-9EB9-2F83AAA19DD1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 64,
-    "width": 165,
+    "width": 164,
     "x": -572,
     "y": 806
   },
@@ -47,8 +47,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "474F7E2B-C10C-4511-8598-51265915408B"
+      "class": "symbolInstance",
+      "id": "A0628D3E-07D3-40CB-98C6-73F5367F1187"
     },
     {
       "class": "text",
@@ -62,7 +62,7 @@
   "name": "_parts/Top-Nav/Item-hover",
   "nameIsFixed": true,
   "originalObjectID": "7F0F138F-ADF9-465A-8DC8-E34D77D3B294",
-  "resizesContent": true,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

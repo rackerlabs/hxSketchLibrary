@@ -29,6 +29,12 @@
   "name": "Item 4",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "96BBF928-7ED5-475F-B281-716D84CC219C",
+      "overrideName": "7C48514C-A4BE-4B11-A985-9EC40973F520_symbolID",
+      "value": ""
+    }
   ],
   "resizingConstraint": 47,
   "resizingType": 0,

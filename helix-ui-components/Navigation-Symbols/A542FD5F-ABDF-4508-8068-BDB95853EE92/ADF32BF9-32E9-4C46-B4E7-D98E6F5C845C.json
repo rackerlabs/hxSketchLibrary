@@ -26,8 +26,8 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Colors / Gray / Gray 900",
-  "nameIsFixed": false,
+  "name": "background",
+  "nameIsFixed": true,
   "overrideValues": [
   ],
   "resizingConstraint": 63,

@@ -15,7 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
+    "height": 65,
     "width": 20,
     "x": 0,
     "y": 0
@@ -37,7 +37,7 @@
   "name": "Rectangle 5 Copy 12",
   "nameIsFixed": false,
   "originalObjectID": "6866B820-A03F-4D7D-A6C7-E7AC9368FE5B",
-  "resizingConstraint": 63,
+  "resizingConstraint": 17,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

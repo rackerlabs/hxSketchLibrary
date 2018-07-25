@@ -14,20 +14,20 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 11,
-    "width": 11,
-    "x": 133.5,
-    "y": 26.5
+    "height": 12,
+    "width": 12,
+    "x": 132,
+    "y": 26
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
-  "isLocked": true,
+  "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Icons / angle/down",
-  "nameIsFixed": false,
+  "name": "carat",
+  "nameIsFixed": true,
   "overrideValues": [
     {
       "_class": "overrideValue",

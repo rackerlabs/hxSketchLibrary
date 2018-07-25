@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4895,
+  "changeIdentifier": 6697,
   "do_objectID": "E1AD93E2-B039-4C4C-AB13-D57B2B37AC94",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,10 +22,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 37,
+    "height": 36,
     "width": 240,
-    "x": -316,
-    "y": -149
+    "x": -81,
+    "y": 46
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
@@ -60,8 +60,8 @@
       "id": "F6C529F3-2D56-4665-96D7-B2EAE3E6E395"
     },
     {
-      "class": "group",
-      "id": "9FFFEDC1-1433-4097-804E-5CAC7BFCE880"
+      "class": "symbolInstance",
+      "id": "5325BD3A-EEB2-4FDF-A209-B344E42ACAF7"
     }
   ],
   "name": "_parts/Navigation/Left-Nav/Item-Primary",

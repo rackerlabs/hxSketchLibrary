@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 37,
+    "height": 36,
     "width": 160,
     "x": 0,
-    "y": 54.931640625
+    "y": 54
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,11 +26,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Item 1",
+  "name": "1",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E76D181A-5F41-45F0-A237-8B5A8D8E38EB",
+      "overrideName": "5325BD3A-EEB2-4FDF-A209-B344E42ACAF7_symbolID",
+      "value": ""
+    }
   ],
-  "resizingConstraint": 26,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

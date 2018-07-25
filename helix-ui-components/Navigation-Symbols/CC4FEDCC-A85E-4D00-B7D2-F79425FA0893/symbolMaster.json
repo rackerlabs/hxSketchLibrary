@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 524,
+  "changeIdentifier": 607,
   "do_objectID": "CC4FEDCC-A85E-4D00-B7D2-F79425FA0893",
   "exportOptions": {
     "_class": "exportOptions",
@@ -22,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 65,
+    "height": 64,
     "width": 165,
     "x": -762,
     "y": 722
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -49,6 +49,10 @@
     {
       "class": "symbolInstance",
       "id": "39447377-3D74-4DC5-AF7F-7274023CBAE2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C48514C-A4BE-4B11-A985-9EC40973F520"
     }
   ],
   "name": "Navigation: Top-Nav / Item",

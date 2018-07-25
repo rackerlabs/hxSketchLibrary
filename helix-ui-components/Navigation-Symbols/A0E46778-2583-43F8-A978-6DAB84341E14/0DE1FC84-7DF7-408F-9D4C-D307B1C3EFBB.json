@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 37,
+    "height": 36,
     "width": 240,
     "x": 0,
-    "y": 55.041015625
+    "y": 54
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,9 +26,21 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Item 1",
+  "name": "1",
   "nameIsFixed": true,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AF7BEF65-D056-4B9B-B5C9-D0BC881E93E5",
+      "overrideName": "5325BD3A-EEB2-4FDF-A209-B344E42ACAF7_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC2728B7-A1F7-4AE7-80A2-AE4A5F2FE622",
+      "overrideName": "F6C529F3-2D56-4665-96D7-B2EAE3E6E395_stringValue",
+      "value": "Primary Item One"
+    }
   ],
   "resizingConstraint": 26,
   "resizingType": 0,

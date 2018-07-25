@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3552,
+  "changeIdentifier": 3564,
   "do_objectID": "83E1EE1A-F140-4F0F-A48D-CA15C46684FD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -44,7 +44,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
@@ -87,7 +87,7 @@
       "id": "962F14B4-7E1C-42D5-94A6-3D854D13D5D4"
     }
   ],
-  "name": "Navigation: Top-Nav / Default",
+  "name": "Navigation: Top-Nav / Bar",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

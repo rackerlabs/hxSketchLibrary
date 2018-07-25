@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1984,
+  "changeIdentifier": 2229,
   "do_objectID": "A33AA642-6FAC-4756-BAB9-0A69C13026E4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -23,7 +23,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 64,
-    "width": 165,
+    "width": 164,
     "x": -394,
     "y": 721
   },
@@ -48,7 +48,7 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "8071C714-5D83-4876-94A7-82260448B6D4"
+      "id": "0798C0FB-0321-44CF-AA91-BE49D8251160"
     },
     {
       "class": "symbolInstance",

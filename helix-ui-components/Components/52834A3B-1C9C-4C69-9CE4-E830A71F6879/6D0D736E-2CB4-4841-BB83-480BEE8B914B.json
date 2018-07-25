@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 6,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "Footer"
+    "string": "Top Nav"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -47,11 +47,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 35,
-    "width": 85,
+    "width": 108,
     "x": 39,
-    "y": 363.0000000000001
+    "y": 229
   },
-  "glyphBounds": "{{2, 6}, {83, 23}}",
+  "glyphBounds": "{{0, 6}, {108, 29}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -59,7 +59,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 1,
-  "name": "Footer Copy",
+  "name": "Top Nav",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

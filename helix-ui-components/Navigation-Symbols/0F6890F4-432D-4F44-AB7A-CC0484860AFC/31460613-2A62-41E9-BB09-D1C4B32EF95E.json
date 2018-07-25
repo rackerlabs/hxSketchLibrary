@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "31460613-2A62-41E9-BB09-D1C4B32EF95E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA48BD94-E1E9-466E-A12C-B0A2C51831A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "309C0EC8-74CA-4E06-8C28-A1103DA033F6",
+    "height": 56,
+    "width": 160,
+    "x": 0,
+    "y": 310
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "3 - 2 - 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E01175C6-94CD-4376-8D1B-A0AB7D0CC1B7",
+      "overrideName": "FB59C679-5B70-45A2-837B-A0F94E3615AC_stringValue",
+      "value": "Tertiary Nav Wrap"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7EFF43E5-C499-447F-B0D4-ACABCDF9852C",
+      "overrideName": "996DFA39-14A8-46DD-BD89-32462A5CF9DA_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 26,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "01C7A860-1BCB-42B8-AE4B-4EAD2D3122E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "10A55DA9-48B5-49D1-8592-BF74E76DE43E",
+  "verticalSpacing": 0
+}

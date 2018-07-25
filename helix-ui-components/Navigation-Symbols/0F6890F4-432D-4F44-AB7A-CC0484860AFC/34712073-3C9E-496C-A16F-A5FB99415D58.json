@@ -14,7 +14,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 383,
+    "height": 366,
     "width": 160,
     "x": 0,
     "y": 0
@@ -26,7 +26,7 @@
   "isLocked": true,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Backgroun",
+  "name": "Background",
   "nameIsFixed": true,
   "overrideValues": [
   ],
