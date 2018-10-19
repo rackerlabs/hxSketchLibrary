@@ -1,6 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "69E60CA7-F4DC-44DC-AD3E-214D13D47E42",
   "exportOptions": {
     "_class": "exportOptions",
@@ -19,6 +20,7 @@
     "x": 208,
     "y": 0
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -26,7 +28,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "2nd Tab",
+  "name": "3rd Tab",
   "nameIsFixed": true,
   "overrideValues": [
     {
@@ -48,7 +50,7 @@
       "value": ""
     }
   ],
-  "resizingConstraint": 63,
+  "resizingConstraint": 33,
   "resizingType": 0,
   "rotation": 0,
   "scale": 1,

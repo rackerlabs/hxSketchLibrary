@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 266,
+  "clippingMaskMode": 0,
   "do_objectID": "BDC8D60D-9441-493A-A125-25CD6520AF45",
   "exportOptions": {
     "_class": "exportOptions",
@@ -29,6 +30,7 @@
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
