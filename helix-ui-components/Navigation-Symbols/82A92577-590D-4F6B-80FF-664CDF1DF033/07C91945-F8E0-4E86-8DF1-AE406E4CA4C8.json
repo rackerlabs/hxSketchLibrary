@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "07C91945-F8E0-4E86-8DF1-AE406E4CA4C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "13D4056F-6770-4D58-9B70-8E218E9610E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1BDE9E38-3E6C-490B-B82B-DBAFDF0C37F3",
+    "height": 14,
+    "width": 65,
+    "x": 0,
+    "y": 7
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "State",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "934C3915-D99D-458E-96F2-0AF507A3DA03",
+      "overrideName": "A6A94AC0-6D60-4B10-8ECB-75AD2B8990DF_stringValue",
+      "value": "First page"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "689C1FE9-7FF6-48DE-9F19-371697450B02",
+      "overrideName": "ACDA7129-2914-4D23-9189-4DB568E3E9D4_stringValue",
+      "value": "First Page"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "65F02095-F000-417E-B2D7-AB15C6D96A1F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "20CA0021-517B-4EAC-B716-60DA60DBA4E1",
+  "verticalSpacing": 0
+}

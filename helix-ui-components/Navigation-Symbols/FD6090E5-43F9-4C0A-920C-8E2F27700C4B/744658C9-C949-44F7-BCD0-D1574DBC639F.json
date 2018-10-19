@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "744658C9-C949-44F7-BCD0-D1574DBC639F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B663B56-4C2C-4AE6-ADC4-9774E31B2EB4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A97F8E8-3067-467F-82C7-C7CE55F8C079",
+    "height": 31,
+    "width": 188,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Style: Colors / Gray / Gray 950 (#333333)",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA6DC84A-4DB2-4A84-9E3B-ABA3B5B7DAF8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C29B40FE-3320-4D0B-9992-5D9A7F5BEC98",
+  "verticalSpacing": 0
+}

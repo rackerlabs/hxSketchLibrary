@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3677,
+  "changeIdentifier": 3678,
   "clippingMaskMode": 0,
   "do_objectID": "9CB186A1-E9CD-47BA-BFB8-83F2495C7B64",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": -232
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -85,7 +85,7 @@
       "id": "046F2D71-AE71-4F20-82E5-85BEB68481F4"
     }
   ],
-  "name": "Inputs: Dropdown/Menu/Group 7",
+  "name": "Inputs: Dropdown Selector/Menu/Group 7",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

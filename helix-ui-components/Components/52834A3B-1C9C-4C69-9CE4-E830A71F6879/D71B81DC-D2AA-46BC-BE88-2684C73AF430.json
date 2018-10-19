@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D71B81DC-D2AA-46BC-BE88-2684C73AF430",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FE935F5F-2799-48E7-B349-5C1BEBCEC0A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8CDBD59C-AF68-4488-BCDB-EB19E48791D5",
+    "height": 44,
+    "width": 20,
+    "x": 918,
+    "y": 856
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation: Breadcrumb/ Separator Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF128F7C-E8E5-4D5B-B919-C865F43A9DB0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C2470F42-0571-4E70-B96C-ECE003D48ED8",
+  "verticalSpacing": 0
+}

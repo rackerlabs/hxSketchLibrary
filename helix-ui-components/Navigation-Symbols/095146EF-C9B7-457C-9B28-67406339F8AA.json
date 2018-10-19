@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "095146EF-C9B7-457C-9B28-67406339F8AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "41365DA4-1548-4988-B6A6-C6E149AF4DC5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E153D89C-F851-41E7-B03F-EB3314AC04DC",
+    "height": 48,
+    "width": 236,
+    "x": -870,
+    "y": 1973
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Typography / Section Title Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EBCAE6E8-5013-4871-93A6-3FDEAB57D7C8_stringValue",
+      "value": "Breadcrumbs"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E5B76C01-A825-417E-AEF6-84F54C2B2C5E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B5EA6DB0-121A-42ED-9E9B-F61C5B6A3A80",
+  "verticalSpacing": 0
+}

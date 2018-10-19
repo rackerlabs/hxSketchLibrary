@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7772BC46-2334-4B99-8D93-A11B117A2DE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CCD6F85B-86B9-4FB7-9E8A-113D1D3DFD14",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9E7644BD-7DC3-49A2-8F4D-E1F2716155F8",
+    "height": 16,
+    "width": 16,
+    "x": 130.5,
+    "y": 19
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons / angle/down",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4DE95F3D-159B-4E39-95A1-99C247C3F577_symbolID",
+      "value": "B24B1E15-C6EF-4196-B0C4-0950AAC9D862"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D96886EA-6612-403C-A23C-D0C51AEDE4F9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "859A5924-5EC8-4829-9FCA-2A462D9B2F74",
+  "verticalSpacing": 0
+}

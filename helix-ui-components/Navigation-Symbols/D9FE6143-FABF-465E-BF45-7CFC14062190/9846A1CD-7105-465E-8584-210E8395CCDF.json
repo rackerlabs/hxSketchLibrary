@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9846A1CD-7105-465E-8584-210E8395CCDF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D6A06E91-7B74-4209-95FC-8623C95D9564",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "57110BD3-319E-47A7-81DF-1E0879ED2A69",
+    "height": 18,
+    "width": 18,
+    "x": 26.5,
+    "y": 9
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icons / account",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C9CC1A44-9E84-409D-AE28-C9F02A64CC00_symbolID",
+      "value": "B24B1E15-C6EF-4196-B0C4-0950AAC9D862"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4AD44E3-DC04-48C5-B183-ECD1971AA6CC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "86CA3ACC-FE8A-4339-9E72-F986EC270069",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2AE481FE-81E4-45AF-BC97-80EBC887662F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "40EC0729-66A2-42DD-BE92-9CA91D8C60B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4BBECD77-CAEB-4D51-86F6-C7378BE293D0",
+    "height": 56,
+    "width": 97,
+    "x": -1,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A7341B4F-E7B5-4C64-82C7-561BEDC8A8E7"
+    },
+    {
+      "class": "group",
+      "id": "0BDE52BD-E441-4078-BD61-A40208DAFFFB"
+    }
+  ],
+  "name": "Padding",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2F7D442F-1A53-4A71-A45D-AC7C29C383D1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

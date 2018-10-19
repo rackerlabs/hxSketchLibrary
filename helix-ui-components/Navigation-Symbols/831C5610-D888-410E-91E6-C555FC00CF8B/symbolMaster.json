@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FC4F0159-1DEE-43C8-9E30-5EA4979FCB0A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 685,
+  "clippingMaskMode": 0,
+  "do_objectID": "831C5610-D888-410E-91E6-C555FC00CF8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "09934BC4-7364-404A-B840-E1B168437148",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6911D097-8FC7-415F-8F1D-BFEBC3784821",
+    "height": 14,
+    "width": 28,
+    "x": -572,
+    "y": 2060
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9A352114-137D-4A0A-ACCF-FC74A09EE35D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D3259A4C-B4D8-4348-993F-957FBD5AC945"
+    }
+  ],
+  "name": "_parts/Breadcrumb/Item-Current",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F425796C-8EEA-42BA-9132-E64D8B825BEB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BA80697F-5B36-462A-AAA2-4533B4E0C1CB",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6CEA9996-C1DB-407B-9366-60617100D960",
+    "guides": [
+    ]
+  }
+}

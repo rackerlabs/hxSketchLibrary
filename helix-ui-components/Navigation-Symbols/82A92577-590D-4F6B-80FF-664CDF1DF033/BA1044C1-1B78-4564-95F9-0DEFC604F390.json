@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BA1044C1-1B78-4564-95F9-0DEFC604F390",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "879D2481-506B-445B-BF75-890C7B16BE21",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8836D079-9F91-42FC-9848-2557F3E8EB55",
+    "height": 14,
+    "width": 90,
+    "x": 184,
+    "y": 7
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "State Copy 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC2613B1-8998-4DF7-A02F-B2AB19DE52C0",
+      "overrideName": "E2B761FF-C95F-41F2-81A4-1B38085CFD6B_stringValue",
+      "value": "Current Page"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1AC362B1-0C7F-4DD5-8C3C-3EE652535AD1",
+      "overrideName": "D3259A4C-B4D8-4348-993F-957FBD5AC945_stringValue",
+      "value": "Current Page"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1B0D44B7-9F87-429F-A6A0-6484B44E4DD6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BA80697F-5B36-462A-AAA2-4533B4E0C1CB",
+  "verticalSpacing": 0
+}

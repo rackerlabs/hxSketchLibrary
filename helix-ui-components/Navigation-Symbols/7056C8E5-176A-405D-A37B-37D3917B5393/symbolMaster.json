@@ -1,0 +1,119 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D4CAFB8D-DCC1-44DA-AA9D-E1E8ECFEC591",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 5003,
+  "clippingMaskMode": 0,
+  "do_objectID": "7056C8E5-176A-405D-A37B-37D3917B5393",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA62B962-04E9-471C-8D7C-28D2F04DBC01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E337D4F9-CA89-4F04-B63C-27F4C5CE4BDE",
+    "height": 56,
+    "width": 1440,
+    "x": -561,
+    "y": -659
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "09AAE60D-0B73-4D98-BE6A-AAEBBE65EE43",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "52A42BC7-F6F7-49D2-84E0-8890092A42E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "051CBB83-27FA-4D10-9F23-7825D908811B"
+    },
+    {
+      "class": "group",
+      "id": "FA654412-4387-4A4E-AE84-3F10B87BF119"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2AE40488-8675-4A6C-9F84-1090D8F04311"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FF1878B8-757F-47A9-A155-821C1C1EE7EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD2DEE0F-E74B-4B01-9BF8-B2F7136CC971"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CAD92A48-FB22-49D9-953B-5659BB6D8909"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BBB8A2E9-99FE-4685-A7E9-101B2B13440A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D18F4AB-9715-40D9-8E7E-1B00BF7408A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3922479-4794-4201-B0A7-75871A057893"
+    }
+  ],
+  "name": "Navigation: Eyebrow",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "696CF71E-4E3C-4233-95C9-059F1A80BFB2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "17010E25-773D-4CB8-AD0D-AC1CF319E9CC",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BF83A89F-15FE-4F6C-99E4-52B7E5EB937B",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F5848A64-DD44-401E-885F-E53641CFF71C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3E1BCACA-0DD3-48F4-AC0C-29D51A68B99B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C09FF081-6651-428B-8E46-082C44885BE3",
+    "height": 48,
+    "width": 236,
+    "x": -893,
+    "y": 559
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Typography / Section Title Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EBCAE6E8-5013-4871-93A6-3FDEAB57D7C8_stringValue",
+      "value": "Top Nav"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3F104779-3423-464B-A56D-5F2834A189D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B5EA6DB0-121A-42ED-9E9B-F61C5B6A3A80",
+  "verticalSpacing": 0
+}

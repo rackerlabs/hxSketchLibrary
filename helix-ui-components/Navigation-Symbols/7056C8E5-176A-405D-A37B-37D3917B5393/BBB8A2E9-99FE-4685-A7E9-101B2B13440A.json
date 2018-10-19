@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BBB8A2E9-99FE-4685-A7E9-101B2B13440A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "94138A5E-A38F-409F-95BA-5A1B6A3F26CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5880A712-0C20-4DF5-B6CD-82E8BAF810C4",
+    "height": 56,
+    "width": 95,
+    "x": 912.5,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Notifications",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D5602B9-8919-4595-BB86-3EFFEDA96D66",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2DA963B3-8C46-4EBD-A6AB-17E081669AFA",
+  "verticalSpacing": 0
+}

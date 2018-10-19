@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 680,
+  "changeIdentifier": 681,
   "clippingMaskMode": 0,
   "do_objectID": "F3C91A52-368C-4463-95A6-A273370374A7",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": 23
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "D48344D8-4C1A-42F9-9D0F-BC0A6E981B8C"
     }
   ],
-  "name": "_parts/Dropdown/Container/Padding",
+  "name": "_parts/Dropdown Selector/Container/Padding",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

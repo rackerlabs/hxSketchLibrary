@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 144,
+  "changeIdentifier": 146,
   "clippingMaskMode": 0,
   "do_objectID": "1F1F0AB9-AE90-4EAF-B5A8-A0BBE58CAD51",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": -248
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,8 +61,8 @@
       "id": "4AE17C79-F54D-4F66-8CEA-3E18C9C45486"
     }
   ],
-  "name": "_parts/Dropdown/States/Focused",
-  "nameIsFixed": false,
+  "name": "_parts/Dropdown Selector/States/Focused",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

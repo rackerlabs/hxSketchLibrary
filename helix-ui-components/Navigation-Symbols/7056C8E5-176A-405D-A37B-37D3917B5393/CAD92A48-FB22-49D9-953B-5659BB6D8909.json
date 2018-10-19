@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CAD92A48-FB22-49D9-953B-5659BB6D8909",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B2E33C88-36B7-4D02-BC89-321C0EE7FEEA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "701E0566-FDC1-4AD2-A774-9CAAAF5A4EC3",
+    "height": 56,
+    "width": 64,
+    "x": 1008.5,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tickets",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "30A5BBC5-289D-404C-BB20-D68B2209A328",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "48596268-2A22-4DB6-9EF5-4327A5CAE6C4",
+  "verticalSpacing": 0
+}

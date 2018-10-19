@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "051CBB83-27FA-4D10-9F23-7825D908811B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3A13047-8636-4200-B38C-332D1A8EF630",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C918EC07-287D-4090-AAED-ECA5A1E11B60",
+    "height": 56,
+    "width": 165,
+    "x": 1274,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "User Menu",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B1E9A3D2-2F44-40D4-A167-7A1793AB544E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B94FE9F1-BAD1-4B2F-A849-7BE41520B03A",
+  "verticalSpacing": 0
+}

@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 177,
+  "changeIdentifier": 179,
   "clippingMaskMode": 0,
   "do_objectID": "4A55A164-FF74-4E63-AF0A-A290577C8715",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": -149
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,8 +61,8 @@
       "id": "4BD2342B-B15D-4363-BEFF-66C80AC93580"
     }
   ],
-  "name": "_parts/Dropdown/States/Error",
-  "nameIsFixed": false,
+  "name": "_parts/Dropdown Selector/States/Error",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

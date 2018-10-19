@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 727,
+  "changeIdentifier": 728,
   "clippingMaskMode": 0,
   "do_objectID": "A7C098D1-8603-467A-8535-569169539CA5",
   "exportOptions": {
@@ -32,7 +32,7 @@
     "y": 78
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
       "id": "49A90B53-2DBC-4A9D-9BCC-F468CB8F5088"
     }
   ],
-  "name": "Inputs: Dropdown/Menu/Background",
+  "name": "Inputs: Dropdown Selector/Menu/Background",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

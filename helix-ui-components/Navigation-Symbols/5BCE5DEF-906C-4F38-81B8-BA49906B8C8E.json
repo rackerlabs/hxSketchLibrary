@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5BCE5DEF-906C-4F38-81B8-BA49906B8C8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4FCED987-28CA-44EA-A310-6384E03FD3D0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "01AB1FE8-D4B0-4772-95CA-5CD6B881FAED",
+    "height": 48,
+    "width": 236,
+    "x": -893,
+    "y": -856.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Typography / Section Title",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EBCAE6E8-5013-4871-93A6-3FDEAB57D7C8_stringValue",
+      "value": "Eyebrow"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "87267A60-37DE-431F-891E-39FD74BDE387",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B5EA6DB0-121A-42ED-9E9B-F61C5B6A3A80",
+  "verticalSpacing": 0
+}

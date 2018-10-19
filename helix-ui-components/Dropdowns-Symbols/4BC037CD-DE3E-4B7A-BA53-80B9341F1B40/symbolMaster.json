@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 4441,
+  "changeIdentifier": 4442,
   "clippingMaskMode": 0,
   "do_objectID": "4BC037CD-DE3E-4B7A-BA53-80B9341F1B40",
   "exportOptions": {
@@ -73,7 +73,7 @@
       "id": "48ECD897-3654-47C2-815C-27276B87DFFC"
     }
   ],
-  "name": "Inputs: Dropdown/Menu/Group 3",
+  "name": "Inputs: Dropdown Selector/Menu/Group 3",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

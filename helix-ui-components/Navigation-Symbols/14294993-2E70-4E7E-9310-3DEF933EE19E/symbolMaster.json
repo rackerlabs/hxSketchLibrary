@@ -1,0 +1,92 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2F5165A6-4A4A-43F0-B12C-3C313AD8613A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2419,
+  "clippingMaskMode": 0,
+  "do_objectID": "14294993-2E70-4E7E-9310-3DEF933EE19E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CF233F47-CBBB-4FF3-90C4-FF7CFD7BDF1D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "69BD5C4B-FF87-414E-83D8-24B4BC670864",
+    "height": 65,
+    "width": 164,
+    "x": -394,
+    "y": 806
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EF06F2AE-A75E-4BD2-A910-8AFA69AC708D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A21EB340-2757-4EF2-A804-08D6DF4CA5A7"
+    },
+    {
+      "class": "text",
+      "id": "28A2EFF4-3CD8-492F-A03C-FE86809BA821"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BAE97575-7AD8-4196-BC38-1BF40385A42B"
+    }
+  ],
+  "name": "_parts/Top-Nav/Item-disabled-hover",
+  "nameIsFixed": true,
+  "originalObjectID": "E3A29B71-8041-4774-A031-0B1662432798",
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4344F171-508D-498E-B842-8395072AD9A2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "94252176-781D-4EBF-A2C6-90842306DB32",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "827673D0-30AB-4F9D-AAE6-FC04EFDEAFA7",
+    "guides": [
+    ]
+  }
+}

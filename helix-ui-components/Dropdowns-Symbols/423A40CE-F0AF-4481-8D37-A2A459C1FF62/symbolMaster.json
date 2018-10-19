@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 275,
+  "changeIdentifier": 276,
   "clippingMaskMode": 0,
   "do_objectID": "423A40CE-F0AF-4481-8D37-A2A459C1FF62",
   "exportOptions": {
@@ -29,7 +29,7 @@
     "y": -298
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -57,7 +57,7 @@
       "id": "A298BD07-96C9-48FC-AD1D-F14BFAC1FA81"
     }
   ],
-  "name": "Inputs: Dropdown / Input / Group w Label",
+  "name": "Inputs: Dropdown Selector / Input / Group w Label",
   "nameIsFixed": true,
   "resizesContent": true,
   "resizingConstraint": 63,

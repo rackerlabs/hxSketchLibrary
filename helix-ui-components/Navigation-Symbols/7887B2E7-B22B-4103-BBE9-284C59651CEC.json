@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7887B2E7-B22B-4103-BBE9-284C59651CEC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "115F6760-70C2-4D62-B847-06C7CBC227F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BE29CEBB-8084-41A7-82E4-14B283288669",
+    "height": 48,
+    "width": 236,
+    "x": -893,
+    "y": -394.9296875
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Typography / Section Title Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EBCAE6E8-5013-4871-93A6-3FDEAB57D7C8_stringValue",
+      "value": "Footer"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7449D4D4-40B0-44EB-B52E-1045ECDDFECD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B5EA6DB0-121A-42ED-9E9B-F61C5B6A3A80",
+  "verticalSpacing": 0
+}
