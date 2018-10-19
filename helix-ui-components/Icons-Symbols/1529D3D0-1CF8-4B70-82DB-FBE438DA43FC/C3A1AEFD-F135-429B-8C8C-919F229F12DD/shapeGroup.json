@@ -69,6 +69,7 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 11.18514472965592,
+      "saturation": 1,
       "type": 0
     },
     "endMarkerType": 0,

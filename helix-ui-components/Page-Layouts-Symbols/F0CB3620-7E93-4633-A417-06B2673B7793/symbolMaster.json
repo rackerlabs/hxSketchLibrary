@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 2781,
+  "clippingMaskMode": 0,
   "do_objectID": "F0CB3620-7E93-4633-A417-06B2673B7793",
   "exportOptions": {
     "_class": "exportOptions",
@@ -29,6 +30,7 @@
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,59 +49,59 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "8AF09FBD-AE26-4F0C-A934-9F05B6F6BDEB"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "C97F5CCD-4A2D-4A97-91FA-1AE3FADFDE22"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "81A653C6-95EF-4A7D-A998-D73302A8E939"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "FF2284BB-60A1-4F94-AE88-A7091EB5ACEA"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "68D89499-81DC-4764-AC7B-8B1A3DB9AC39"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "EEC1AFAB-4E47-45E4-903F-89A3D4A2ECF6"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "EC4F26A2-425A-498B-9348-65515472D83C"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "9DE31A36-2B97-4B8C-AACE-066348AEE85D"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "4B887377-239E-4CE5-9DAE-6467154B0B05"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "94554B8F-18DB-4598-807B-9236811FD563"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "AE2CE0F9-8111-4AD3-854D-713ADDD544E2"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "3D3081EB-5F5B-450E-9A03-B1B397151267"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "428DE318-C383-44D7-9938-42D3BFA85514"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "67DC7B7C-972A-4D59-A141-E37AD886CE63"
     }
   ],

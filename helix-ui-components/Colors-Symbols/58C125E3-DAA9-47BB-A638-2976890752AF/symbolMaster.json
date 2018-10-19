@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 425,
+  "clippingMaskMode": 0,
   "do_objectID": "58C125E3-DAA9-47BB-A638-2976890752AF",
   "exportOptions": {
     "_class": "exportOptions",
@@ -29,6 +30,7 @@
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,7 +49,7 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "5770612F-46BB-4BD6-9FC5-B0DA1B041D3B"
     }
   ],

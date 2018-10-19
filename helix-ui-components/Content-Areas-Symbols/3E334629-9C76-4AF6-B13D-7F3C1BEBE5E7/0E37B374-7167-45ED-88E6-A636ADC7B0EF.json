@@ -16,6 +16,7 @@
           "ligature": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
+            "alignment": 2,
             "maximumLineHeight": 14,
             "minimumLineHeight": 14
           }
@@ -28,6 +29,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "0E37B374-7167-45ED-88E6-A636ADC7B0EF",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -43,11 +45,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 14,
-    "width": 147,
+    "width": 74,
     "x": 12,
     "y": 11
   },
   "glyphBounds": "{{0, 1}, {73, 12}}",
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -57,7 +60,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Title",
   "nameIsFixed": true,
-  "resizingConstraint": 27,
+  "resizingConstraint": 10,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -97,6 +100,7 @@
         "ligature": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
+          "alignment": 2,
           "maximumLineHeight": 14,
           "minimumLineHeight": 14
         }
@@ -105,5 +109,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }

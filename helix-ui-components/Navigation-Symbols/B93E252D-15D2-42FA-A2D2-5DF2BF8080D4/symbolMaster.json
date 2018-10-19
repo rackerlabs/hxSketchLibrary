@@ -9,6 +9,7 @@
   },
   "booleanOperation": 0,
   "changeIdentifier": 222,
+  "clippingMaskMode": 0,
   "do_objectID": "B93E252D-15D2-42FA-A2D2-5DF2BF8080D4",
   "exportOptions": {
     "_class": "exportOptions",
@@ -29,6 +30,7 @@
   },
   "hasBackgroundColor": false,
   "hasClickThrough": false,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,

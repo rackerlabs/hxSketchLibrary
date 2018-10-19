@@ -2,6 +2,7 @@
   "_class": "bitmap",
   "booleanOperation": 0,
   "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
   "do_objectID": "A455E53A-127B-4C0A-8BF2-64ADC857462F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,6 +22,7 @@
     "x": 71,
     "y": 288
   },
+  "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
     "_ref": "images/56dd473ecd2e07b7c191387fb5dddbf8c2bc9212.png",
@@ -47,6 +49,7 @@
       "isEnabled": false,
       "motionAngle": 0,
       "radius": 2.5,
+      "saturation": 1,
       "type": 0
     },
     "endMarkerType": 0,
