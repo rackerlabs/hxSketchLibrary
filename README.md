@@ -1,3 +1,8 @@
+**WARNING: This repo has been deprecated in favor of other tools. Please reach out to the Helix team at helix-team@rackspace.com.**
+
+
+------
+
 # hxSketchLibrary
 
 This repo contains libraries for use within [Sketch](https://www.sketchapp.com/) to design mockups using components in the [Helix Design System ](https://github.com/rackerlabs/helix-ui). 
